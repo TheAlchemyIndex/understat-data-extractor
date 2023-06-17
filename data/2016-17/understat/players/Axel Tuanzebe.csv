@@ -1,0 +1,5 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2017-05-21,0.016571899875998497,1,0,0.23243699967861176,0.05508879944682121,2,Crystal Palace,0.016571899875998497,125308,0,Axel Tuanzebe,2016,0,90,MC,3516,1,Manchester United,0.23243699967861176,0
+2017-05-17,0.023749899119138718,0,0,0.03909730166196823,0,0,Manchester United,0.023749899119138718,132965,0,Axel Tuanzebe,2016,0,65,DMC,3412,1,Southampton,0.01534739974886179,0
+2017-05-14,0,0,0,0,0,2,Manchester United,0,133895,0,Axel Tuanzebe,2016,1,62,DMC,3507,0,Tottenham,0,0
+2017-05-07,0,0,0,0,0,2,Manchester United,0,134691,0,Axel Tuanzebe,2016,0,90,DR,3490,0,Arsenal,0,0

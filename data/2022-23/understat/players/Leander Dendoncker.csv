@@ -1,0 +1,25 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-20,0,0,0,0,0,1,Aston Villa,0,598167,0,Leander Dendoncker,2022,1,1,Sub,18565,0,Liverpool,0,0
+2023-04-30,0,0,0,0.04403287172317505,0,1,Aston Villa,0,592873,0,Leander Dendoncker,2022,0,66,DMC,18540,0,Manchester United,0.04403287172317505,0
+2023-04-25,0,0,0,0.3709951341152191,0,1,Fulham,0,591446,0,Leander Dendoncker,2022,0,90,DMC,18528,0,Aston Villa,0.3709951341152191,0
+2023-04-22,0,0,0,0.06697338819503784,0,1,Aston Villa,0,590190,0,Leander Dendoncker,2022,1,69,DMC,18514,0,Brentford,0.06697338819503784,0
+2023-04-15,0.018518799915909767,0,0,0.618520975112915,0,3,Newcastle United,0.018518799915909767,588120,0,Leander Dendoncker,2022,0,90,DMC,18502,1,Aston Villa,0.6000019907951355,0
+2023-04-08,0,0,0,0,0,2,Nottingham Forest,0,586758,0,Leander Dendoncker,2022,0,12,Sub,18492,0,Aston Villa,0,0
+2023-04-01,0,0,0,0,0,0,Aston Villa,0,584945,0,Leander Dendoncker,2022,2,1,Sub,18485,0,Chelsea,0,0
+2023-02-18,0,0,0,0.034934401512145996,0,2,Arsenal,0,576112,0,Leander Dendoncker,2022,4,20,Sub,18432,0,Aston Villa,0.034934401512145996,0
+2023-02-04,0,0,0,0,0,2,Leicester,0,573348,0,Leander Dendoncker,2022,4,5,Sub,18412,0,Aston Villa,0,0
+2023-01-21,0,0,0,0,0,0,Aston Villa,0,570229,0,Leander Dendoncker,2022,1,1,Sub,18410,0,Southampton,0,0
+2023-01-04,0,3,0,0.4627059996128082,0.10050100088119507,1,Wolverhampton Wanderers,0,567518,0,Leander Dendoncker,2022,1,21,Sub,18383,0,Aston Villa,0.3782559931278229,0
+2022-12-26,0,0,0,0,0,1,Liverpool,0,565608,0,Leander Dendoncker,2022,3,1,Sub,18363,0,Aston Villa,0,0
+2022-11-13,0,0,0,0,0,1,Aston Villa,0,565018,0,Leander Dendoncker,2022,2,4,Sub,18353,0,Brighton,0,0
+2022-11-06,0,0,0,0,0,3,Manchester United,0,562534,0,Leander Dendoncker,2022,1,90,DMC,18342,0,Aston Villa,0,0
+2022-10-29,0,0,0,0.03824390098452568,0,4,Aston Villa,0,560092,0,Leander Dendoncker,2022,0,79,DMC,18341,0,Newcastle United,0.03824390098452568,0
+2022-10-23,0.04400160163640976,1,0,0.6447769999504089,0.521710991859436,4,Brentford,0.04400160163640976,558784,0,Leander Dendoncker,2022,0,66,DMC,18322,1,Aston Villa,0.6447769999504089,0
+2022-10-20,0,0,0,0,0,3,Aston Villa,0,557761,0,Leander Dendoncker,2022,0,20,Sub,18316,0,Fulham,0,0
+2022-10-16,0,1,0,0.014112699776887894,0.014112699776887894,0,Chelsea,0,556559,0,Leander Dendoncker,2022,2,10,Sub,18302,0,Aston Villa,0,0
+2022-10-10,0,0,0,0,0,1,Aston Villa,0,555439,0,Leander Dendoncker,2022,1,11,Sub,18300,0,Nottingham Forest,0,0
+2022-09-16,0,0,0,0,0,1,Southampton,0,550345,0,Leander Dendoncker,2022,0,20,Sub,18272,0,Aston Villa,0,0
+2022-08-28,0,0,0,0,0,1,Newcastle United,0,545089,0,Leander Dendoncker,2022,1,1,Sub,18240,0,Wolverhampton Wanderers,0,0
+2022-08-20,0,1,0,0.04099240154027939,0.015176399610936642,1,Wolverhampton Wanderers,0,542146,0,Leander Dendoncker,2022,0,30,Sub,18222,0,Tottenham,0.025815999135375023,0
+2022-08-13,0,0,0,0.4195390045642853,0,0,Fulham,0,540620,0,Leander Dendoncker,2022,0,90,DMC,18216,0,Wolverhampton Wanderers,0.4195390045642853,0
+2022-08-06,0.5236700177192688,1,0,0.6226369738578796,0.013587200082838535,2,Wolverhampton Wanderers,0.5236700177192688,539445,0,Leander Dendoncker,2022,1,90,DMC,18205,3,Leeds,0.17354799807071686,0

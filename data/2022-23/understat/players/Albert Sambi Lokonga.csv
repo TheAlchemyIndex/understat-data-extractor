@@ -1,0 +1,16 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-04-25,0.13070455193519592,0,0,0.13070455193519592,0,2,Crystal Palace,0.13070455193519592,591431,0,Albert Sambi Lokonga,2022,0,68,MC,18527,2,Wolverhampton Wanderers,0,0
+2023-04-15,0,0,0,0,0,0,Crystal Palace,0,588447,0,Albert Sambi Lokonga,2022,2,4,Sub,18508,0,Southampton,0,0
+2023-03-15,0,0,0,0,0,1,Crystal Palace,0,582535,0,Albert Sambi Lokonga,2022,0,90,MC,18276,0,Brighton,0,0
+2023-03-11,0,0,0,0,0,0,Manchester City,0,581446,0,Albert Sambi Lokonga,2022,1,90,DMC,18463,0,Crystal Palace,0,0
+2023-03-04,0,1,0,0.02838589996099472,0.02838589996099472,1,Crystal Palace,0,579501,0,Albert Sambi Lokonga,2022,0,83,DMC,18453,0,Aston Villa,0.02838589996099472,0
+2023-02-25,0,0,0,0.057172201573848724,0,0,Liverpool,0,578110,0,Albert Sambi Lokonga,2022,0,90,DMC,18443,0,Crystal Palace,0.057172201573848724,0
+2023-02-18,0,0,0,0.08877749741077423,0,1,Crystal Palace,0,576466,0,Albert Sambi Lokonga,2022,1,65,MC,18433,0,Brentford,0.08877749741077423,0
+2023-02-11,0,0,0,0,0,1,Brighton,0,574853,0,Albert Sambi Lokonga,2022,1,32,Sub,18424,0,Crystal Palace,0,0
+2023-02-04,0,0,0,0.08321020007133484,0,2,Crystal Palace,0,573303,0,Albert Sambi Lokonga,2022,1,16,Sub,18417,0,Manchester United,0.08321020007133484,0
+2022-10-01,0,0,0,0.01735050044953823,0,3,Tottenham,0,552000,0,Albert Sambi Lokonga,2022,1,15,Sub,18282,0,Arsenal,0.01735050044953823,0
+2022-09-18,0,0,0,0,0,0,Arsenal,0,551063,0,Albert Sambi Lokonga,2022,3,10,Sub,18280,0,Brentford,0,0
+2022-09-04,0,1,0,0.07941850274801254,0.017292600125074387,3,Arsenal,0,548109,0,Albert Sambi Lokonga,2022,1,77,DMC,18261,0,Manchester United,0.06212589889764786,0
+2022-08-31,0,0,0,0.2630099952220917,0,2,Aston Villa,0,546258,0,Albert Sambi Lokonga,2022,1,90,DMC,18247,0,Arsenal,0.2630099952220917,0
+2022-08-20,0,0,0,0,0,0,Arsenal,0,542573,0,Albert Sambi Lokonga,2022,3,1,Sub,18227,0,Bournemouth,0,0
+2022-08-05,0,0,0,0,0,0,Arsenal,0,539148,0,Albert Sambi Lokonga,2022,2,1,Sub,18202,0,Crystal Palace,0,0

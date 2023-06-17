@@ -1,0 +1,4 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2021-01-13,0,0,0,0,0,1,Brighton,0,441920,0,Bernardo,2020,0,90,DML,14614,0,Manchester City,0,0
+2020-12-29,0.31766799092292786,2,0,0.2732999920845032,0.17365099489688873,0,Arsenal,0.31766799092292786,438383,0,Bernardo,2020,1,90,ML,14585,4,Brighton,0.09216470271348953,0
+2020-11-01,0,0,0,0,0,2,Brighton,0,425535,0,Bernardo,2020,1,21,Sub,14503,0,Tottenham,0,0

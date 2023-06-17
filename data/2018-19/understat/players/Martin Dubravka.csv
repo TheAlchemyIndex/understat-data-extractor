@@ -1,0 +1,39 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2019-05-12,0,0,0,0.23163099586963654,0,0,Newcastle United,0,332299,0,Martin Dubravka,2018,4,90,GK,9573,0,Fulham,0.23163099586963654,0
+2019-05-04,0,0,0,0,0,2,Liverpool,0,330565,0,Martin Dubravka,2018,3,90,GK,9559,0,Newcastle United,0,0
+2019-04-27,0,0,0,0,0,1,Newcastle United,0,328448,0,Martin Dubravka,2018,1,90,GK,9556,0,Brighton,0,0
+2019-04-20,0,0,0,0,0,3,Southampton,0,326200,0,Martin Dubravka,2018,1,90,GK,9539,0,Newcastle United,0,0
+2019-04-12,0,0,0,0,0,0,Newcastle United,0,323885,0,Martin Dubravka,2018,1,90,GK,9532,0,Leicester,0,0
+2019-04-06,0,0,0,0.12684699892997742,0,0,Crystal Palace,0,322542,0,Martin Dubravka,2018,1,90,GK,9521,0,Newcastle United,0.12684699892997742,0
+2019-04-01,0,0,0,0,0,2,Newcastle United,0,321477,0,Martin Dubravka,2018,0,90,GK,9507,0,Arsenal,0,0
+2019-03-16,0,0,0,0,0,2,Newcastle United,0,316406,0,Martin Dubravka,2018,2,90,GK,9506,0,Bournemouth,0,0
+2019-03-09,0,0,0,0.2920829951763153,0,3,Everton,0,314539,0,Martin Dubravka,2018,2,90,GK,9488,0,Newcastle United,0.2920829951763153,0
+2019-03-02,0,0,0,0,0,2,Newcastle United,0,305389,0,Martin Dubravka,2018,0,90,GK,9478,0,West Ham,0,0
+2019-02-26,0,0,0,0.08446849882602692,0,2,Burnley,0,305016,0,Martin Dubravka,2018,0,90,GK,9473,0,Newcastle United,0.08446849882602692,0
+2019-02-23,0,0,0,0.2548289895057678,0,2,Huddersfield,0,304820,0,Martin Dubravka,2018,0,90,GK,9458,0,Newcastle United,0.2548289895057678,0
+2019-02-11,0,0,0,0,0,1,Newcastle United,0,304698,0,Martin Dubravka,2018,1,90,GK,9450,0,Wolverhampton Wanderers,0,0
+2019-02-02,0,0,0,0,0,1,Newcastle United,0,304148,0,Martin Dubravka,2018,0,90,GK,9438,0,Tottenham,0,0
+2019-01-29,0,0,0,0,0,2,Manchester City,0,303997,0,Martin Dubravka,2018,1,90,GK,9434,0,Newcastle United,0,0
+2019-01-19,0,0,0,0.39635100960731506,0,3,Cardiff,0,303753,0,Martin Dubravka,2018,0,90,GK,9420,0,Newcastle United,0.39635100960731506,0
+2019-01-12,0,0,0,0.042640700936317444,0,2,Newcastle United,0,303495,0,Martin Dubravka,2018,1,90,GK,9413,0,Chelsea,0.042640700936317444,0
+2019-01-02,0,0,0,0.17082099616527557,0,0,Manchester United,0,303261,0,Martin Dubravka,2018,2,90,GK,9399,0,Newcastle United,0.17082099616527557,0
+2018-12-29,0,0,0,0,0,1,Newcastle United,0,291357,0,Martin Dubravka,2018,1,90,GK,9387,0,Watford,0,0
+2018-12-26,0,0,0,0,0,4,Newcastle United,0,279179,0,Martin Dubravka,2018,0,90,GK,9381,0,Liverpool,0,0
+2018-12-22,0,0,0,0,0,0,Fulham,0,278809,0,Martin Dubravka,2018,0,90,GK,9369,0,Newcastle United,0,0
+2018-12-15,0,0,0,0.4251430034637451,0,0,Newcastle United,0,278572,0,Martin Dubravka,2018,1,90,GK,9363,0,Huddersfield,0.4251430034637451,0
+2018-12-09,0,0,0,0.06109879910945892,0,1,Wolverhampton Wanderers,0,278391,0,Martin Dubravka,2018,2,90,GK,9348,0,Newcastle United,0.06109879910945892,0
+2018-12-05,0,0,0,0.04550600051879883,0,1,Newcastle United,0,278099,0,Martin Dubravka,2018,1,90,GK,9345,0,Everton,0.04550600051879883,0
+2018-12-01,0,0,0,0.009949830360710621,0,0,West Ham,0,277667,0,Martin Dubravka,2018,3,90,GK,9328,0,Newcastle United,0.009949830360710621,0
+2018-11-26,0,0,0,0,0,1,Newcastle United,0,277627,0,Martin Dubravka,2018,2,90,GK,9326,0,Burnley,0,0
+2018-11-10,0,0,0,0.5771039724349976,0,2,Bournemouth,0,277142,0,Martin Dubravka,2018,1,90,GK,9309,0,Newcastle United,0.5771039724349976,0
+2018-11-03,0,0,0,0,0,1,Watford,0,276866,0,Martin Dubravka,2018,0,90,GK,9299,0,Newcastle United,0,0
+2018-10-27,0,0,0,0.12764999270439148,0,0,Newcastle United,0,276656,0,Martin Dubravka,2018,0,90,GK,9292,0,Southampton,0.12764999270439148,0
+2018-10-20,0,0,0,0.10111299902200699,0,0,Brighton,0,276341,0,Martin Dubravka,2018,1,90,GK,9280,0,Newcastle United,0.10111299902200699,0
+2018-10-06,0,0,0,0.0765203982591629,0,3,Newcastle United,0,276162,0,Martin Dubravka,2018,2,90,GK,9273,0,Manchester United,0.0765203982591629,0
+2018-09-29,0,0,0,0,0,0,Leicester,0,260511,0,Martin Dubravka,2018,2,90,GK,9259,0,Newcastle United,0,0
+2018-09-22,0,0,0,0.010441400110721588,0,0,Newcastle United,0,260166,0,Martin Dubravka,2018,0,90,GK,9251,0,Crystal Palace,0.010441400110721588,0
+2018-09-15,0,0,0,0.27758800983428955,0,1,Arsenal,0,259905,0,Martin Dubravka,2018,2,90,GK,9238,0,Newcastle United,0.27758800983428955,0
+2018-09-01,0,0,0,0,0,2,Newcastle United,0,259698,0,Martin Dubravka,2018,1,90,GK,9234,0,Manchester City,0,0
+2018-08-26,0,0,0,0,0,1,Chelsea,0,259380,0,Martin Dubravka,2018,2,90,GK,9225,0,Newcastle United,0,0
+2018-08-18,0,0,0,0.3678770065307617,0,0,Newcastle United,0,259003,0,Martin Dubravka,2018,0,90,GK,9207,0,Cardiff,0.3678770065307617,0
+2018-08-11,0,0,0,0.012054899707436562,0,1,Tottenham,0,258821,0,Martin Dubravka,2018,2,90,GK,9198,0,Newcastle United,0.012054899707436562,0

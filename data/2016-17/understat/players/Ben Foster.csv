@@ -1,0 +1,39 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2017-05-21,0,1,0,0.048930298537015915,0.07153379917144775,2,West Bromwich Albion,0,125371,0,Ben Foster,2016,1,90,GK,3518,0,Swansea,0.048930298537015915,0
+2017-05-16,0,0,0,0,0,3,West Bromwich Albion,0,134280,0,Ben Foster,2016,1,90,GK,3477,0,Manchester City,0,0
+2017-05-12,0,0,0,0,0,0,Chelsea,0,133987,0,Ben Foster,2016,1,90,GK,3508,0,West Bromwich Albion,0,0
+2017-05-06,0,0,0,0,0,2,West Bromwich Albion,0,134800,0,Ben Foster,2016,2,90,GK,3492,0,Burnley,0,0
+2017-04-29,0,0,0,0,0,0,Leicester,0,134621,0,Ben Foster,2016,1,90,GK,3489,0,West Bromwich Albion,0,0
+2017-04-16,0,0,0,0,0,0,Liverpool,0,135034,0,Ben Foster,2016,1,90,GK,3469,0,West Bromwich Albion,0,0
+2017-04-08,0,0,0,0.01954610086977482,0,0,Southampton,0,133903,0,Ben Foster,2016,1,90,GK,3454,0,West Bromwich Albion,0.01954610086977482,0
+2017-04-04,0,0,0,0,0,2,West Bromwich Albion,0,132549,0,Ben Foster,2016,0,90,GK,3443,0,Watford,0,0
+2017-04-01,0,0,0,0,0,0,West Bromwich Albion,0,132878,0,Ben Foster,2016,0,90,GK,3436,0,Manchester United,0,0
+2017-03-18,0,0,0,0,0,3,Arsenal,0,133931,0,Ben Foster,2016,1,90,GK,3420,0,West Bromwich Albion,0,0
+2017-03-11,0,0,0,0,0,3,West Bromwich Albion,0,132577,0,Ben Foster,2016,0,90,GK,3416,0,Everton,0,0
+2017-03-04,0,0,0,0,0,0,Crystal Palace,0,133546,0,Ben Foster,2016,2,90,GK,3408,0,West Bromwich Albion,0,0
+2017-02-25,0,0,0,0.15713700652122498,0,2,Bournemouth,0,132096,0,Ben Foster,2016,1,90,GK,3395,0,West Bromwich Albion,0.15713700652122498,0
+2017-02-11,0,0,0,0,0,2,West Bromwich Albion,0,131360,0,Ben Foster,2016,2,90,GK,3385,0,West Ham,0,0
+2017-02-04,0,0,0,0.08819829672574997,0,1,Stoke,0,130271,0,Ben Foster,2016,0,90,GK,3375,0,West Bromwich Albion,0.08819829672574997,0
+2017-01-31,0,0,0,0,0,1,West Bromwich Albion,0,132218,0,Ben Foster,2016,1,90,GK,3363,0,Middlesbrough,0,0
+2017-01-21,0,0,0,0.15203499794006348,0,2,Sunderland,0,132014,0,Ben Foster,2016,0,90,GK,3355,0,West Bromwich Albion,0.15203499794006348,0
+2017-01-14,0,0,0,0,0,4,West Bromwich Albion,0,130971,0,Ben Foster,2016,0,90,GK,3340,0,Tottenham,0,0
+2017-01-02,0,0,0,0,0,3,Hull,0,129971,0,Ben Foster,2016,1,90,GK,3333,0,West Bromwich Albion,0,0
+2016-12-31,0,0,0,0,0,1,West Bromwich Albion,0,130776,0,Ben Foster,2016,2,90,GK,3160,0,Southampton,0,0
+2016-12-26,0,0,0,0,0,1,West Bromwich Albion,0,129046,0,Ben Foster,2016,0,90,GK,3149,0,Arsenal,0,0
+2016-12-17,0,0,0,0,0,0,Manchester United,0,128865,0,Ben Foster,2016,2,90,GK,3140,0,West Bromwich Albion,0,0
+2016-12-15,0,0,0,0,0,3,Swansea,0,131123,0,Ben Foster,2016,1,90,GK,3131,0,West Bromwich Albion,0,0
+2016-12-11,0,0,0,0.01636599935591221,0,1,West Bromwich Albion,0,129711,0,Ben Foster,2016,0,90,GK,3121,0,Chelsea,0.01636599935591221,0
+2016-12-03,0,0,0,0,0,3,Watford,0,128977,0,Ben Foster,2016,1,90,GK,3110,0,West Bromwich Albion,0,0
+2016-11-26,0,0,0,0,0,1,West Bromwich Albion,0,129265,0,Ben Foster,2016,1,90,GK,2708,0,Hull,0,0
+2016-11-22,0,0,0,0.024639800190925598,0,4,Burnley,0,128921,0,Ben Foster,2016,0,90,GK,2706,0,West Bromwich Albion,0.024639800190925598,0
+2016-11-06,0,0,0,0,0,1,West Bromwich Albion,0,128550,0,Ben Foster,2016,2,90,GK,2696,0,Leicester,0,0
+2016-10-29,0,0,0,0.05761450156569481,0,0,Manchester City,0,127874,0,Ben Foster,2016,4,90,GK,2680,0,West Bromwich Albion,0.05761450156569481,0
+2016-10-22,0,0,0,0,0,2,West Bromwich Albion,0,127307,0,Ben Foster,2016,1,90,GK,548,0,Liverpool,0,0
+2016-10-15,0,0,0,0,0,1,Tottenham,0,126940,0,Ben Foster,2016,1,90,GK,536,0,West Bromwich Albion,0,0
+2016-10-01,0,0,0,0.08661609888076782,0,1,West Bromwich Albion,0,127279,0,Ben Foster,2016,1,90,GK,523,0,Sunderland,0.08661609888076782,0
+2016-09-24,0,0,0,0,0,1,West Bromwich Albion,0,126703,0,Ben Foster,2016,1,90,GK,513,0,Stoke,0,0
+2016-09-17,0,0,0,0,0,4,West Ham,0,126494,0,Ben Foster,2016,2,90,GK,505,0,West Bromwich Albion,0,0
+2016-09-10,0,0,0,0.01666790060698986,0,1,West Bromwich Albion,0,126009,0,Ben Foster,2016,0,90,GK,495,0,Bournemouth,0.01666790060698986,0
+2016-08-28,0,0,0,0,0,0,Middlesbrough,0,125940,0,Ben Foster,2016,0,90,GK,489,0,West Bromwich Albion,0,0
+2016-08-20,0.03219220042228699,0,0,0,0,1,Everton,0.03219220042228699,125633,0,Ben Foster,2016,2,90,GK,477,1,West Bromwich Albion,0,0
+2016-08-13,0,1,0,0,0.020293299108743668,0,West Bromwich Albion,0,124991,0,Ben Foster,2016,1,90,GK,462,0,Crystal Palace,0,0

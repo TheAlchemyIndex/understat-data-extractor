@@ -1,0 +1,17 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-05-28,0.014614135026931763,0,0,0.40930065512657166,0,2,Fulham,0.014614135026931763,601062,0,Harry Maguire,2022,1,90,DC,18580,1,Manchester United,0.40930065512657166,0
+2023-05-13,0,0,0,0,0,2,Wolverhampton Wanderers,0,596436,0,Harry Maguire,2022,0,7,Sub,18560,0,Manchester United,0,0
+2023-04-30,0,0,0,0,0,1,Aston Villa,0,592867,0,Harry Maguire,2022,0,2,Sub,18540,0,Manchester United,0,0
+2023-04-16,0,0,0,0.95523601770401,0,0,Manchester United,0,589301,0,Harry Maguire,2022,2,90,DC,18507,0,Nottingham Forest,0.95523601770401,0
+2023-04-08,0,0,0,0.8984190225601196,0,2,Everton,0,586378,0,Harry Maguire,2022,0,90,DC,18498,0,Manchester United,0.8984190225601196,0
+2023-03-12,0,0,0,0,0,0,Southampton,0,581790,0,Harry Maguire,2022,0,1,Sub,18468,0,Manchester United,0,0
+2023-02-12,0.055050499737262726,1,0,0.3558419942855835,0.36291199922561646,0,Manchester United,0.055050499737262726,575412,0,Harry Maguire,2022,2,90,DC,18426,1,Leeds,0.3558419942855835,0
+2023-02-04,0,0,0,0,0,2,Crystal Palace,0,573291,0,Harry Maguire,2022,1,1,Sub,18417,0,Manchester United,0,0
+2023-01-14,0,0,0,0,0,2,Manchester City,0,568667,0,Harry Maguire,2022,1,1,Sub,18397,0,Manchester United,0,0
+2023-01-03,0,0,0,0.035613201558589935,0,3,Bournemouth,0,567078,0,Harry Maguire,2022,0,90,DC,18390,0,Manchester United,0.035613201558589935,0
+2022-12-31,0,0,0,0,0,0,Manchester United,0,566349,0,Harry Maguire,2022,1,1,Sub,18381,0,Wolverhampton Wanderers,0,0
+2022-12-27,0,0,0,0.137937992811203,0,3,Nottingham Forest,0,565698,0,Harry Maguire,2022,0,10,Sub,18370,0,Manchester United,0.137937992811203,0
+2022-10-30,0,0,0,0.38143500685691833,0,1,West Ham,0,560997,0,Harry Maguire,2022,0,90,DC,18340,0,Manchester United,0.38143500685691833,0
+2022-09-04,0,0,0,0,0,3,Arsenal,0,548103,0,Harry Maguire,2022,1,7,Sub,18261,0,Manchester United,0,0
+2022-08-13,0,1,0,0.03279779851436615,0.018320199102163315,4,Manchester United,0,540812,0,Harry Maguire,2022,0,90,DC,18218,0,Brentford,0.03279779851436615,0
+2022-08-07,0.07916619628667831,0,0,0.47822999954223633,0,1,Brighton,0.07916619628667831,539795,0,Harry Maguire,2022,2,90,DC,18209,1,Manchester United,0.47822999954223633,0

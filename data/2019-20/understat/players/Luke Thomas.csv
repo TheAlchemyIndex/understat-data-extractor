@@ -1,0 +1,4 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2020-07-26,0,3,0,0.3801470100879669,0.19961999356746674,0,Manchester United,0,411476,0,Luke Thomas,2019,2,90,DML,12018,0,Leicester,0.2923620045185089,0
+2020-07-19,0,3,0,0.3377149999141693,0.19154100120067596,3,Leicester,0,409803,0,Luke Thomas,2019,0,90,DML,12010,0,Tottenham,0.31438300013542175,0
+2020-07-16,0,3,0,0.6609910130500793,0.23882099986076355,2,Sheffield United,0,409118,1,Luke Thomas,2019,0,90,DML,11998,0,Leicester,0.6609910130500793,0

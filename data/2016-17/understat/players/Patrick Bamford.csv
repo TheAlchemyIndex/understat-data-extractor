@@ -1,0 +1,15 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2017-05-21,0.15388299524784088,0,0,0.46577098965644836,0,3,Middlesbrough,0.15388299524784088,125297,0,Patrick Bamford,2016,0,90,FWR,3515,2,Liverpool,0.3118880093097687,0
+2017-05-13,0.9563159942626953,1,1,0.5891100168228149,0.08816120028495789,1,Southampton,0.9563159942626953,135321,0,Patrick Bamford,2016,2,90,FWR,3504,4,Middlesbrough,0.1215049996972084,1
+2017-05-08,0,0,0,0,0,3,Middlesbrough,0,134869,0,Patrick Bamford,2016,0,32,Sub,3493,0,Chelsea,0,0
+2017-04-08,0,0,0,0,0,0,Burnley,0,133477,0,Patrick Bamford,2016,0,5,Sub,3456,0,Middlesbrough,0,0
+2017-04-05,0,0,0,0,0,4,Middlesbrough,0,133545,0,Patrick Bamford,2016,2,16,Sub,3442,0,Hull,0,0
+2017-02-04,0,0,0,0.31317898631095886,0,1,Middlesbrough,0,130078,0,Patrick Bamford,2016,0,9,Sub,3377,0,Tottenham,0.31317898631095886,0
+2017-01-31,0,0,0,0,0,1,West Bromwich Albion,0,132217,0,Patrick Bamford,2016,1,19,Sub,3363,0,Middlesbrough,0,0
+2017-01-21,0,0,0,0,0,1,West Ham,0,131804,0,Patrick Bamford,2016,3,7,Sub,3351,0,Middlesbrough,0,0
+2017-01-02,0,0,0,0,0,2,Burnley,0,129445,0,Patrick Bamford,2016,1,1,Sub,3332,0,Manchester City,0,0
+2016-12-14,0,0,0,0,0,1,Burnley,0,130927,0,Patrick Bamford,2016,0,1,Sub,3129,0,West Ham,0,0
+2016-10-22,0,0,0,0,0,2,Everton,0,127082,0,Patrick Bamford,2016,1,1,Sub,546,0,Burnley,0,0
+2016-10-16,0,0,0,0,0,3,Burnley,0,126910,0,Patrick Bamford,2016,1,5,Sub,539,0,Southampton,0,0
+2016-09-17,0,0,0,0.05892829969525337,0,3,Burnley,0,126380,0,Patrick Bamford,2016,0,9,Sub,503,0,Leicester,0.05892829969525337,0
+2016-09-10,0.03301059827208519,0,0,0.03301059827208519,0,1,Hull,0.03301059827208519,126035,0,Patrick Bamford,2016,1,9,Sub,496,1,Burnley,0.03301059827208519,0

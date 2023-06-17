@@ -1,0 +1,5 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2020-01-01,0,0,0,0.5087670087814331,0,2,Everton,0,385658,0,Claudio Bravo,2019,1,90,GK,11848,0,Manchester City,0.5087670087814331,0
+2019-12-29,0,0,0,0.04115980118513107,0,2,Sheffield United,0,372919,0,Claudio Bravo,2019,0,90,GK,11837,0,Manchester City,0.04115980118513107,0
+2019-12-27,0,0,0,0.04913569986820221,0,3,Manchester City,0,372668,0,Claudio Bravo,2019,2,77,Sub,11832,0,Wolverhampton Wanderers,0.04913569986820221,0
+2019-11-10,0,0,0,0.10506200045347214,0,3,Manchester City,0,364059,0,Claudio Bravo,2019,1,90,GK,11755,0,Liverpool,0.10506200045347214,0

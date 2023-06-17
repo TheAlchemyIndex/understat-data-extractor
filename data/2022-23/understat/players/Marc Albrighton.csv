@@ -1,0 +1,7 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2023-01-21,0.40400999784469604,1,1,0.5635859966278076,0.05527549982070923,2,Brighton,0.40400999784469604,570187,0,Marc Albrighton,2022,2,56,Sub,18407,1,Leicester,0.15957599878311157,1
+2023-01-14,0,2,0,0.6387529969215393,0.3849959969520569,2,Leicester,0,568797,0,Marc Albrighton,2022,0,69,AMR,18399,0,Nottingham Forest,0.6387529969215393,0
+2023-01-03,0,3,0,0.8900359869003296,0.1309179961681366,0,Fulham,0,567002,0,Marc Albrighton,2022,1,83,Sub,18389,0,Leicester,0.8730149865150452,0
+2022-11-05,0,0,0,0,0,0,Leicester,0,562185,0,Marc Albrighton,2022,2,10,Sub,18344,0,Everton,0,0
+2022-10-23,0.03799470141530037,0,0,0,0,0,Leicester,0.03799470141530037,558897,0,Marc Albrighton,2022,4,10,Sub,18331,1,Wolverhampton Wanderers,0,0
+2022-10-03,0,0,0,0,0,4,Nottingham Forest,0,553613,0,Marc Albrighton,2022,0,4,Sub,18287,0,Leicester,0,0

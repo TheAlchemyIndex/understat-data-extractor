@@ -1,0 +1,17 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2020-03-07,0,0,0,0,0,1,Tottenham,0,387792,0,Aaron Lennon,2019,1,1,Sub,11924,0,Burnley,0,0
+2020-02-22,0,0,0,0,0,3,Bournemouth,0,387218,0,Aaron Lennon,2019,0,7,Sub,11907,0,Burnley,0,0
+2020-01-19,0,0,0,0,0,2,Leicester,0,386237,0,Aaron Lennon,2019,1,1,Sub,11866,0,Burnley,0,0
+2020-01-11,0,0,0,0,0,3,Burnley,0,385920,0,Aaron Lennon,2019,0,90,MR,11858,0,Chelsea,0,0
+2019-12-21,0,0,0,0,0,0,Burnley,0,371451,0,Aaron Lennon,2019,1,22,Sub,11814,0,Bournemouth,0,0
+2019-12-07,0,0,0,0,0,5,Burnley,0,368382,0,Aaron Lennon,2019,0,16,Sub,11800,0,Tottenham,0,0
+2019-12-03,0,1,0,0.0699969008564949,0.0699969008564949,1,Manchester City,0,367474,0,Aaron Lennon,2019,4,90,MR,11784,0,Burnley,0,0
+2019-11-30,0,1,0,0.08801670372486115,0.08801670372486115,0,Crystal Palace,0,366163,0,Aaron Lennon,2019,2,10,Sub,11773,0,Burnley,0,0
+2019-10-19,0,0,0,0,0,2,Burnley,0,357862,0,Aaron Lennon,2019,1,24,Sub,11728,0,Leicester,0,0
+2019-10-05,0,0,0,0,0,1,Everton,0,356175,0,Aaron Lennon,2019,0,4,Sub,11714,0,Burnley,0,0
+2019-09-21,0,0,0,0.09742449969053268,0,2,Norwich,0,352254,0,Aaron Lennon,2019,0,9,Sub,11696,0,Burnley,0.09742449969053268,0
+2019-09-14,0.024231400340795517,0,0,0.024231400340795517,0,1,Burnley,0.024231400340795517,349000,0,Aaron Lennon,2019,1,60,MR,11685,1,Brighton,0,0
+2019-08-31,0,0,0,0.011225899681448936,0,0,Liverpool,0,347683,0,Aaron Lennon,2019,3,90,MR,11680,0,Burnley,0.011225899681448936,0
+2019-08-25,0,0,0,0,0,1,Burnley,0,344700,0,Aaron Lennon,2019,1,22,Sub,11668,0,Wolverhampton Wanderers,0,0
+2019-08-17,0,0,0,0,0,2,Burnley,0,341783,0,Aaron Lennon,2019,1,17,Sub,11653,0,Arsenal,0,0
+2019-08-10,0,0,0,0,0,3,Southampton,0,341246,0,Aaron Lennon,2019,0,3,Sub,11646,0,Burnley,0,0

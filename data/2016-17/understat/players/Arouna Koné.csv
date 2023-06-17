@@ -1,0 +1,7 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2017-05-21,0,0,0,0,0,3,Everton,0,125165,0,Arouna Koné,2016,1,5,Sub,3510,0,Arsenal,0,0
+2017-05-12,0,0,0,0,0,1,Watford,0,135270,0,Arouna Koné,2016,0,1,Sub,3502,0,Everton,0,0
+2017-04-30,0,0,0,0,0,0,Chelsea,0,134386,0,Arouna Koné,2016,3,16,Sub,3481,0,Everton,0,0
+2016-09-12,0.04156940057873726,0,0,0.04156940057873726,0,0,Everton,0.04156940057873726,126189,0,Arouna Koné,2016,3,1,Sub,500,1,Sunderland,0,0
+2016-08-27,0.07205569744110107,0,0,0.09033379703760147,0,1,Stoke,0.07205569744110107,125757,0,Arouna Koné,2016,0,18,Sub,487,2,Everton,0.018278099596500397,0
+2016-08-13,0,1,0,0.022273199632763863,0.022273199632763863,1,Tottenham,0,125017,0,Arouna Koné,2016,1,21,Sub,463,0,Everton,0,0

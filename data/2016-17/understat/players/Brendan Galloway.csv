@@ -1,0 +1,4 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2016-09-17,0,0,0,0,0,4,West Ham,0,126498,0,Brendan Galloway,2016,2,71,DL,505,0,West Bromwich Albion,0,0
+2016-09-10,0,0,0,0.6568300127983093,0,1,West Bromwich Albion,0,126013,0,Brendan Galloway,2016,0,90,DL,495,0,Bournemouth,0.6568300127983093,0
+2016-08-28,0.08444029837846756,1,0,0.2720330059528351,0.07369480282068253,0,Middlesbrough,0.08444029837846756,125944,0,Brendan Galloway,2016,0,90,DL,489,2,West Bromwich Albion,0.1875929981470108,0

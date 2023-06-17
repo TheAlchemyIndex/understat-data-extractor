@@ -1,0 +1,32 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2019-05-05,0,1,0,0.33873701095581055,0.33873701095581055,1,Manchester United,0,330785,1,Jonas Lössl,2018,1,90,GK,9561,0,Huddersfield,0,0
+2019-04-26,0,0,0,0,0,5,Huddersfield,0,328033,0,Jonas Lössl,2018,0,90,GK,9551,0,Liverpool,0,0
+2019-04-20,0,0,0,0.08635099977254868,0,1,Watford,0,326032,0,Jonas Lössl,2018,2,90,GK,9541,0,Huddersfield,0.08635099977254868,0
+2019-03-16,0,1,0,0,0.0261073000729084,4,Huddersfield,0,316380,0,Jonas Lössl,2018,3,90,GK,9498,0,West Ham,0,0
+2019-03-09,0,0,0,0.09304309636354446,0,0,Bournemouth,0,314483,0,Jonas Lössl,2018,2,90,GK,9492,0,Huddersfield,0.09304309636354446,0
+2019-03-02,0,0,0,0,0,1,Huddersfield,0,305333,0,Jonas Lössl,2018,0,90,GK,9485,0,Brighton,0,0
+2019-02-26,0,0,0,0,0,1,Wolverhampton Wanderers,0,304960,0,Jonas Lössl,2018,0,90,GK,9468,0,Huddersfield,0,0
+2019-02-23,0,0,0,0,0,2,Huddersfield,0,304834,0,Jonas Lössl,2018,0,90,GK,9458,0,Newcastle United,0,0
+2019-02-02,0,0,0,0,0,5,Huddersfield,0,304228,0,Jonas Lössl,2018,0,90,GK,9443,0,Chelsea,0,0
+2019-01-29,0,0,0,0,0,0,Everton,0,303916,0,Jonas Lössl,2018,1,90,GK,9428,0,Huddersfield,0,0
+2019-01-20,0,0,0,0,0,0,Manchester City,0,303807,0,Jonas Lössl,2018,3,90,GK,9423,0,Huddersfield,0,0
+2019-01-12,0,0,0,0.014593799598515034,0,0,Huddersfield,0,303440,0,Jonas Lössl,2018,0,90,GK,9414,0,Cardiff,0.014593799598515034,0
+2019-01-02,0,0,0,0,0,1,Burnley,0,303206,0,Jonas Lössl,2018,2,90,GK,9401,0,Huddersfield,0,0
+2018-12-29,0,0,0,0.014028999954462051,0,1,Huddersfield,0,291438,0,Jonas Lössl,2018,0,90,GK,9393,0,Fulham,0.014028999954462051,0
+2018-12-26,0,0,0,0,0,3,Huddersfield,0,279071,0,Jonas Lössl,2018,1,90,GK,9380,0,Manchester United,0,0
+2018-12-22,0,0,0,0,0,1,Southampton,0,278862,0,Jonas Lössl,2018,3,90,GK,9371,0,Huddersfield,0,0
+2018-12-15,0,0,0,0,0,0,Newcastle United,0,278558,0,Jonas Lössl,2018,1,90,GK,9363,0,Huddersfield,0,0
+2018-12-08,0,0,0,0,0,1,Huddersfield,0,278321,0,Jonas Lössl,2018,0,90,GK,9356,0,Arsenal,0,0
+2018-12-04,0,0,0,0.34659498929977417,0,2,Huddersfield,0,279151,0,Jonas Lössl,2018,1,90,GK,9338,0,Bournemouth,0.34659498929977417,0
+2018-12-01,0,0,0,0,0,1,Brighton,0,277751,0,Jonas Lössl,2018,2,90,GK,9332,0,Huddersfield,0,0
+2018-11-25,0,0,0,0,0,0,Huddersfield,0,277600,0,Jonas Lössl,2018,2,90,GK,9325,0,Wolverhampton Wanderers,0,0
+2018-11-10,0,0,0,0.10830699652433395,0,1,West Ham,0,277198,0,Jonas Lössl,2018,1,90,GK,9311,0,Huddersfield,0.10830699652433395,0
+2018-11-05,0,0,0,0,0,1,Fulham,0,277060,0,Jonas Lössl,2018,0,90,GK,9306,0,Huddersfield,0,0
+2018-10-27,0,0,0,0,0,3,Huddersfield,0,276628,0,Jonas Lössl,2018,0,90,GK,9291,0,Watford,0,0
+2018-10-20,0,1,0,0.036702901124954224,0.01754469983279705,0,Liverpool,0,276451,0,Jonas Lössl,2018,1,90,GK,9284,0,Huddersfield,0.019158199429512024,0
+2018-10-06,0,0,0,0.049666501581668854,0,1,Huddersfield,0,276134,0,Jonas Lössl,2018,1,90,GK,9272,0,Burnley,0.049666501581668854,0
+2018-09-29,0,0,0,0.07263650000095367,0,0,Tottenham,0,260455,0,Jonas Lössl,2018,2,90,GK,9261,0,Huddersfield,0.07263650000095367,0
+2018-09-22,0,1,0,0.010482899844646454,0.010482899844646454,3,Huddersfield,0,260222,0,Jonas Lössl,2018,1,90,GK,9250,0,Leicester,0,0
+2018-09-15,0,0,0,0.01731720007956028,0,0,Crystal Palace,0,259852,0,Jonas Lössl,2018,1,90,GK,9240,0,Huddersfield,0.01731720007956028,0
+2018-09-01,0,0,0,0.09761209785938263,0,1,Huddersfield,0,259642,0,Jonas Lössl,2018,1,90,GK,9229,0,Everton,0.09761209785938263,0
+2018-08-25,0,0,0,0,0,0,Cardiff,0,259309,0,Jonas Lössl,2018,0,78,Sub,9219,0,Huddersfield,0,0

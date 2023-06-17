@@ -1,0 +1,8 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2021-03-20,0,0,0,0,0,3,Newcastle United,0,458333,0,Davy Pröpper,2020,0,1,Sub,14715,0,Brighton,0,0
+2021-03-14,0,0,0,0,0,1,Brighton,0,456765,0,Davy Pröpper,2020,2,11,Sub,14713,0,Southampton,0,0
+2021-01-27,0,0,0,0,0,0,Fulham,0,445129,0,Davy Pröpper,2020,0,5,Sub,14625,0,Brighton,0,0
+2021-01-16,0,0,0,0,0,0,Brighton,0,442325,0,Davy Pröpper,2020,1,7,Sub,14618,0,Leeds,0,0
+2021-01-13,0.014396600425243378,0,0,0.07515370100736618,0,1,Brighton,0.014396600425243378,441921,0,Davy Pröpper,2020,0,69,MC,14614,1,Manchester City,0.07515370100736618,0
+2021-01-02,0,0,0,0.11907400190830231,0,3,Wolverhampton Wanderers,0,439234,0,Davy Pröpper,2020,3,40,Sub,14601,0,Brighton,0.11907400190830231,0
+2020-12-29,0.12416599690914154,0,0,0.07572130113840103,0,0,Arsenal,0.12416599690914154,438380,0,Davy Pröpper,2020,1,68,MR,14585,3,Brighton,0,0

@@ -1,0 +1,38 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2017-05-13,0,0,0,0,0,0,Swansea,0,133778,0,Lukasz Fabianski,2016,2,90,GK,3506,0,Sunderland,0,0
+2017-05-06,0,0,0,0,0,1,Everton,0,135117,0,Lukasz Fabianski,2016,0,90,GK,3498,0,Swansea,0,0
+2017-04-30,0,0,0,0.10721799731254578,0,1,Swansea,0,134415,0,Lukasz Fabianski,2016,1,90,GK,3482,0,Manchester United,0.10721799731254578,0
+2017-04-22,0,0,0,0,0,2,Stoke,0,134294,0,Lukasz Fabianski,2016,0,90,GK,3478,0,Swansea,0,0
+2017-04-15,0,0,0,0,0,1,Swansea,0,134993,0,Lukasz Fabianski,2016,0,90,GK,3466,0,Watford,0,0
+2017-04-08,0,0,0,0.098540298640728,0,1,Swansea,0,134029,0,Lukasz Fabianski,2016,0,90,GK,3455,0,West Ham,0.098540298640728,0
+2017-04-05,0,0,0,0.6965889930725098,0,1,Tottenham,0,132451,0,Lukasz Fabianski,2016,3,90,GK,3444,0,Swansea,0.6965889930725098,0
+2017-04-02,0,0,0,0.09903369843959808,0,0,Middlesbrough,0,133084,0,Lukasz Fabianski,2016,0,90,GK,3438,0,Swansea,0.09903369843959808,0
+2017-03-18,0,0,0,0.01967659965157509,0,2,Swansea,0,133070,0,Lukasz Fabianski,2016,0,90,GK,3429,0,Bournemouth,0.01967659965157509,0
+2017-03-11,0,0,0,0,0,2,Swansea,0,132660,0,Lukasz Fabianski,2016,1,90,GK,3417,0,Hull,0,0
+2017-03-04,0,0,0,0.031653501093387604,0,3,Burnley,0,133218,0,Lukasz Fabianski,2016,2,90,GK,3405,0,Swansea,0.031653501093387604,0
+2017-02-25,0,0,0,0,0,3,Swansea,0,131443,0,Lukasz Fabianski,2016,1,90,GK,3391,0,Chelsea,0,0
+2017-02-12,0,0,0,0.031201699748635292,0,2,Leicester,0,131262,0,Lukasz Fabianski,2016,0,90,GK,3388,0,Swansea,0.031201699748635292,0
+2017-02-05,0,0,0,0,0,2,Swansea,0,129847,0,Lukasz Fabianski,2016,1,90,GK,3378,0,Manchester City,0,0
+2017-01-31,0,0,0,0,0,2,Southampton,0,132257,0,Lukasz Fabianski,2016,1,90,GK,3365,0,Swansea,0,0
+2017-01-21,0,0,0,0,0,2,Swansea,0,131638,0,Lukasz Fabianski,2016,3,90,GK,3350,0,Liverpool,0,0
+2017-01-14,0,0,0,0,0,0,Arsenal,0,130846,0,Lukasz Fabianski,2016,4,90,GK,3343,0,Swansea,0,0
+2017-01-04,0,0,0,0.462660014629364,0,1,Swansea,0,131220,0,Lukasz Fabianski,2016,2,90,GK,3337,0,Crystal Palace,0.462660014629364,0
+2016-12-31,0,0,0,0.006540469825267792,0,0,Bournemouth,0,130874,0,Lukasz Fabianski,2016,3,90,GK,3161,0,Swansea,0.006540469825267792,0
+2016-12-26,0,0,0,0,0,1,West Ham,0,129779,0,Lukasz Fabianski,2016,4,90,GK,3146,0,Swansea,0,0
+2016-12-17,0,0,0,0,0,3,Swansea,0,131916,0,Lukasz Fabianski,2016,0,90,GK,3136,0,Middlesbrough,0,0
+2016-12-15,0,0,0,0.2707329988479614,0,3,Swansea,0,131137,0,Lukasz Fabianski,2016,1,90,GK,3131,0,West Bromwich Albion,0.2707329988479614,0
+2016-12-10,0,0,0,0.03351199999451637,0,3,Sunderland,0,130352,0,Lukasz Fabianski,2016,0,90,GK,3117,0,Swansea,0.03351199999451637,0
+2016-12-03,0,0,0,0,0,5,Swansea,0,128907,0,Lukasz Fabianski,2016,0,90,GK,3109,0,Tottenham,0,0
+2016-11-26,0,0,0,0,0,5,Crystal Palace,0,128235,0,Lukasz Fabianski,2016,4,90,GK,2709,0,Swansea,0,0
+2016-11-19,0,0,0,0,0,1,Swansea,0,128331,0,Lukasz Fabianski,2016,1,90,GK,2702,0,Everton,0,0
+2016-11-06,0,0,0,0,0,1,Manchester United,0,128151,0,Lukasz Fabianski,2016,3,90,GK,2695,0,Swansea,0,0
+2016-11-01,0,0,0,0,0,3,Swansea,0,127778,0,Lukasz Fabianski,2016,1,90,GK,2686,0,Stoke,0,0
+2016-10-22,0,0,0,0,0,0,Watford,0,127405,0,Lukasz Fabianski,2016,0,90,GK,543,0,Swansea,0,0
+2016-10-15,0,0,0,0,0,3,Swansea,0,127554,0,Lukasz Fabianski,2016,2,90,GK,532,0,Arsenal,0,0
+2016-10-01,0,0,0,0,0,1,Liverpool,0,127321,0,Lukasz Fabianski,2016,2,90,GK,522,0,Swansea,0,0
+2016-09-24,0,0,0,0,0,1,Manchester City,0,126745,0,Lukasz Fabianski,2016,3,90,GK,515,0,Swansea,0,0
+2016-09-18,0,0,0,0.19693300127983093,0,1,Swansea,0,126424,0,Lukasz Fabianski,2016,0,90,GK,509,0,Southampton,0.19693300127983093,0
+2016-09-11,0,0,0,0,0,2,Chelsea,0,126190,0,Lukasz Fabianski,2016,2,90,GK,499,0,Swansea,0,0
+2016-08-27,0,0,0,0,0,2,Swansea,0,125814,0,Lukasz Fabianski,2016,1,90,GK,483,0,Leicester,0,0
+2016-08-20,0,0,0,0.10191900283098221,0,0,Hull,0,125551,0,Lukasz Fabianski,2016,2,90,GK,474,0,Swansea,0.10191900283098221,0
+2016-08-13,0,0,0,0.04813160002231598,0,0,Swansea,0,124935,0,Lukasz Fabianski,2016,1,90,GK,464,0,Burnley,0.04813160002231598,0

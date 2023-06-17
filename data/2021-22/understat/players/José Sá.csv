@@ -1,0 +1,38 @@
+date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
+2022-05-22,0,0,0,0.7683339715003967,0,3,Wolverhampton Wanderers,0,537898,0,José Sá,2021,1,51,GK,16753,0,Liverpool,0.7683339715003967,0
+2022-05-11,0,0,0,0,0,1,Manchester City,0,534885,0,José Sá,2021,5,90,GK,16696,0,Wolverhampton Wanderers,0,0
+2022-05-07,0,0,0,0,0,2,Wolverhampton Wanderers,0,534269,0,José Sá,2021,2,90,GK,16731,0,Chelsea,0,0
+2022-04-30,0,0,0,0.02550620026886463,0,0,Brighton,0,530472,0,José Sá,2021,3,90,GK,16716,0,Wolverhampton Wanderers,0.02550620026886463,0
+2022-04-24,0,0,0,0.032667700201272964,0,1,Wolverhampton Wanderers,0,529307,0,José Sá,2021,0,90,GK,16712,0,Burnley,0.032667700201272964,0
+2022-04-08,0,0,0,0,0,1,Wolverhampton Wanderers,0,524199,0,José Sá,2021,0,90,GK,16689,0,Newcastle United,0,0
+2022-04-02,0,0,0,0,0,2,Aston Villa,0,522831,0,José Sá,2021,1,90,GK,16676,0,Wolverhampton Wanderers,0,0
+2022-03-18,0,0,0,0.07608699798583984,0,2,Leeds,0,520928,0,José Sá,2021,3,90,GK,16675,0,Wolverhampton Wanderers,0.07608699798583984,0
+2022-03-13,0,0,0,0.09731289744377136,0,0,Wolverhampton Wanderers,0,519964,0,José Sá,2021,1,90,GK,16661,0,Everton,0.09731289744377136,0
+2022-03-10,0,0,0,0.07711239904165268,0,4,Watford,0,518883,0,José Sá,2021,0,90,GK,16565,0,Wolverhampton Wanderers,0.07711239904165268,0
+2022-03-05,0,0,0,0,0,0,Crystal Palace,0,517604,0,José Sá,2021,2,90,GK,16655,0,Wolverhampton Wanderers,0,0
+2022-02-27,0,0,0,0.0849808007478714,0,1,Wolverhampton Wanderers,0,516499,0,José Sá,2021,0,90,GK,16645,0,West Ham,0.0849808007478714,0
+2022-02-24,0,0,0,0.08431970328092575,0,2,Wolverhampton Wanderers,0,515410,0,José Sá,2021,1,90,GK,16566,0,Arsenal,0.08431970328092575,0
+2022-02-20,0,0,0,0,0,2,Leicester,0,514955,0,José Sá,2021,1,90,GK,16635,0,Wolverhampton Wanderers,0,0
+2022-02-13,0,0,0,0,0,0,Wolverhampton Wanderers,0,513315,0,José Sá,2021,2,90,GK,16624,0,Tottenham,0,0
+2022-02-10,0,0,0,0,0,0,Arsenal,0,512252,0,José Sá,2021,1,90,GK,16611,0,Wolverhampton Wanderers,0,0
+2022-01-22,0,0,0,0,0,1,Wolverhampton Wanderers,0,509799,0,José Sá,2021,2,90,GK,16597,0,Brentford,0,0
+2022-01-15,0,0,0,0.10881400108337402,0,3,Southampton,0,508136,0,José Sá,2021,1,90,GK,16595,0,Wolverhampton Wanderers,0.10881400108337402,0
+2022-01-03,0,0,0,0.025008900091052055,0,0,Wolverhampton Wanderers,0,505890,0,José Sá,2021,1,90,GK,16583,0,Manchester United,0.025008900091052055,0
+2021-12-19,0,0,0,0,0,0,Chelsea,0,503996,0,José Sá,2021,0,90,GK,16555,0,Wolverhampton Wanderers,0,0
+2021-12-15,0,0,0,0,0,0,Wolverhampton Wanderers,0,503287,0,José Sá,2021,1,90,GK,16538,0,Brighton,0,0
+2021-12-11,0,0,0,0,0,1,Wolverhampton Wanderers,0,501383,0,José Sá,2021,0,90,GK,16534,0,Manchester City,0,0
+2021-12-04,0,0,0,0,0,0,Liverpool,0,499914,0,José Sá,2021,1,90,GK,16525,0,Wolverhampton Wanderers,0,0
+2021-12-01,0,0,0,0.015162499621510506,0,0,Burnley,0,498972,0,José Sá,2021,0,90,GK,16511,0,Wolverhampton Wanderers,0.015162499621510506,0
+2021-11-27,0,0,0,0,0,0,Wolverhampton Wanderers,0,497387,0,José Sá,2021,0,90,GK,16505,0,Norwich,0,0
+2021-11-20,0,0,0,0.061167798936367035,0,1,West Ham,0,495757,0,José Sá,2021,0,90,GK,16495,0,Wolverhampton Wanderers,0.061167798936367035,0
+2021-11-06,0,0,0,0,0,2,Wolverhampton Wanderers,0,494035,0,José Sá,2021,0,90,GK,16480,0,Crystal Palace,0,0
+2021-11-01,0,0,0,0.046561699360609055,0,2,Everton,0,493482,0,José Sá,2021,1,90,GK,16475,0,Wolverhampton Wanderers,0.046561699360609055,0
+2021-10-23,0,1,0,0.0621739998459816,0.0621739998459816,1,Wolverhampton Wanderers,0,490006,0,José Sá,2021,1,90,GK,16462,0,Leeds,0,0
+2021-10-16,0,0,0,0,0,2,Wolverhampton Wanderers,0,488085,0,José Sá,2021,3,90,GK,16447,0,Aston Villa,0,0
+2021-10-02,0,0,0,0,0,2,Newcastle United,0,486518,0,José Sá,2021,1,90,GK,16445,0,Wolverhampton Wanderers,0,0
+2021-09-26,0,1,0,0.332845002412796,0.332845002412796,0,Wolverhampton Wanderers,0,485473,1,José Sá,2021,1,90,GK,16433,0,Southampton,0,0
+2021-09-18,0,0,0,0.05526269972324371,0,0,Brentford,0,481814,0,José Sá,2021,2,90,GK,16417,0,Wolverhampton Wanderers,0.05526269972324371,0
+2021-09-11,0,0,0,0.04043029993772507,0,0,Wolverhampton Wanderers,0,480306,0,José Sá,2021,2,90,GK,16412,0,Watford,0.04043029993772507,0
+2021-08-29,0,0,0,0.11455000191926956,0,0,Manchester United,0,479682,0,José Sá,2021,1,90,GK,16405,0,Wolverhampton Wanderers,0.11455000191926956,0
+2021-08-22,0,0,0,0.045623499900102615,0,0,Tottenham,0,477558,0,José Sá,2021,1,90,GK,16393,0,Wolverhampton Wanderers,0.045623499900102615,0
+2021-08-14,0,0,0,0.3384130001068115,0,1,Wolverhampton Wanderers,0,475541,0,José Sá,2021,0,90,GK,16381,0,Leicester,0.3384130001068115,0
