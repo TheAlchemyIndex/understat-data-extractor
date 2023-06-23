@@ -45,11 +45,7 @@ public class Understat {
                 String teamName = formatTeamName(teamData.getString("title"));
                 JSONArray teamHistory = teamData.getJSONArray("history");
                 JSONArray teamMatchesDataWithTeamName = addTeamNameAndSeason(teamHistory, teamName, this.season);
-                try {
-                    this.fileWriter.writeDataToSeasonPath(teamMatchesDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
+                writeDataToFile(teamMatchesDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
             });
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {
@@ -79,7 +75,7 @@ public class Understat {
                 JSONArray playerMatchesData = getJsonArray(String.format("%s%s", TARGET_PLAYER_URL, playerId), MATCHES_DATA_VAR);
                 JSONArray currentSeasonData = filterCurrentSeason(playerMatchesData);
                 JSONArray playerMatchesDataWithName = addPlayerName(currentSeasonData, playerName);
-                this.fileWriter.writeDataToSeasonPath(playerMatchesDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+                writeDataToFile(playerMatchesDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             }
         } catch(IOException ioException) {
             if (ioException instanceof UnsupportedEncodingException) {
@@ -185,5 +181,10 @@ public class Understat {
             case "Wolverhampton Wanderers" -> "Wolves";
             default -> teamName;
         };
+    }
+
+    private void writeDataToFile(JSONArray data, String filename) {
+        String filepath = String.format("%s/%s", this.season, filename);
+        fileWriter.write(data, filepath);
     }
 }

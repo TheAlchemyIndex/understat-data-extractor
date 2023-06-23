@@ -20,14 +20,16 @@ public class UnderstatJoiner {
     private final int startingSeasonStart;
     private final int startingSeasonEnd;
     private final int endingSeasonEnd;
+    private final FileWriter fileWriter;
 
-    public UnderstatJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
+    public UnderstatJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd, FileWriter fileWriter) throws IllegalArgumentException {
         this.startingSeasonStart = startingSeasonStart;
         this.startingSeasonEnd = startingSeasonEnd;
         this.endingSeasonEnd = endingSeasonEnd;
+        this.fileWriter = fileWriter;
     }
 
-    public void joinPlayerData(FileWriter fileWriter, String baseFilePath, String subFilePath) {
+    public void joinPlayerData(String baseFilePath, String subFilePath) {
         CsvMapper csvMapper = new CsvMapper();
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allPlayers = new JSONArray();
@@ -51,11 +53,7 @@ public class UnderstatJoiner {
                                 String jsonString = objectMapper.writeValueAsString(row);
                                 allPlayers.put(new JSONObject(jsonString));
                             }
-                            try {
-                                fileWriter.writeDataToBasePath(allPlayers, subFilePath);
-                            } catch (IOException ioException) {
-                                LOGGER.error("Error writing player understat data to file: " + ioException.getMessage());
-                            }
+                            this.fileWriter.write(allPlayers, subFilePath);
                         }
                     }
                 }
@@ -89,11 +87,7 @@ public class UnderstatJoiner {
                                 String jsonString = objectMapper.writeValueAsString(row);
                                 allTeams.put(new JSONObject(jsonString));
                             }
-                            try {
-                                fileWriter.writeDataToBasePath(allTeams, subFilePath);
-                            } catch (IOException ioException) {
-                                LOGGER.error("Error writing team understat data to file: " + ioException.getMessage());
-                            }
+                            fileWriter.write(allTeams, subFilePath);
                         }
                     }
                 }

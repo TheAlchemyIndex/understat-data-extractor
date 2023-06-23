@@ -17,14 +17,14 @@ public class Main {
         final String mainUrl = config.getMainUrl();
         final String playerUrl = config.getPlayerUrl();
 
-        FileWriter fileWriter = new FileWriter(baseFilePath, mainSeason);
+        FileWriter fileWriter = new FileWriter(baseFilePath);
 
         Understat understat = new Understat(fileWriter, mainSeason);
         understat.getTeamData();
         understat.getPlayerData();
 
-        UnderstatJoiner understatJoiner = new UnderstatJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
-        understatJoiner.joinPlayerData(fileWriter, baseFilePath, String.format("Understat - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
+        UnderstatJoiner understatJoiner = new UnderstatJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
+        understatJoiner.joinPlayerData(baseFilePath, String.format("Understat - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
         understatJoiner.joinTeamData(fileWriter, baseFilePath, String.format("Understat Teams - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
     }
 }
