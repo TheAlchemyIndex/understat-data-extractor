@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
-public class UnderstatConfigTests {
+public class UnderstatExtractorConfigTests {
 
     private static UnderstatConfig CONFIG;
     private static final String EXPECTED_SEASON = "2022-23";

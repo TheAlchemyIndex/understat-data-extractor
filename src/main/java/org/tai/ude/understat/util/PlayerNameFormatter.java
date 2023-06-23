@@ -1,10 +1,9 @@
-package org.tai.ude.understat;
+package org.tai.ude.understat.util;
 
-public class UnderstatNameFormatter {
+public class PlayerNameFormatter {
 
     public static String formatName(String name) {
 
-        /* Temporary fix */
         if (name.contains("Thiago Alc")) {
             name = "Thiago Alcantara";
         }

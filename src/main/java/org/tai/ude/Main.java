@@ -2,7 +2,7 @@ package org.tai.ude;
 
 import org.tai.ude.config.UnderstatConfig;
 import org.tai.ude.joiners.UnderstatJoiner;
-import org.tai.ude.understat.Understat;
+import org.tai.ude.understat.UnderstatExtractor;
 import org.tai.ude.writers.FileWriter;
 
 public class Main {
@@ -19,9 +19,9 @@ public class Main {
 
         FileWriter fileWriter = new FileWriter(baseFilePath);
 
-        Understat understat = new Understat(fileWriter, mainSeason);
-        understat.getTeamData();
-        understat.getPlayerData();
+        UnderstatExtractor understatExtractor = new UnderstatExtractor(mainSeason, mainUrl, playerUrl, fileWriter);
+        understatExtractor.getTeamData();
+        understatExtractor.getPlayerData();
 
         UnderstatJoiner understatJoiner = new UnderstatJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
         understatJoiner.joinPlayerData(baseFilePath, String.format("Understat - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
