@@ -1,29 +1,29 @@
-package org.tai.fpl.config;
+package org.tai.ude.config;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
-public class FplConfigTests {
+public class UnderstatConfigTests {
 
-    private static FplConfig CONFIG;
+    private static UnderstatConfig CONFIG;
     private static final String EXPECTED_SEASON = "2022-23";
     private static final String EXPECTED_BASE_FILEPATH = "data/";
 
     @Test
     public void validConfigFile() {
-        CONFIG = new FplConfig("src/test/resources/config/testconfig.properties");
+        CONFIG = new UnderstatConfig("src/test/resources/config/testconfig.properties", startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
 
-        assertEquals(EXPECTED_SEASON, CONFIG.getSeason());
+        assertEquals(EXPECTED_SEASON, CONFIG.getMainSeason());
         assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());
     }
 
     @Test
     public void invalidConfigFile() {
-        CONFIG = new FplConfig("");
+        CONFIG = new UnderstatConfig("", startingSeasonStart, startingSeasonEnd, finalSeasonEnd);
 
-        assertNull(CONFIG.getSeason());
+        assertNull(CONFIG.getMainSeason());
         assertNull(CONFIG.getBaseFilePath());
     }
 }

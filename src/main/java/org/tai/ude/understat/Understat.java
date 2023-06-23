@@ -1,4 +1,4 @@
-package org.tai.fpl.understat;
+package org.tai.ude.understat;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,15 +8,15 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.tai.fpl.util.constants.FileNames;
-import org.tai.fpl.writers.FileWriter;
+import org.tai.ude.util.constants.FileNames;
+import org.tai.ude.writers.FileWriter;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static org.tai.fpl.understat.UnderstatNameFormatter.formatName;
+import static org.tai.ude.understat.UnderstatNameFormatter.formatName;
 
 public class Understat {
     private static final Logger LOGGER = LogManager.getLogger(Understat.class);

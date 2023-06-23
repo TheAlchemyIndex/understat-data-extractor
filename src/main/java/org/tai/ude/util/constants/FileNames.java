@@ -1,4 +1,4 @@
-package org.tai.fpl.util.constants;
+package org.tai.ude.util.constants;
 
 public class FileNames {
     public static final String PLAYERS_RAW_FILENAME = "players_raw.csv";

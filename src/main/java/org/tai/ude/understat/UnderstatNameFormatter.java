@@ -1,4 +1,4 @@
-package org.tai.fpl.understat;
+package org.tai.ude.understat;
 
 public class UnderstatNameFormatter {
 

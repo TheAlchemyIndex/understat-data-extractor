@@ -1,4 +1,4 @@
-package org.tai.fpl.joiners;
+package org.tai.ude.joiners;
 
 import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -8,7 +8,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.tai.fpl.writers.FileWriter;
+import org.tai.ude.writers.FileWriter;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,10 +22,9 @@ public class UnderstatJoiner {
     private final int endingSeasonEnd;
 
     public UnderstatJoiner(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
-        validateSeasonParameters(startingSeasonStart, startingSeasonEnd, endingSeasonEnd);
         this.startingSeasonStart = startingSeasonStart;
-        this.startingSeasonEnd = convertYearTo2Digits(startingSeasonEnd);
-        this.endingSeasonEnd = convertYearTo2Digits(endingSeasonEnd);
+        this.startingSeasonEnd = startingSeasonEnd;
+        this.endingSeasonEnd = endingSeasonEnd;
     }
 
     public void joinPlayerData(FileWriter fileWriter, String baseFilePath, String subFilePath) {
@@ -102,21 +101,5 @@ public class UnderstatJoiner {
         } catch(IOException ioException) {
             LOGGER.error("Error joining team understat files together: " + ioException.getMessage());
         }
-    }
-
-    private void validateSeasonParameters(int startingSeasonStart, int startingSeasonEnd, int endingSeasonEnd) throws IllegalArgumentException {
-        if (startingSeasonStart < 2016) {
-            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016.");
-        } else if (startingSeasonEnd <= startingSeasonStart) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart.");
-        } else if ((startingSeasonEnd - startingSeasonStart) > 1) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart.");
-        } else if (endingSeasonEnd <= startingSeasonStart) {
-            throw new IllegalArgumentException("Value for endingSeasonEnd can not be less than or equal to startingSeasonStart.");
-        }
-    }
-
-    private int convertYearTo2Digits(int year) {
-        return Integer.parseInt(Integer.toString(year).substring(2));
     }
 }
