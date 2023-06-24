@@ -23,8 +23,8 @@ public class Main {
         understatExtractor.getTeamData();
         understatExtractor.getPlayerData();
 
-//        UnderstatJoiner understatJoiner = new UnderstatJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
-//        understatJoiner.joinPlayerData(baseFilePath, String.format("Understat - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
-//        understatJoiner.joinTeamData(fileWriter, baseFilePath, String.format("Understat Teams - %s-%s seasons.csv", startingSeasonStart, finalSeasonEnd));
+        UnderstatJoiner understatJoiner = new UnderstatJoiner(startingSeasonStart, startingSeasonEnd, finalSeasonEnd, fileWriter);
+        understatJoiner.joinPlayerData();
+        understatJoiner.joinTeamData();
     }
 }

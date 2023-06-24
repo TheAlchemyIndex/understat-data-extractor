@@ -1,4 +1,4 @@
-package org.tai.ude.parsers;
+package org.tai.ude.util.parsers;
 
 import org.json.JSONArray;
 import org.json.JSONException;
