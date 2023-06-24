@@ -61,7 +61,7 @@ public class UnderstatConfig {
     }
 
     public String getMainUrl() {
-        return String.format("%s%s", this.mainUrl, this.mainSeason.substring(0, 3));
+        return String.format("%s%s", this.mainUrl, this.mainSeason.substring(0, 4));
     }
 
     public String getPlayerUrl() {
