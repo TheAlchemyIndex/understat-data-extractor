@@ -55,21 +55,21 @@ public class TestHelper {
             .put(VALID_JSON_OBJECT_3)
             .put(VALID_JSON_OBJECT_4);
 
-//    @After
-//    public void deleteFiles() {
-//        File baseFolder = new File(BASE_FILEPATH);
-//
-//        try {
-//            for (File file: Objects.requireNonNull(baseFolder.listFiles())) {
-//                if ((file.getName().equals(FILE_WRITER_FILENAME)) || (file.getName().equals(JOINED_UNDERSTAT_PLAYERS_FILENAME))
-//                        || (file.getName().equals(JOINED_UNDERSTAT_TEAMS_FILENAME))) {
-//                    file.delete();
-//                }
-//            }
-//        } catch(NullPointerException nullPointerException) {
-//            LOGGER.info(String.format("No files to delete in %s", BASE_FILEPATH));
-//        }
-//    }
+    @After
+    public void deleteFiles() {
+        File baseFolder = new File(BASE_FILEPATH);
+
+        try {
+            for (File file: Objects.requireNonNull(baseFolder.listFiles())) {
+                if ((file.getName().equals(FILE_WRITER_FILENAME)) || (file.getName().equals(JOINED_UNDERSTAT_PLAYERS_FILENAME))
+                        || (file.getName().equals(JOINED_UNDERSTAT_TEAMS_FILENAME))) {
+                    file.delete();
+                }
+            }
+        } catch(NullPointerException nullPointerException) {
+            LOGGER.info(String.format("No files to delete in %s", BASE_FILEPATH));
+        }
+    }
 
     protected JSONArray readDataFromFile(String filepath) {
         CsvMapper csvMapper = new CsvMapper();
