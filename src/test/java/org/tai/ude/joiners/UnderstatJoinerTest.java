@@ -25,15 +25,16 @@ public class UnderstatJoinerTest extends TestHelper {
     }
 
     @Test
-    public void givenValidSeason() {
-//        givenValidSeason_joinTeamData_thenWriteToFile
+    public void givenValidSeason_joinTeamData_thenWriteToFile() throws InterruptedException {
         UNDERSTAT_JOINER = new UnderstatJoiner(VALID_STARTING_SEASON_START, VALID_STARTING_SEASON_END, VALID_ENDING_SEASON_END,
                 FILE_WRITER);
         UNDERSTAT_JOINER.joinTeamData();
 
         File joinedUnderstatTeams = new File(JOINED_UNDERSTAT_TEAM_FILEPATH);
-        assertTrue(joinedUnderstatTeams.exists());
 
+        Thread.sleep(1000);
+        assertTrue(joinedUnderstatTeams.exists());
+        Thread.sleep(1000);
         assertTrue(readDataFromFile(JOINED_UNDERSTAT_TEAM_FILEPATH).similar(VALID_JSON_ARRAY));
     }
 
