@@ -30,10 +30,10 @@ public class UnderstatJoinerTest extends TestHelper {
                 FILE_WRITER);
         UNDERSTAT_JOINER.joinTeamData();
 
-        File joinedUnderstatTeams = new File(JOINED_UNDERSTAT_TEAM_FILEPATH);
-        assertTrue(joinedUnderstatTeams.exists());
+//        File joinedUnderstatTeams = new File(JOINED_UNDERSTAT_TEAM_FILEPATH);
+//        assertTrue(joinedUnderstatTeams.exists());
 
-//        assertTrue(readDataFromFile(JOINED_UNDERSTAT_TEAM_FILEPATH).similar(VALID_JSON_ARRAY));
+        assertTrue(readDataFromFile(JOINED_UNDERSTAT_TEAM_FILEPATH).similar(VALID_JSON_ARRAY));
     }
 
     @Test(expected = RuntimeException.class)
