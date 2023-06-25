@@ -35,34 +35,35 @@ public class UnderstatJoiner {
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allPlayers = new JSONArray();
 
-        try {
-            for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
+        for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
+            try {
                 File folder = new File(String.format("%s%s-%s/understat/players/", this.fileWriter.getBaseFilePath(), i, j));
-                if (folder.isDirectory()) {
-                    File[] files = folder.listFiles();
-                    for (File file : files) {
-                        if (file.isFile() && file.getName().endsWith(".csv")) {
-                            List<Map<String, String>> rows;
-                            try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
-                                    .readerWithSchemaFor(Map.class)
-                                    .with(CsvSchema.emptySchema().withHeader())
-                                    .readValues(new File(file.getAbsolutePath()))) {
-                                rows = mappingIterator.readAll();
-                            }
-
-                            for (Map<String, String> row : rows) {
-                                String jsonString = objectMapper.writeValueAsString(row);
-                                allPlayers.put(new JSONObject(jsonString));
-                            }
-                            LOGGER.info(String.format("Understat Players - Season {%s-%s}.", i, j));
-                            this.fileWriter.write(allPlayers, String.format(FileNames.JOINED_UNDERSTAT_PLAYERS_FILENAME, this.startingSeasonStart,
-                                    this.endingSeasonEnd));
+                File[] files = folder.listFiles();
+                assert files != null;
+                for (File file : files) {
+                    if (file.isFile() && file.getName().endsWith(".csv")) {
+                        List<Map<String, String>> rows;
+                        try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
+                                .readerWithSchemaFor(Map.class)
+                                .with(CsvSchema.emptySchema().withHeader())
+                                .readValues(new File(file.getAbsolutePath()))) {
+                            rows = mappingIterator.readAll();
                         }
+
+                        for (Map<String, String> row : rows) {
+                            String jsonString = objectMapper.writeValueAsString(row);
+                            allPlayers.put(new JSONObject(jsonString));
+                        }
+                        LOGGER.info(String.format("Understat Players - Season {%s-%s}.", i, j));
+                        this.fileWriter.write(allPlayers, String.format(FileNames.JOINED_UNDERSTAT_PLAYERS_FILENAME, this.startingSeasonStart,
+                                this.endingSeasonEnd));
                     }
                 }
+            } catch (AssertionError assertionError) {
+                throw new RuntimeException(String.format("Invalid season parameters, some seasons may not exist: {%s}", assertionError.getMessage()));
+            } catch (IOException ioException) {
+                throw new RuntimeException(String.format("Error joining understat player files together: {%s}", ioException.getMessage()));
             }
-        } catch(IOException ioException) {
-            throw new RuntimeException(String.format("Error joining understat player files together: {%s}", ioException.getMessage()));
         }
     }
 
@@ -71,34 +72,35 @@ public class UnderstatJoiner {
         ObjectMapper objectMapper = new ObjectMapper();
         JSONArray allTeams = new JSONArray();
 
-        try {
-            for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
+        for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
+            try {
                 File folder = new File(String.format("%s%s-%s/understat/teams/", this.fileWriter.getBaseFilePath(), i, j));
-                if (folder.isDirectory()) {
-                    File[] files = folder.listFiles();
-                    for (File file : files) {
-                        if (file.isFile() && file.getName().endsWith(".csv")) {
-                            List<Map<String, String>> rows;
-                            try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
-                                    .readerWithSchemaFor(Map.class)
-                                    .with(CsvSchema.emptySchema().withHeader())
-                                    .readValues(new File(file.getAbsolutePath()))) {
-                                rows = mappingIterator.readAll();
-                            }
-
-                            for (Map<String, String> row : rows) {
-                                String jsonString = objectMapper.writeValueAsString(row);
-                                allTeams.put(new JSONObject(jsonString));
-                            }
-                            LOGGER.info(String.format("Understat Teams - Season {%s-%s}.", i, j));
-                            this.fileWriter.write(allTeams, String.format(FileNames.JOINED_UNDERSTAT_TEAMS_FILENAME, this.startingSeasonStart,
-                                    this.endingSeasonEnd));
+                File[] files = folder.listFiles();
+                assert files != null;
+                for (File file : files) {
+                    if (file.isFile() && file.getName().endsWith(".csv")) {
+                        List<Map<String, String>> rows;
+                        try (MappingIterator<Map<String, String>> mappingIterator = csvMapper
+                                .readerWithSchemaFor(Map.class)
+                                .with(CsvSchema.emptySchema().withHeader())
+                                .readValues(new File(file.getAbsolutePath()))) {
+                            rows = mappingIterator.readAll();
                         }
+
+                        for (Map<String, String> row : rows) {
+                            String jsonString = objectMapper.writeValueAsString(row);
+                            allTeams.put(new JSONObject(jsonString));
+                        }
+                        LOGGER.info(String.format("Understat Teams - Season {%s-%s}.", i, j));
+                        this.fileWriter.write(allTeams, String.format(FileNames.JOINED_UNDERSTAT_TEAMS_FILENAME, this.startingSeasonStart,
+                                this.endingSeasonEnd));
                     }
                 }
+            } catch (AssertionError assertionError) {
+                throw new RuntimeException(String.format("Invalid season parameters, some seasons may not exist: {%s}", assertionError.getMessage()));
+            } catch (IOException ioException) {
+                throw new RuntimeException(String.format("Error joining understat team files together: {%s}", ioException.getMessage()));
             }
-        } catch(IOException ioException) {
-            throw new RuntimeException(String.format("Error joining understat team files together: {%s}", ioException.getMessage()));
         }
     }
 }

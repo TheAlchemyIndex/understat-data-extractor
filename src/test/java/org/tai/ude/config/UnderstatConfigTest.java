@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class UnderstatConfigTests {
+public class UnderstatConfigTest {
 
     private static UnderstatConfig CONFIG;
     private static final String EXPECTED_MAIN_SEASON = "2022-23";
