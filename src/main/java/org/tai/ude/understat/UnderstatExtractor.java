@@ -38,6 +38,7 @@ public class UnderstatExtractor {
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
             JSONArray matchDataWithTeamName = addTeamNameAndSeasonToJsonArray(teamHistory, teamName, this.season);
             writeDataToFile(matchDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+            LOGGER.info("Team data extraction from {} complete.", this.mainUrl);
         });
     }
 
@@ -53,6 +54,7 @@ public class UnderstatExtractor {
             JSONArray currentSeasonData = filterCurrentSeason(playerMatchData);
             JSONArray playerMatchDataWithName = addPlayerNameToJsonArray(currentSeasonData, playerName);
             writeDataToFile(playerMatchDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+            LOGGER.info("Player data extraction from {} complete.", this.mainUrl);
         }
     }
 
