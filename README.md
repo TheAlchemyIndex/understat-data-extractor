@@ -56,6 +56,3 @@ TheAlchemyIndex - [LinkedIn](https://www.linkedin.com/in/vaughana)
 
 * [Fantasy-Premier-League - vaastav](https://github.com/vaastav/Fantasy-Premier-League)
 * [Best-README-Template - othneildrew](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
