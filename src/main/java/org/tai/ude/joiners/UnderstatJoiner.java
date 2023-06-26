@@ -37,7 +37,7 @@ public class UnderstatJoiner {
 
         for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
             try {
-                File folder = new File(String.format("%s%s-%s/understat/players/", this.fileWriter.getBaseFilePath(), i, j));
+                File folder = new File(String.format("%s%s-%s/players/", this.fileWriter.getBaseFilePath(), i, j));
                 File[] files = folder.listFiles();
                 assert files != null;
                 for (File file : files) {
@@ -74,7 +74,7 @@ public class UnderstatJoiner {
 
         for (int i = this.startingSeasonStart, j = this.startingSeasonEnd; j <= this.endingSeasonEnd; i++, j++) {
             try {
-                File folder = new File(String.format("%s%s-%s/understat/teams/", this.fileWriter.getBaseFilePath(), i, j));
+                File folder = new File(String.format("%s%s-%s/teams/", this.fileWriter.getBaseFilePath(), i, j));
                 File[] files = folder.listFiles();
                 assert files != null;
                 for (File file : files) {
