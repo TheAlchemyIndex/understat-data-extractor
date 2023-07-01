@@ -1,21 +1,21 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-05-12,0,0,0,0.018320199102163315,0,5,Bournemouth,0,332257,0,Vicente Guaita,2018,3,90,GK,9574,0,Crystal Palace,0.018320199102163315,0
-2019-05-04,0,0,0,0,0,2,Crystal Palace,0,330439,0,Vicente Guaita,2018,3,90,GK,9564,0,Cardiff,0,0
-2019-04-27,0,0,0,0,0,0,Everton,0,328352,0,Vicente Guaita,2018,0,90,GK,9554,0,Crystal Palace,0,0
-2019-04-21,0,0,0,0,0,2,Crystal Palace,0,326739,0,Vicente Guaita,2018,3,90,GK,9546,0,Arsenal,0,0
-2019-04-14,0,0,0,0,0,1,Manchester City,0,324868,0,Vicente Guaita,2018,3,90,GK,9534,0,Crystal Palace,0,0
-2019-04-06,0,0,0,0,0,0,Crystal Palace,0,322556,0,Vicente Guaita,2018,1,90,GK,9521,0,Newcastle United,0,0
-2019-04-03,0,0,0,0,0,2,Crystal Palace,0,321919,0,Vicente Guaita,2018,0,90,GK,9500,0,Tottenham,0,0
-2019-03-30,0,0,0,0.06492859870195389,0,2,Huddersfield,0,317913,0,Vicente Guaita,2018,0,90,GK,9513,0,Crystal Palace,0.06492859870195389,0
-2019-03-09,0,0,0,0,0,1,Brighton,0,314291,0,Vicente Guaita,2018,2,90,GK,9493,0,Crystal Palace,0,0
-2019-02-27,0,0,0,0,0,1,Manchester United,0,305181,0,Vicente Guaita,2018,3,90,GK,9471,0,Crystal Palace,0,0
-2019-02-23,0,0,0,0,0,1,Crystal Palace,0,304862,0,Vicente Guaita,2018,4,90,GK,9460,0,Leicester,0,0
-2019-02-09,0,0,0,0.4210360050201416,0,1,West Ham,0,304464,0,Vicente Guaita,2018,1,90,GK,9448,0,Crystal Palace,0.4210360050201416,0
-2019-02-02,0,0,0,0,0,2,Fulham,0,304270,0,Vicente Guaita,2018,0,90,GK,9442,0,Crystal Palace,0,0
-2019-01-30,0,0,0,0,0,1,Crystal Palace,0,304066,0,Vicente Guaita,2018,1,90,GK,9433,0,Southampton,0,0
-2019-01-12,0,0,0,0.05108270049095154,0,1,Watford,0,303345,0,Vicente Guaita,2018,2,44,GK,9412,0,Crystal Palace,0.05108270049095154,0
-2019-01-02,0,0,0,0,0,0,Crystal Palace,0,303167,0,Vicente Guaita,2018,2,90,GK,9397,0,Wolverhampton Wanderers,0,0
-2018-12-30,0,0,0,0,0,0,Chelsea,0,291561,0,Vicente Guaita,2018,1,90,GK,9394,0,Crystal Palace,0,0
-2018-12-26,0,0,0,0,0,0,Cardiff,0,279112,0,Vicente Guaita,2018,0,90,GK,9384,0,Crystal Palace,0,0
-2018-12-22,0,0,0,0,0,2,Crystal Palace,0,278849,0,Vicente Guaita,2018,3,90,GK,9370,0,Manchester City,0,0
-2018-12-15,0,0,0,0,0,1,Leicester,0,278586,0,Vicente Guaita,2018,0,90,GK,9365,0,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-05-12,0.0,0,0,0.018320199102163315,5,Bournemouth,332257,0,Vicente Guaita,2018,3,90,GK,9574,0.0,0.018320199102163315,0,Crystal Palace,0.0,0
+2019-05-04,0.0,0,0,0.0,2,Crystal Palace,330439,0,Vicente Guaita,2018,3,90,GK,9564,0.0,0.0,0,Cardiff,0.0,0
+2019-04-27,0.0,0,0,0.0,0,Everton,328352,0,Vicente Guaita,2018,0,90,GK,9554,0.0,0.0,0,Crystal Palace,0.0,0
+2019-04-21,0.0,0,0,0.0,2,Crystal Palace,326739,0,Vicente Guaita,2018,3,90,GK,9546,0.0,0.0,0,Arsenal,0.0,0
+2019-04-14,0.0,0,0,0.0,1,Manchester City,324868,0,Vicente Guaita,2018,3,90,GK,9534,0.0,0.0,0,Crystal Palace,0.0,0
+2019-04-06,0.0,0,0,0.0,0,Crystal Palace,322556,0,Vicente Guaita,2018,1,90,GK,9521,0.0,0.0,0,Newcastle United,0.0,0
+2019-04-03,0.0,0,0,0.0,2,Crystal Palace,321919,0,Vicente Guaita,2018,0,90,GK,9500,0.0,0.0,0,Tottenham,0.0,0
+2019-03-30,0.0,0,0,0.06492859870195389,2,Huddersfield,317913,0,Vicente Guaita,2018,0,90,GK,9513,0.0,0.06492859870195389,0,Crystal Palace,0.0,0
+2019-03-09,0.0,0,0,0.0,1,Brighton,314291,0,Vicente Guaita,2018,2,90,GK,9493,0.0,0.0,0,Crystal Palace,0.0,0
+2019-02-27,0.0,0,0,0.0,1,Manchester United,305181,0,Vicente Guaita,2018,3,90,GK,9471,0.0,0.0,0,Crystal Palace,0.0,0
+2019-02-23,0.0,0,0,0.0,1,Crystal Palace,304862,0,Vicente Guaita,2018,4,90,GK,9460,0.0,0.0,0,Leicester,0.0,0
+2019-02-09,0.0,0,0,0.4210360050201416,1,West Ham,304464,0,Vicente Guaita,2018,1,90,GK,9448,0.0,0.4210360050201416,0,Crystal Palace,0.0,0
+2019-02-02,0.0,0,0,0.0,2,Fulham,304270,0,Vicente Guaita,2018,0,90,GK,9442,0.0,0.0,0,Crystal Palace,0.0,0
+2019-01-30,0.0,0,0,0.0,1,Crystal Palace,304066,0,Vicente Guaita,2018,1,90,GK,9433,0.0,0.0,0,Southampton,0.0,0
+2019-01-12,0.0,0,0,0.05108270049095154,1,Watford,303345,0,Vicente Guaita,2018,2,44,GK,9412,0.0,0.05108270049095154,0,Crystal Palace,0.0,0
+2019-01-02,0.0,0,0,0.0,0,Crystal Palace,303167,0,Vicente Guaita,2018,2,90,GK,9397,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2018-12-30,0.0,0,0,0.0,0,Chelsea,291561,0,Vicente Guaita,2018,1,90,GK,9394,0.0,0.0,0,Crystal Palace,0.0,0
+2018-12-26,0.0,0,0,0.0,0,Cardiff,279112,0,Vicente Guaita,2018,0,90,GK,9384,0.0,0.0,0,Crystal Palace,0.0,0
+2018-12-22,0.0,0,0,0.0,2,Crystal Palace,278849,0,Vicente Guaita,2018,3,90,GK,9370,0.0,0.0,0,Manchester City,0.0,0
+2018-12-15,0.0,0,0,0.0,1,Leicester,278586,0,Vicente Guaita,2018,0,90,GK,9365,0.0,0.0,0,Crystal Palace,0.0,0

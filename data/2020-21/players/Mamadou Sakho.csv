@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-10-24,0,0,0,0,0,1,Crystal Palace,0,422874,0,Mamadou Sakho,2020,2,4,Sub,14489,0,Fulham,0,0
-2020-10-03,0.018834900110960007,0,0,0,0,4,Crystal Palace,0.018834900110960007,419262,0,Mamadou Sakho,2020,0,90,DC,14467,1,Chelsea,0,0
-2020-09-26,0,0,0,0,0,1,Everton,0,417372,0,Mamadou Sakho,2020,2,90,DC,14107,0,Crystal Palace,0,0
-2020-09-19,0,0,0,0.5140529870986938,0,1,Crystal Palace,0,415917,0,Mamadou Sakho,2020,3,90,DC,14098,0,Manchester United,0.5140529870986938,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-10-24,0.0,0,0,0.0,1,Crystal Palace,422874,0,Mamadou Sakho,2020,2,4,Sub,14489,0.0,0.0,0,Fulham,0.0,0
+2020-10-03,0.018834900110960007,0,0,0.0,4,Crystal Palace,419262,0,Mamadou Sakho,2020,0,90,DC,14467,0.0,0.0,1,Chelsea,0.018834900110960007,0
+2020-09-26,0.0,0,0,0.0,1,Everton,417372,0,Mamadou Sakho,2020,2,90,DC,14107,0.0,0.0,0,Crystal Palace,0.0,0
+2020-09-19,0.0,0,0,0.5140529870986938,1,Crystal Palace,415917,0,Mamadou Sakho,2020,3,90,DC,14098,0.0,0.5140529870986938,0,Manchester United,0.0,0

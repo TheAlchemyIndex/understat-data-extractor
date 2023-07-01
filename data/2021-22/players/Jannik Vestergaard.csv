@@ -1,11 +1,11 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-02-13,0,0,0,0.01604750007390976,0,2,West Ham,0,513493,0,Jannik Vestergaard,2021,2,1,Sub,16620,0,Leicester,0.01604750007390976,0
-2022-01-19,0,0,0,1.2149200439453125,0,2,Tottenham,0,509158,0,Jannik Vestergaard,2021,3,90,DC,16540,0,Leicester,1.2149200439453125,0
-2021-12-26,0,0,0,0.7223529815673828,0,6,Leicester,0,505107,0,Jannik Vestergaard,2021,3,90,DC,16560,0,Manchester City,0.7223529815673828,0
-2021-10-24,0,0,0,0.15277600288391113,0,1,Leicester,0,490469,0,Jannik Vestergaard,2021,2,20,Sub,16457,0,Brentford,0.15277600288391113,0
-2021-10-16,0,0,0,0,0,4,Manchester United,0,488110,0,Jannik Vestergaard,2021,2,1,Sub,16450,0,Leicester,0,0
-2021-10-03,0,1,0,0,0.06727150082588196,2,Leicester,0,487007,0,Jannik Vestergaard,2021,2,90,DC,16439,0,Crystal Palace,0,0
-2021-09-25,0,0,0,0.8571879863739014,0,2,Burnley,0,484673,0,Jannik Vestergaard,2021,2,90,DC,16430,0,Leicester,0.8571879863739014,0
-2021-09-19,0,0,0,0.7851319909095764,0,2,Leicester,0,482594,0,Jannik Vestergaard,2021,1,90,DC,16423,0,Brighton,0.7851319909095764,0
-2021-09-11,0.03875559940934181,0,0,0.03514130041003227,0,0,Manchester City,0.03875559940934181,480375,0,Jannik Vestergaard,2021,1,63,DC,16409,1,Leicester,0.03514130041003227,0
-2021-08-14,0,0,0,0,0,1,Wolverhampton Wanderers,0,475538,0,Jannik Vestergaard,2021,0,26,Sub,16381,0,Leicester,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-02-13,0.0,0,0,0.01604750007390976,2,West Ham,513493,0,Jannik Vestergaard,2021,2,1,Sub,16620,0.0,0.01604750007390976,0,Leicester,0.0,0
+2022-01-19,0.0,0,0,1.2149200439453125,2,Tottenham,509158,0,Jannik Vestergaard,2021,3,90,DC,16540,0.0,1.2149200439453125,0,Leicester,0.0,0
+2021-12-26,0.0,0,0,0.7223529815673828,6,Leicester,505107,0,Jannik Vestergaard,2021,3,90,DC,16560,0.0,0.7223529815673828,0,Manchester City,0.0,0
+2021-10-24,0.0,0,0,0.15277600288391113,1,Leicester,490469,0,Jannik Vestergaard,2021,2,20,Sub,16457,0.0,0.15277600288391113,0,Brentford,0.0,0
+2021-10-16,0.0,0,0,0.0,4,Manchester United,488110,0,Jannik Vestergaard,2021,2,1,Sub,16450,0.0,0.0,0,Leicester,0.0,0
+2021-10-03,0.0,1,0,0.0,2,Leicester,487007,0,Jannik Vestergaard,2021,2,90,DC,16439,0.06727150082588196,0.0,0,Crystal Palace,0.0,0
+2021-09-25,0.0,0,0,0.8571879863739014,2,Burnley,484673,0,Jannik Vestergaard,2021,2,90,DC,16430,0.0,0.8571879863739014,0,Leicester,0.0,0
+2021-09-19,0.0,0,0,0.7851319909095764,2,Leicester,482594,0,Jannik Vestergaard,2021,1,90,DC,16423,0.0,0.7851319909095764,0,Brighton,0.0,0
+2021-09-11,0.03875559940934181,0,0,0.03514130041003227,0,Manchester City,480375,0,Jannik Vestergaard,2021,1,63,DC,16409,0.0,0.03514130041003227,1,Leicester,0.03875559940934181,0
+2021-08-14,0.0,0,0,0.0,1,Wolverhampton Wanderers,475538,0,Jannik Vestergaard,2021,0,26,Sub,16381,0.0,0.0,0,Leicester,0.0,0

@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-08-24,0,0,0,0,0,0,Southampton,0,344045,0,Florin Andone,2019,2,29,FW,11666,0,Brighton,0,0
-2019-08-17,0,1,0,0,0.0581962987780571,1,West Ham,0,341852,0,Florin Andone,2019,1,15,Sub,11655,0,Brighton,0,0
-2019-08-10,0.36459600925445557,0,1,0.36459600925445557,0,0,Brighton,0.36459600925445557,341314,0,Florin Andone,2019,3,25,Sub,11648,1,Watford,0,1
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-08-24,0.0,0,0,0.0,0,Southampton,344045,0,Florin Andone,2019,2,29,FW,11666,0.0,0.0,0,Brighton,0.0,0
+2019-08-17,0.0,1,0,0.0,1,West Ham,341852,0,Florin Andone,2019,1,15,Sub,11655,0.0581962987780571,0.0,0,Brighton,0.0,0
+2019-08-10,0.36459600925445557,0,1,0.36459600925445557,0,Brighton,341314,0,Florin Andone,2019,3,25,Sub,11648,0.0,0.0,1,Watford,0.36459600925445557,1

@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-04-12,0,0,0,0,0,0,Everton,0,462484,0,Robin Olsen,2020,0,90,GK,14735,0,Brighton,0,0
-2021-04-05,0,0,0,0.8195909857749939,0,1,Crystal Palace,0,460611,0,Robin Olsen,2020,1,90,GK,14728,0,Everton,0.8195909857749939,0
-2021-02-14,0,0,0,0,0,0,Fulham,0,449901,0,Robin Olsen,2020,2,90,GK,14669,0,Everton,0,0
-2021-02-06,0,0,0,0,0,3,Everton,0,447939,0,Robin Olsen,2020,3,90,GK,14660,0,Manchester United,0,0
-2021-02-03,0,0,0,0,0,1,Everton,0,447018,0,Robin Olsen,2020,2,90,GK,14648,0,Leeds,0,0
-2020-12-16,0,0,0,0,0,0,Everton,0,434681,0,Robin Olsen,2020,2,90,GK,14559,0,Leicester,0,0
-2020-11-01,0,0,0,0,0,2,Everton,0,425196,0,Robin Olsen,2020,1,90,GK,14501,0,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-04-12,0.0,0,0,0.0,0,Everton,462484,0,Robin Olsen,2020,0,90,GK,14735,0.0,0.0,0,Brighton,0.0,0
+2021-04-05,0.0,0,0,0.8195909857749939,1,Crystal Palace,460611,0,Robin Olsen,2020,1,90,GK,14728,0.0,0.8195909857749939,0,Everton,0.0,0
+2021-02-14,0.0,0,0,0.0,0,Fulham,449901,0,Robin Olsen,2020,2,90,GK,14669,0.0,0.0,0,Everton,0.0,0
+2021-02-06,0.0,0,0,0.0,3,Everton,447939,0,Robin Olsen,2020,3,90,GK,14660,0.0,0.0,0,Manchester United,0.0,0
+2021-02-03,0.0,0,0,0.0,1,Everton,447018,0,Robin Olsen,2020,2,90,GK,14648,0.0,0.0,0,Leeds,0.0,0
+2020-12-16,0.0,0,0,0.0,0,Everton,434681,0,Robin Olsen,2020,2,90,GK,14559,0.0,0.0,0,Leicester,0.0,0
+2020-11-01,0.0,0,0,0.0,2,Everton,425196,0,Robin Olsen,2020,1,90,GK,14501,0.0,0.0,0,Newcastle United,0.0,0

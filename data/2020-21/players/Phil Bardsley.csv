@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-02-13,0,0,0,0,0,0,Burnley,0,449052,0,Phil Bardsley,2020,3,2,Sub,14668,0,Crystal Palace,0,0
-2020-10-03,0,0,0,0.03972259908914566,0,3,Burnley,0,419793,0,Phil Bardsley,2020,1,90,DR,14472,0,Newcastle United,0.03972259908914566,0
-2020-09-26,0,0,0,0.06188270077109337,0,0,Southampton,0,417674,0,Phil Bardsley,2020,1,90,DR,14109,0,Burnley,0.06188270077109337,0
-2020-09-20,0.06341449916362762,0,0,0.025088699534535408,0,4,Burnley,0.06341449916362762,416726,0,Phil Bardsley,2020,2,90,DR,14103,3,Leicester,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-02-13,0.0,0,0,0.0,0,Burnley,449052,0,Phil Bardsley,2020,3,2,Sub,14668,0.0,0.0,0,Crystal Palace,0.0,0
+2020-10-03,0.0,0,0,0.03972259908914566,3,Burnley,419793,0,Phil Bardsley,2020,1,90,DR,14472,0.0,0.03972259908914566,0,Newcastle United,0.0,0
+2020-09-26,0.0,0,0,0.06188270077109337,0,Southampton,417674,0,Phil Bardsley,2020,1,90,DR,14109,0.0,0.06188270077109337,0,Burnley,0.0,0
+2020-09-20,0.06341449916362762,0,0,0.025088699534535408,4,Burnley,416726,0,Phil Bardsley,2020,2,90,DR,14103,0.0,0.0,3,Leicester,0.06341449916362762,0

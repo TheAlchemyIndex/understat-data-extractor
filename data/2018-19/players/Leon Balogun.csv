@@ -1,9 +1,9 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-12-26,0,0,0,0,0,1,Arsenal,0,279223,0,Leon Balogun,2018,1,90,DC,9386,0,Brighton,0,0
-2018-12-22,0,0,0,0.420974999666214,0,2,Brighton,0,278933,0,Leon Balogun,2018,0,90,DC,9375,0,Bournemouth,0.420974999666214,0
-2018-12-16,0,0,0,0.03758459910750389,0,1,Chelsea,0,278672,0,Leon Balogun,2018,2,90,DC,9366,0,Brighton,0.03758459910750389,0
-2018-12-08,0,0,0,0.27285799384117126,0,1,Brighton,0,278295,0,Leon Balogun,2018,0,90,DC,9354,0,Burnley,0.27285799384117126,0
-2018-12-04,0.08249639719724655,0,1,0,0,3,Crystal Palace,0.08249639719724655,277930,0,Leon Balogun,2018,1,60,Sub,9337,1,Brighton,0,1
-2018-12-01,0,0,0,0,0,1,Brighton,0,277777,0,Leon Balogun,2018,2,8,Sub,9332,0,Huddersfield,0,0
-2018-08-25,0,0,0,0,0,1,Brighton,0,259341,0,Leon Balogun,2018,0,90,DC,9223,0,Liverpool,0,0
-2018-08-19,0,0,0,0,0,3,Manchester United,0,258946,0,Leon Balogun,2018,2,71,Sub,9215,0,Brighton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-12-26,0.0,0,0,0.0,1,Arsenal,279223,0,Leon Balogun,2018,1,90,DC,9386,0.0,0.0,0,Brighton,0.0,0
+2018-12-22,0.0,0,0,0.420974999666214,2,Brighton,278933,0,Leon Balogun,2018,0,90,DC,9375,0.0,0.420974999666214,0,Bournemouth,0.0,0
+2018-12-16,0.0,0,0,0.03758459910750389,1,Chelsea,278672,0,Leon Balogun,2018,2,90,DC,9366,0.0,0.03758459910750389,0,Brighton,0.0,0
+2018-12-08,0.0,0,0,0.27285799384117126,1,Brighton,278295,0,Leon Balogun,2018,0,90,DC,9354,0.0,0.27285799384117126,0,Burnley,0.0,0
+2018-12-04,0.08249639719724655,0,1,0.0,3,Crystal Palace,277930,0,Leon Balogun,2018,1,60,Sub,9337,0.0,0.0,1,Brighton,0.08249639719724655,1
+2018-12-01,0.0,0,0,0.0,1,Brighton,277777,0,Leon Balogun,2018,2,8,Sub,9332,0.0,0.0,0,Huddersfield,0.0,0
+2018-08-25,0.0,0,0,0.0,1,Brighton,259341,0,Leon Balogun,2018,0,90,DC,9223,0.0,0.0,0,Liverpool,0.0,0
+2018-08-19,0.0,0,0,0.0,3,Manchester United,258946,0,Leon Balogun,2018,2,71,Sub,9215,0.0,0.0,0,Brighton,0.0,0

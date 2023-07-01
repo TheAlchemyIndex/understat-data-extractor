@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2016-09-16,0,0,0,0,0,1,Liverpool,0,126272,0,Kevin Stewart,2016,2,1,Sub,501,0,Chelsea,0,0
-2016-09-10,0,0,0,0.24216100573539734,0,4,Leicester,0,126064,0,Kevin Stewart,2016,1,12,Sub,498,0,Liverpool,0.24216100573539734,0
-2016-08-27,0,0,0,0,0,1,Liverpool,0,125910,0,Kevin Stewart,2016,1,1,Sub,481,0,Tottenham,0,0
-2016-08-14,0,0,0,0,0,3,Liverpool,0,124893,0,Kevin Stewart,2016,4,1,Sub,469,0,Arsenal,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2016-09-16,0.0,0,0,0.0,1,Liverpool,126272,0,Kevin Stewart,2016,2,1,Sub,501,0.0,0.0,0,Chelsea,0.0,0
+2016-09-10,0.0,0,0,0.24216100573539734,4,Leicester,126064,0,Kevin Stewart,2016,1,12,Sub,498,0.0,0.24216100573539734,0,Liverpool,0.0,0
+2016-08-27,0.0,0,0,0.0,1,Liverpool,125910,0,Kevin Stewart,2016,1,1,Sub,481,0.0,0.0,0,Tottenham,0.0,0
+2016-08-14,0.0,0,0,0.0,3,Liverpool,124893,0,Kevin Stewart,2016,4,1,Sub,469,0.0,0.0,0,Arsenal,0.0,0

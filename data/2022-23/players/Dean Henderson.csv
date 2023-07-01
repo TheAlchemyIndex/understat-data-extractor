@@ -1,19 +1,19 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-01-14,0,0,0,0.1907140016555786,0,2,Leicester,0,568775,0,Dean Henderson,2022,0,90,GK,18399,0,Nottingham Forest,0.1907140016555786,0
-2023-01-04,0,0,0,0,0,0,Nottingham Forest,0,567367,0,Dean Henderson,2022,1,90,GK,18391,0,Southampton,0,0
-2023-01-01,0,0,0,0.05209549888968468,0,1,Chelsea,0,566777,0,Dean Henderson,2022,1,90,GK,18378,0,Nottingham Forest,0.05209549888968468,0
-2022-11-12,0,0,0,0.08139640092849731,0,1,Crystal Palace,0,564502,0,Dean Henderson,2022,0,90,GK,18358,0,Nottingham Forest,0.08139640092849731,0
-2022-11-05,0,0,0,0.31634700298309326,0,2,Brentford,0,561910,0,Dean Henderson,2022,2,90,GK,18347,0,Nottingham Forest,0.31634700298309326,0
-2022-10-30,0,0,0,0,0,5,Nottingham Forest,0,560762,0,Dean Henderson,2022,0,90,GK,18332,0,Arsenal,0,0
-2022-10-22,0,0,0,0,0,1,Liverpool,0,557954,0,Dean Henderson,2022,0,90,GK,18327,0,Nottingham Forest,0,0
-2022-10-18,0,0,0,0,0,0,Nottingham Forest,0,557321,0,Dean Henderson,2022,0,90,GK,18315,0,Brighton,0,0
-2022-10-15,0,0,0,0.05701280012726784,0,1,Nottingham Forest,0,555945,0,Dean Henderson,2022,0,90,GK,18311,0,Wolverhampton Wanderers,0.05701280012726784,0
-2022-10-10,0,0,0,0,0,1,Aston Villa,0,555414,0,Dean Henderson,2022,1,90,GK,18300,0,Nottingham Forest,0,0
-2022-10-03,0,0,0,0,0,4,Nottingham Forest,0,553614,0,Dean Henderson,2022,0,90,GK,18287,0,Leicester,0,0
-2022-09-16,0,0,0,0.07709719985723495,0,2,Fulham,0,550240,0,Dean Henderson,2022,3,90,GK,18273,0,Nottingham Forest,0.07709719985723495,0
-2022-09-03,0,0,0,0.15443600714206696,0,2,Bournemouth,0,547125,0,Dean Henderson,2022,3,90,GK,18254,0,Nottingham Forest,0.15443600714206696,0
-2022-08-31,0,0,0,0.08458150178194046,0,6,Nottingham Forest,0,546326,0,Dean Henderson,2022,0,90,GK,18246,0,Manchester City,0.08458150178194046,0
-2022-08-28,0,0,0,0.0739360973238945,0,0,Tottenham,0,545386,0,Dean Henderson,2022,2,90,GK,18241,0,Nottingham Forest,0.0739360973238945,0
-2022-08-20,0,0,0,0.016829699277877808,0,1,Nottingham Forest,0,542354,0,Dean Henderson,2022,1,90,GK,18224,0,Everton,0.016829699277877808,0
-2022-08-14,0,0,0,0.1272210031747818,0,1,West Ham,0,541253,0,Dean Henderson,2022,0,90,GK,18219,0,Nottingham Forest,0.1272210031747818,0
-2022-08-06,0,0,0,0,0,2,Nottingham Forest,0,539468,0,Dean Henderson,2022,0,90,GK,18206,0,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-01-14,0.0,0,0,0.1907140016555786,2,Leicester,568775,0,Dean Henderson,2022,0,90,GK,18399,0.0,0.1907140016555786,0,Nottingham Forest,0.0,0
+2023-01-04,0.0,0,0,0.0,0,Nottingham Forest,567367,0,Dean Henderson,2022,1,90,GK,18391,0.0,0.0,0,Southampton,0.0,0
+2023-01-01,0.0,0,0,0.05209549888968468,1,Chelsea,566777,0,Dean Henderson,2022,1,90,GK,18378,0.0,0.05209549888968468,0,Nottingham Forest,0.0,0
+2022-11-12,0.0,0,0,0.08139640092849731,1,Crystal Palace,564502,0,Dean Henderson,2022,0,90,GK,18358,0.0,0.08139640092849731,0,Nottingham Forest,0.0,0
+2022-11-05,0.0,0,0,0.31634700298309326,2,Brentford,561910,0,Dean Henderson,2022,2,90,GK,18347,0.0,0.31634700298309326,0,Nottingham Forest,0.0,0
+2022-10-30,0.0,0,0,0.0,5,Nottingham Forest,560762,0,Dean Henderson,2022,0,90,GK,18332,0.0,0.0,0,Arsenal,0.0,0
+2022-10-22,0.0,0,0,0.0,1,Liverpool,557954,0,Dean Henderson,2022,0,90,GK,18327,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-10-18,0.0,0,0,0.0,0,Nottingham Forest,557321,0,Dean Henderson,2022,0,90,GK,18315,0.0,0.0,0,Brighton,0.0,0
+2022-10-15,0.0,0,0,0.05701280012726784,1,Nottingham Forest,555945,0,Dean Henderson,2022,0,90,GK,18311,0.0,0.05701280012726784,0,Wolverhampton Wanderers,0.0,0
+2022-10-10,0.0,0,0,0.0,1,Aston Villa,555414,0,Dean Henderson,2022,1,90,GK,18300,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-10-03,0.0,0,0,0.0,4,Nottingham Forest,553614,0,Dean Henderson,2022,0,90,GK,18287,0.0,0.0,0,Leicester,0.0,0
+2022-09-16,0.0,0,0,0.07709719985723495,2,Fulham,550240,0,Dean Henderson,2022,3,90,GK,18273,0.0,0.07709719985723495,0,Nottingham Forest,0.0,0
+2022-09-03,0.0,0,0,0.15443600714206696,2,Bournemouth,547125,0,Dean Henderson,2022,3,90,GK,18254,0.0,0.15443600714206696,0,Nottingham Forest,0.0,0
+2022-08-31,0.0,0,0,0.08458150178194046,6,Nottingham Forest,546326,0,Dean Henderson,2022,0,90,GK,18246,0.0,0.08458150178194046,0,Manchester City,0.0,0
+2022-08-28,0.0,0,0,0.0739360973238945,0,Tottenham,545386,0,Dean Henderson,2022,2,90,GK,18241,0.0,0.0739360973238945,0,Nottingham Forest,0.0,0
+2022-08-20,0.0,0,0,0.016829699277877808,1,Nottingham Forest,542354,0,Dean Henderson,2022,1,90,GK,18224,0.0,0.016829699277877808,0,Everton,0.0,0
+2022-08-14,0.0,0,0,0.1272210031747818,1,West Ham,541253,0,Dean Henderson,2022,0,90,GK,18219,0.0,0.1272210031747818,0,Nottingham Forest,0.0,0
+2022-08-06,0.0,0,0,0.0,2,Nottingham Forest,539468,0,Dean Henderson,2022,0,90,GK,18206,0.0,0.0,0,Newcastle United,0.0,0

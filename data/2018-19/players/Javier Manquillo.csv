@@ -1,19 +1,19 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-05-04,0.06671780347824097,2,0,0.14785300195217133,0.14679299294948578,2,Liverpool,0.06671780347824097,330566,1,Javier Manquillo,2018,3,90,DR,9559,1,Newcastle United,0,0
-2019-04-27,0,0,0,0,0,1,Newcastle United,0,328449,0,Javier Manquillo,2018,1,90,DR,9556,0,Brighton,0,0
-2019-04-20,0,0,0,0.019925300031900406,0,3,Southampton,0,326201,0,Javier Manquillo,2018,1,90,DR,9539,0,Newcastle United,0.019925300031900406,0
-2019-04-12,0,0,0,0.07951570302248001,0,0,Newcastle United,0,323886,0,Javier Manquillo,2018,1,90,DR,9532,0,Leicester,0.07951570302248001,0
-2019-03-02,0,0,0,0.5079339742660522,0,2,Newcastle United,0,305390,0,Javier Manquillo,2018,0,90,DR,9478,0,West Ham,0.5079339742660522,0
-2019-02-26,0,1,0,0.759456992149353,0.012181599624454975,2,Burnley,0,305017,1,Javier Manquillo,2018,0,90,DR,9473,0,Newcastle United,0.7472749948501587,0
-2019-02-11,0,0,0,0,0,1,Newcastle United,0,304711,0,Javier Manquillo,2018,1,1,Sub,9450,0,Wolverhampton Wanderers,0,0
-2019-01-29,0,0,0,0,0,2,Manchester City,0,304009,0,Javier Manquillo,2018,1,1,Sub,9434,0,Newcastle United,0,0
-2019-01-19,0,0,0,0,0,3,Cardiff,0,303764,0,Javier Manquillo,2018,0,2,Sub,9420,0,Newcastle United,0,0
-2019-01-12,0,2,0,0.0571771003305912,0.0571771003305912,2,Newcastle United,0,303506,0,Javier Manquillo,2018,1,6,Sub,9413,0,Chelsea,0,0
-2018-12-22,0.016318699344992638,1,0,0.09017600119113922,0.015489799901843071,0,Fulham,0.016318699344992638,278810,0,Javier Manquillo,2018,0,87,DR,9369,1,Newcastle United,0.074686199426651,0
-2018-12-15,0,1,0,0.4251430034637451,0.4251430034637451,0,Newcastle United,0,278576,1,Javier Manquillo,2018,1,90,DMR,9363,0,Huddersfield,0,0
-2018-12-09,0,0,0,0,0,1,Wolverhampton Wanderers,0,278403,0,Javier Manquillo,2018,2,43,Sub,9348,0,Newcastle United,0,0
-2018-12-05,0,0,0,0.3497839868068695,0,1,Newcastle United,0,278104,0,Javier Manquillo,2018,1,90,DL,9345,0,Everton,0.3497839868068695,0
-2018-12-01,0,1,0,0.1258859932422638,0.02780349925160408,0,West Ham,0,277671,0,Javier Manquillo,2018,3,90,DL,9328,0,Newcastle United,0.09808299690485,0
-2018-10-06,0,0,0,0.0765203982591629,0,3,Newcastle United,0,276166,0,Javier Manquillo,2018,2,90,DL,9273,0,Manchester United,0.0765203982591629,0
-2018-09-29,0,0,0,0,0,0,Leicester,0,260523,0,Javier Manquillo,2018,2,9,Sub,9259,0,Newcastle United,0,0
-2018-08-18,0,0,0,0,0,0,Newcastle United,0,259004,0,Javier Manquillo,2018,0,49,DR,9207,0,Cardiff,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-05-04,0.06671780347824097,2,0,0.14785300195217133,2,Liverpool,330566,1,Javier Manquillo,2018,3,90,DR,9559,0.14679299294948578,0.0,1,Newcastle United,0.06671780347824097,0
+2019-04-27,0.0,0,0,0.0,1,Newcastle United,328449,0,Javier Manquillo,2018,1,90,DR,9556,0.0,0.0,0,Brighton,0.0,0
+2019-04-20,0.0,0,0,0.019925300031900406,3,Southampton,326201,0,Javier Manquillo,2018,1,90,DR,9539,0.0,0.019925300031900406,0,Newcastle United,0.0,0
+2019-04-12,0.0,0,0,0.07951570302248001,0,Newcastle United,323886,0,Javier Manquillo,2018,1,90,DR,9532,0.0,0.07951570302248001,0,Leicester,0.0,0
+2019-03-02,0.0,0,0,0.5079339742660522,2,Newcastle United,305390,0,Javier Manquillo,2018,0,90,DR,9478,0.0,0.5079339742660522,0,West Ham,0.0,0
+2019-02-26,0.0,1,0,0.759456992149353,2,Burnley,305017,1,Javier Manquillo,2018,0,90,DR,9473,0.012181599624454975,0.7472749948501587,0,Newcastle United,0.0,0
+2019-02-11,0.0,0,0,0.0,1,Newcastle United,304711,0,Javier Manquillo,2018,1,1,Sub,9450,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2019-01-29,0.0,0,0,0.0,2,Manchester City,304009,0,Javier Manquillo,2018,1,1,Sub,9434,0.0,0.0,0,Newcastle United,0.0,0
+2019-01-19,0.0,0,0,0.0,3,Cardiff,303764,0,Javier Manquillo,2018,0,2,Sub,9420,0.0,0.0,0,Newcastle United,0.0,0
+2019-01-12,0.0,2,0,0.0571771003305912,2,Newcastle United,303506,0,Javier Manquillo,2018,1,6,Sub,9413,0.0571771003305912,0.0,0,Chelsea,0.0,0
+2018-12-22,0.016318699344992638,1,0,0.09017600119113922,0,Fulham,278810,0,Javier Manquillo,2018,0,87,DR,9369,0.015489799901843071,0.074686199426651,1,Newcastle United,0.016318699344992638,0
+2018-12-15,0.0,1,0,0.4251430034637451,0,Newcastle United,278576,1,Javier Manquillo,2018,1,90,DMR,9363,0.4251430034637451,0.0,0,Huddersfield,0.0,0
+2018-12-09,0.0,0,0,0.0,1,Wolverhampton Wanderers,278403,0,Javier Manquillo,2018,2,43,Sub,9348,0.0,0.0,0,Newcastle United,0.0,0
+2018-12-05,0.0,0,0,0.3497839868068695,1,Newcastle United,278104,0,Javier Manquillo,2018,1,90,DL,9345,0.0,0.3497839868068695,0,Everton,0.0,0
+2018-12-01,0.0,1,0,0.1258859932422638,0,West Ham,277671,0,Javier Manquillo,2018,3,90,DL,9328,0.02780349925160408,0.09808299690485,0,Newcastle United,0.0,0
+2018-10-06,0.0,0,0,0.0765203982591629,3,Newcastle United,276166,0,Javier Manquillo,2018,2,90,DL,9273,0.0,0.0765203982591629,0,Manchester United,0.0,0
+2018-09-29,0.0,0,0,0.0,0,Leicester,260523,0,Javier Manquillo,2018,2,9,Sub,9259,0.0,0.0,0,Newcastle United,0.0,0
+2018-08-18,0.0,0,0,0.0,0,Newcastle United,259004,0,Javier Manquillo,2018,0,49,DR,9207,0.0,0.0,0,Cardiff,0.0,0

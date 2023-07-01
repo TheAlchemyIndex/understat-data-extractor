@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-04-14,0,1,0,0.07847130298614502,0.07847130298614502,1,Watford,0,232091,0,Jerome Sinclair,2017,0,1,Sub,7451,0,Huddersfield,0,0
-2018-01-02,0,0,0,0,0,3,Watford,0,206627,0,Jerome Sinclair,2017,1,6,Sub,7335,0,Manchester City,0,0
-2017-12-26,0,0,0,0,0,2,Leicester,0,205702,0,Jerome Sinclair,2017,1,1,Sub,7317,0,Watford,0,0
-2017-12-23,0,0,0,0.2764680087566376,0,1,Watford,0,202916,0,Jerome Sinclair,2017,0,18,Sub,7305,0,Brighton,0.2764680087566376,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-04-14,0.0,1,0,0.07847130298614502,1,Watford,232091,0,Jerome Sinclair,2017,0,1,Sub,7451,0.07847130298614502,0.0,0,Huddersfield,0.0,0
+2018-01-02,0.0,0,0,0.0,3,Watford,206627,0,Jerome Sinclair,2017,1,6,Sub,7335,0.0,0.0,0,Manchester City,0.0,0
+2017-12-26,0.0,0,0,0.0,2,Leicester,205702,0,Jerome Sinclair,2017,1,1,Sub,7317,0.0,0.0,0,Watford,0.0,0
+2017-12-23,0.0,0,0,0.2764680087566376,1,Watford,202916,0,Jerome Sinclair,2017,0,18,Sub,7305,0.0,0.2764680087566376,0,Brighton,0.0,0

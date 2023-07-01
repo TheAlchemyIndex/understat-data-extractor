@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-21,0,1,0,0.030277200043201447,0.01258660014718771,1,Tottenham,0,125227,0,Josh Tymon,2016,7,75,ML,3513,0,Hull,0.017690500244498253,0
-2017-02-04,0,0,0,0.5675579905509949,0,2,Liverpool,0,129627,0,Josh Tymon,2016,0,26,Sub,3373,0,Hull,0.5675579905509949,0
-2017-02-01,0,0,0,0,0,0,Hull,0,132336,0,Josh Tymon,2016,0,69,ML,3368,0,Manchester United,0,0
-2016-11-26,0,0,0,0.016474999487400055,0,1,West Bromwich Albion,0,129255,0,Josh Tymon,2016,1,90,DL,2708,0,Hull,0.016474999487400055,0
-2016-11-19,0,0,0,0.16140200197696686,0,3,Hull,0,128689,0,Josh Tymon,2016,0,71,DL,2700,0,Sunderland,0.16140200197696686,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-21,0.0,1,0,0.030277200043201447,1,Tottenham,125227,0,Josh Tymon,2016,7,75,ML,3513,0.01258660014718771,0.017690500244498253,0,Hull,0.0,0
+2017-02-04,0.0,0,0,0.5675579905509949,2,Liverpool,129627,0,Josh Tymon,2016,0,26,Sub,3373,0.0,0.5675579905509949,0,Hull,0.0,0
+2017-02-01,0.0,0,0,0.0,0,Hull,132336,0,Josh Tymon,2016,0,69,ML,3368,0.0,0.0,0,Manchester United,0.0,0
+2016-11-26,0.0,0,0,0.016474999487400055,1,West Bromwich Albion,129255,0,Josh Tymon,2016,1,90,DL,2708,0.0,0.016474999487400055,0,Hull,0.0,0
+2016-11-19,0.0,0,0,0.16140200197696686,3,Hull,128689,0,Josh Tymon,2016,0,71,DL,2700,0.0,0.16140200197696686,0,Sunderland,0.0,0

@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-08-27,0,0,0,0,0,2,Fulham,0,544671,0,Jay Stansfield,2022,1,1,Sub,18238,0,Arsenal,0,0
-2022-08-20,0.1730169951915741,1,0,0.23198199272155762,0.05896500125527382,3,Brentford,0.1730169951915741,542403,0,Jay Stansfield,2022,2,79,AMR,18225,2,Fulham,0,0
-2022-08-13,0,0,0,0,0,0,Fulham,0,540642,0,Jay Stansfield,2022,0,5,Sub,18216,0,Wolverhampton Wanderers,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-08-27,0.0,0,0,0.0,2,Fulham,544671,0,Jay Stansfield,2022,1,1,Sub,18238,0.0,0.0,0,Arsenal,0.0,0
+2022-08-20,0.1730169951915741,1,0,0.23198199272155762,3,Brentford,542403,0,Jay Stansfield,2022,2,79,AMR,18225,0.05896500125527382,0.0,2,Fulham,0.1730169951915741,0
+2022-08-13,0.0,0,0,0.0,0,Fulham,540642,0,Jay Stansfield,2022,0,5,Sub,18216,0.0,0.0,0,Wolverhampton Wanderers,0.0,0

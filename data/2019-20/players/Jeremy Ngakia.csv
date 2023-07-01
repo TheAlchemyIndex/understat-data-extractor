@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-06-20,0.01403649989515543,0,0,0.30087900161743164,0,0,Wolverhampton Wanderers,0.01403649989515543,401363,0,Jeremy Ngakia,2019,2,82,DR,11934,1,West Ham,0.2868419885635376,0
-2020-03-07,0,0,0,0.4889500141143799,0,1,West Ham,0,387767,0,Jeremy Ngakia,2019,0,90,DR,11923,0,Arsenal,0.4889500141143799,0
-2020-02-29,0,0,0,0,0,3,Southampton,0,387507,0,Jeremy Ngakia,2019,1,90,DR,11922,0,West Ham,0,0
-2020-02-24,0,0,0,0.08711270242929459,0,3,West Ham,0,387387,0,Jeremy Ngakia,2019,2,90,DR,11911,0,Liverpool,0.08711270242929459,0
-2020-01-29,0,0,0,0.015023100189864635,0,0,Liverpool,0,386553,0,Jeremy Ngakia,2019,2,90,DR,11822,0,West Ham,0.015023100189864635,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-06-20,0.01403649989515543,0,0,0.30087900161743164,0,Wolverhampton Wanderers,401363,0,Jeremy Ngakia,2019,2,82,DR,11934,0.0,0.2868419885635376,1,West Ham,0.01403649989515543,0
+2020-03-07,0.0,0,0,0.4889500141143799,1,West Ham,387767,0,Jeremy Ngakia,2019,0,90,DR,11923,0.0,0.4889500141143799,0,Arsenal,0.0,0
+2020-02-29,0.0,0,0,0.0,3,Southampton,387507,0,Jeremy Ngakia,2019,1,90,DR,11922,0.0,0.0,0,West Ham,0.0,0
+2020-02-24,0.0,0,0,0.08711270242929459,3,West Ham,387387,0,Jeremy Ngakia,2019,2,90,DR,11911,0.0,0.08711270242929459,0,Liverpool,0.0,0
+2020-01-29,0.0,0,0,0.015023100189864635,0,Liverpool,386553,0,Jeremy Ngakia,2019,2,90,DR,11822,0.0,0.015023100189864635,0,West Ham,0.0,0

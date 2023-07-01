@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-05-23,0.26944899559020996,0,0,1.0470399856567383,0,1,Manchester United,0.26944899559020996,473490,0,Brandon Williams,2020,2,90,DR,14814,1,Wolverhampton Wanderers,0.7775920033454895,0
-2021-05-11,0,1,0,0.031206099316477776,0.031206099316477776,1,Leicester,0,469896,0,Brandon Williams,2020,2,90,DR,14788,0,Manchester United,0.031206099316477776,0
-2021-03-07,0,0,0,0,0,0,Manchester United,0,455302,0,Brandon Williams,2020,2,1,Sub,14700,0,Manchester City,0,0
-2020-11-29,0,0,0,0,0,2,Manchester United,0,430392,0,Brandon Williams,2020,3,4,Sub,14534,0,Southampton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-05-23,0.26944899559020996,0,0,1.0470399856567383,1,Manchester United,473490,0,Brandon Williams,2020,2,90,DR,14814,0.0,0.7775920033454895,1,Wolverhampton Wanderers,0.26944899559020996,0
+2021-05-11,0.0,1,0,0.031206099316477776,1,Leicester,469896,0,Brandon Williams,2020,2,90,DR,14788,0.031206099316477776,0.031206099316477776,0,Manchester United,0.0,0
+2021-03-07,0.0,0,0,0.0,0,Manchester United,455302,0,Brandon Williams,2020,2,1,Sub,14700,0.0,0.0,0,Manchester City,0.0,0
+2020-11-29,0.0,0,0,0.0,2,Manchester United,430392,0,Brandon Williams,2020,3,4,Sub,14534,0.0,0.0,0,Southampton,0.0,0

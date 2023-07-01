@@ -1,13 +1,13 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-21,0,0,0,0,0,2,Crystal Palace,0,125328,0,Fraizer Campbell,2016,0,8,Sub,3516,0,Manchester United,0,0
-2017-04-29,0.06447199732065201,0,0,0,0,0,Burnley,0.06447199732065201,134360,0,Fraizer Campbell,2016,2,14,Sub,3480,1,Crystal Palace,0,0
-2017-04-26,0,0,0,0,0,0,Tottenham,0,132492,0,Fraizer Campbell,2016,1,8,Sub,3415,0,Crystal Palace,0,0
-2017-04-23,0,0,0,0,0,1,Crystal Palace,0,134265,0,Fraizer Campbell,2016,2,1,Sub,3476,0,Liverpool,0,0
-2017-01-04,0,0,0,0.05892140045762062,0,1,Swansea,0,131218,0,Fraizer Campbell,2016,2,42,Sub,3337,0,Crystal Palace,0.05892140045762062,0
-2017-01-01,0,0,0,0,0,2,Crystal Palace,0,130024,0,Fraizer Campbell,2016,0,12,Sub,3329,0,Arsenal,0,0
-2016-12-26,0,0,0,0,0,1,Crystal Palace,0,129914,0,Fraizer Campbell,2016,1,4,Sub,3145,0,Watford,0,0
-2016-12-17,0,0,0,0,0,0,Chelsea,0,131663,0,Fraizer Campbell,2016,1,9,Sub,3135,0,Crystal Palace,0,0
-2016-12-15,0,0,0,0,0,1,Manchester United,0,131024,0,Fraizer Campbell,2016,2,1,Sub,3130,0,Crystal Palace,0,0
-2016-12-10,0.2593959867954254,1,1,0.2593959867954254,0.05113080143928528,3,Crystal Palace,0.2593959867954254,129832,0,Fraizer Campbell,2016,3,8,Sub,3116,2,Hull,0,1
-2016-10-29,0,0,0,0,0,2,Liverpool,0,127524,0,Fraizer Campbell,2016,4,1,Sub,2683,0,Crystal Palace,0,0
-2016-10-22,0.1176609992980957,0,0,0.19184499979019165,0,3,Crystal Palace,0.1176609992980957,127263,0,Fraizer Campbell,2016,1,17,Sub,544,1,Leicester,0.07418320327997208,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-21,0.0,0,0,0.0,2,Crystal Palace,125328,0,Fraizer Campbell,2016,0,8,Sub,3516,0.0,0.0,0,Manchester United,0.0,0
+2017-04-29,0.06447199732065201,0,0,0.0,0,Burnley,134360,0,Fraizer Campbell,2016,2,14,Sub,3480,0.0,0.0,1,Crystal Palace,0.06447199732065201,0
+2017-04-26,0.0,0,0,0.0,0,Tottenham,132492,0,Fraizer Campbell,2016,1,8,Sub,3415,0.0,0.0,0,Crystal Palace,0.0,0
+2017-04-23,0.0,0,0,0.0,1,Crystal Palace,134265,0,Fraizer Campbell,2016,2,1,Sub,3476,0.0,0.0,0,Liverpool,0.0,0
+2017-01-04,0.0,0,0,0.05892140045762062,1,Swansea,131218,0,Fraizer Campbell,2016,2,42,Sub,3337,0.0,0.05892140045762062,0,Crystal Palace,0.0,0
+2017-01-01,0.0,0,0,0.0,2,Crystal Palace,130024,0,Fraizer Campbell,2016,0,12,Sub,3329,0.0,0.0,0,Arsenal,0.0,0
+2016-12-26,0.0,0,0,0.0,1,Crystal Palace,129914,0,Fraizer Campbell,2016,1,4,Sub,3145,0.0,0.0,0,Watford,0.0,0
+2016-12-17,0.0,0,0,0.0,0,Chelsea,131663,0,Fraizer Campbell,2016,1,9,Sub,3135,0.0,0.0,0,Crystal Palace,0.0,0
+2016-12-15,0.0,0,0,0.0,1,Manchester United,131024,0,Fraizer Campbell,2016,2,1,Sub,3130,0.0,0.0,0,Crystal Palace,0.0,0
+2016-12-10,0.2593959867954254,1,1,0.2593959867954254,3,Crystal Palace,129832,0,Fraizer Campbell,2016,3,8,Sub,3116,0.05113080143928528,0.0,2,Hull,0.2593959867954254,1
+2016-10-29,0.0,0,0,0.0,2,Liverpool,127524,0,Fraizer Campbell,2016,4,1,Sub,2683,0.0,0.0,0,Crystal Palace,0.0,0
+2016-10-22,0.1176609992980957,0,0,0.19184499979019165,3,Crystal Palace,127263,0,Fraizer Campbell,2016,1,17,Sub,544,0.0,0.07418320327997208,1,Leicester,0.1176609992980957,0

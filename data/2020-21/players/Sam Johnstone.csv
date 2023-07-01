@@ -1,38 +1,38 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-05-23,0,0,0,0.07232259958982468,0,3,West Bromwich Albion,0,473322,0,Sam Johnstone,2020,1,90,GK,14808,0,Leeds,0.07232259958982468,0
-2021-05-19,0,0,0,0,0,1,West Ham,0,472568,0,Sam Johnstone,2020,3,90,GK,14804,0,West Bromwich Albion,0,0
-2021-05-16,0,0,0,0.2825390100479126,0,1,Liverpool,0,471471,0,Sam Johnstone,2020,2,90,GK,14789,0,West Bromwich Albion,0.2825390100479126,0
-2021-05-09,0,0,0,0.46889498829841614,0,3,West Bromwich Albion,0,469645,0,Sam Johnstone,2020,1,90,GK,14775,0,Arsenal,0.46889498829841614,0
-2021-05-03,0,0,0,0.4320249855518341,0,1,Wolverhampton Wanderers,0,467965,0,Sam Johnstone,2020,1,90,GK,14774,0,West Bromwich Albion,0.4320249855518341,0
-2021-04-25,0,0,0,0.32479000091552734,0,2,West Bromwich Albion,0,466354,0,Sam Johnstone,2020,2,90,GK,14756,0,Aston Villa,0.32479000091552734,0
-2021-04-22,0,0,0,0,0,3,West Bromwich Albion,0,464867,0,Sam Johnstone,2020,0,90,GK,14750,0,Leicester,0,0
-2021-04-12,0,0,0,0.09333139657974243,0,3,Southampton,0,462352,0,Sam Johnstone,2020,0,90,GK,14743,0,West Bromwich Albion,0.09333139657974243,0
-2021-04-03,0,1,0,0.11011700332164764,0.11011700332164764,2,West Bromwich Albion,0,459170,1,Sam Johnstone,2020,5,90,GK,14727,0,Chelsea,0,0
-2021-03-13,0,0,0,0,0,1,West Bromwich Albion,0,456347,0,Sam Johnstone,2020,0,90,GK,14706,0,Crystal Palace,0,0
-2021-03-07,0,0,0,0.015611699782311916,0,0,Newcastle United,0,454987,0,Sam Johnstone,2020,0,90,GK,14703,0,West Bromwich Albion,0.015611699782311916,0
-2021-03-04,0,0,0,0,0,0,Everton,0,454192,0,Sam Johnstone,2020,1,90,GK,14723,0,West Bromwich Albion,0,0
-2021-02-27,0,0,0,0,0,1,Brighton,0,452256,0,Sam Johnstone,2020,0,90,GK,14692,0,West Bromwich Albion,0,0
-2021-02-20,0,0,0,0.07437259703874588,0,0,West Bromwich Albion,0,450714,0,Sam Johnstone,2020,0,90,GK,14678,0,Burnley,0.07437259703874588,0
-2021-02-14,0,0,0,0.29705798625946045,0,1,Manchester United,0,449637,0,Sam Johnstone,2020,1,90,GK,14673,0,West Bromwich Albion,0.29705798625946045,0
-2021-02-07,0,0,0,0.4156300127506256,0,2,West Bromwich Albion,0,448057,0,Sam Johnstone,2020,0,90,GK,14663,0,Tottenham,0.4156300127506256,0
-2021-02-02,0,0,0,0,0,2,West Bromwich Albion,0,446725,0,Sam Johnstone,2020,1,90,GK,14649,0,Sheffield United,0,0
-2021-01-30,0,0,0,0,0,2,Fulham,0,445649,0,Sam Johnstone,2020,2,90,GK,14640,0,West Bromwich Albion,0,0
-2021-01-26,0,0,0,0,0,0,Manchester City,0,445034,0,Sam Johnstone,2020,5,90,GK,14629,0,West Bromwich Albion,0,0
-2021-01-19,0,0,0,0,0,2,West Bromwich Albion,0,443169,0,Sam Johnstone,2020,1,90,GK,14611,0,West Ham,0,0
-2021-01-02,0,0,0,0,0,0,Arsenal,0,439279,0,Sam Johnstone,2020,4,90,GK,14600,0,West Bromwich Albion,0,0
-2020-12-29,0,0,0,0,0,0,Leeds,0,438457,0,Sam Johnstone,2020,5,90,GK,14590,0,West Bromwich Albion,0,0
-2020-12-27,0,0,0,0,0,1,West Bromwich Albion,0,438280,0,Sam Johnstone,2020,1,90,GK,14580,0,Liverpool,0,0
-2020-12-20,0,0,0,0,0,0,Aston Villa,0,436963,0,Sam Johnstone,2020,3,90,GK,14574,0,West Bromwich Albion,0,0
-2020-12-15,0,0,0,0,0,1,West Bromwich Albion,0,434452,0,Sam Johnstone,2020,1,90,GK,14564,0,Manchester City,0,0
-2020-12-12,0,0,0,0,0,2,West Bromwich Albion,0,433035,0,Sam Johnstone,2020,1,90,GK,14550,0,Newcastle United,0,0
-2020-12-06,0,0,0,0,0,1,Crystal Palace,0,431720,0,Sam Johnstone,2020,5,90,GK,14543,0,West Bromwich Albion,0,0
-2020-11-28,0,0,0,0,0,1,Sheffield United,0,429937,0,Sam Johnstone,2020,0,90,GK,14527,0,West Bromwich Albion,0,0
-2020-11-21,0,0,0,0,0,1,West Bromwich Albion,0,428279,0,Sam Johnstone,2020,0,90,GK,14520,0,Manchester United,0,0
-2020-11-08,0,0,0,0,0,0,Tottenham,0,426720,0,Sam Johnstone,2020,1,90,GK,14513,0,West Bromwich Albion,0,0
-2020-11-02,0,0,0,0,0,2,West Bromwich Albion,0,425642,0,Sam Johnstone,2020,0,90,GK,14497,0,Fulham,0,0
-2020-10-26,0,0,0,0.02199449948966503,0,1,West Bromwich Albion,0,423972,0,Sam Johnstone,2020,1,90,GK,14487,0,Brighton,0.02199449948966503,0
-2020-10-19,0,0,0,0.01852869987487793,0,0,Burnley,0,422344,0,Sam Johnstone,2020,0,90,GK,14484,0,West Bromwich Albion,0.01852869987487793,0
-2020-10-04,0,0,0,0,0,2,West Bromwich Albion,0,419966,0,Sam Johnstone,2020,0,90,GK,14473,0,Southampton,0,0
-2020-09-26,0,0,0,0,0,3,Chelsea,0,417584,0,Sam Johnstone,2020,3,90,GK,14108,0,West Bromwich Albion,0,0
-2020-09-19,0,0,0,0,0,5,West Bromwich Albion,0,415583,0,Sam Johnstone,2020,2,90,GK,14096,0,Everton,0,0
-2020-09-13,0,0,0,0,0,0,Leicester,0,414976,0,Sam Johnstone,2020,3,90,GK,14092,0,West Bromwich Albion,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-05-23,0.0,0,0,0.07232259958982468,3,West Bromwich Albion,473322,0,Sam Johnstone,2020,1,90,GK,14808,0.0,0.07232259958982468,0,Leeds,0.0,0
+2021-05-19,0.0,0,0,0.0,1,West Ham,472568,0,Sam Johnstone,2020,3,90,GK,14804,0.0,0.0,0,West Bromwich Albion,0.0,0
+2021-05-16,0.0,0,0,0.2825390100479126,1,Liverpool,471471,0,Sam Johnstone,2020,2,90,GK,14789,0.0,0.2825390100479126,0,West Bromwich Albion,0.0,0
+2021-05-09,0.0,0,0,0.46889498829841614,3,West Bromwich Albion,469645,0,Sam Johnstone,2020,1,90,GK,14775,0.0,0.46889498829841614,0,Arsenal,0.0,0
+2021-05-03,0.0,0,0,0.4320249855518341,1,Wolverhampton Wanderers,467965,0,Sam Johnstone,2020,1,90,GK,14774,0.0,0.4320249855518341,0,West Bromwich Albion,0.0,0
+2021-04-25,0.0,0,0,0.32479000091552734,2,West Bromwich Albion,466354,0,Sam Johnstone,2020,2,90,GK,14756,0.0,0.32479000091552734,0,Aston Villa,0.0,0
+2021-04-22,0.0,0,0,0.0,3,West Bromwich Albion,464867,0,Sam Johnstone,2020,0,90,GK,14750,0.0,0.0,0,Leicester,0.0,0
+2021-04-12,0.0,0,0,0.09333139657974243,3,Southampton,462352,0,Sam Johnstone,2020,0,90,GK,14743,0.0,0.09333139657974243,0,West Bromwich Albion,0.0,0
+2021-04-03,0.0,1,0,0.11011700332164764,2,West Bromwich Albion,459170,1,Sam Johnstone,2020,5,90,GK,14727,0.11011700332164764,0.0,0,Chelsea,0.0,0
+2021-03-13,0.0,0,0,0.0,1,West Bromwich Albion,456347,0,Sam Johnstone,2020,0,90,GK,14706,0.0,0.0,0,Crystal Palace,0.0,0
+2021-03-07,0.0,0,0,0.015611699782311916,0,Newcastle United,454987,0,Sam Johnstone,2020,0,90,GK,14703,0.0,0.015611699782311916,0,West Bromwich Albion,0.0,0
+2021-03-04,0.0,0,0,0.0,0,Everton,454192,0,Sam Johnstone,2020,1,90,GK,14723,0.0,0.0,0,West Bromwich Albion,0.0,0
+2021-02-27,0.0,0,0,0.0,1,Brighton,452256,0,Sam Johnstone,2020,0,90,GK,14692,0.0,0.0,0,West Bromwich Albion,0.0,0
+2021-02-20,0.0,0,0,0.07437259703874588,0,West Bromwich Albion,450714,0,Sam Johnstone,2020,0,90,GK,14678,0.0,0.07437259703874588,0,Burnley,0.0,0
+2021-02-14,0.0,0,0,0.29705798625946045,1,Manchester United,449637,0,Sam Johnstone,2020,1,90,GK,14673,0.0,0.29705798625946045,0,West Bromwich Albion,0.0,0
+2021-02-07,0.0,0,0,0.4156300127506256,2,West Bromwich Albion,448057,0,Sam Johnstone,2020,0,90,GK,14663,0.0,0.4156300127506256,0,Tottenham,0.0,0
+2021-02-02,0.0,0,0,0.0,2,West Bromwich Albion,446725,0,Sam Johnstone,2020,1,90,GK,14649,0.0,0.0,0,Sheffield United,0.0,0
+2021-01-30,0.0,0,0,0.0,2,Fulham,445649,0,Sam Johnstone,2020,2,90,GK,14640,0.0,0.0,0,West Bromwich Albion,0.0,0
+2021-01-26,0.0,0,0,0.0,0,Manchester City,445034,0,Sam Johnstone,2020,5,90,GK,14629,0.0,0.0,0,West Bromwich Albion,0.0,0
+2021-01-19,0.0,0,0,0.0,2,West Bromwich Albion,443169,0,Sam Johnstone,2020,1,90,GK,14611,0.0,0.0,0,West Ham,0.0,0
+2021-01-02,0.0,0,0,0.0,0,Arsenal,439279,0,Sam Johnstone,2020,4,90,GK,14600,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-12-29,0.0,0,0,0.0,0,Leeds,438457,0,Sam Johnstone,2020,5,90,GK,14590,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-12-27,0.0,0,0,0.0,1,West Bromwich Albion,438280,0,Sam Johnstone,2020,1,90,GK,14580,0.0,0.0,0,Liverpool,0.0,0
+2020-12-20,0.0,0,0,0.0,0,Aston Villa,436963,0,Sam Johnstone,2020,3,90,GK,14574,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-12-15,0.0,0,0,0.0,1,West Bromwich Albion,434452,0,Sam Johnstone,2020,1,90,GK,14564,0.0,0.0,0,Manchester City,0.0,0
+2020-12-12,0.0,0,0,0.0,2,West Bromwich Albion,433035,0,Sam Johnstone,2020,1,90,GK,14550,0.0,0.0,0,Newcastle United,0.0,0
+2020-12-06,0.0,0,0,0.0,1,Crystal Palace,431720,0,Sam Johnstone,2020,5,90,GK,14543,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-11-28,0.0,0,0,0.0,1,Sheffield United,429937,0,Sam Johnstone,2020,0,90,GK,14527,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-11-21,0.0,0,0,0.0,1,West Bromwich Albion,428279,0,Sam Johnstone,2020,0,90,GK,14520,0.0,0.0,0,Manchester United,0.0,0
+2020-11-08,0.0,0,0,0.0,0,Tottenham,426720,0,Sam Johnstone,2020,1,90,GK,14513,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-11-02,0.0,0,0,0.0,2,West Bromwich Albion,425642,0,Sam Johnstone,2020,0,90,GK,14497,0.0,0.0,0,Fulham,0.0,0
+2020-10-26,0.0,0,0,0.02199449948966503,1,West Bromwich Albion,423972,0,Sam Johnstone,2020,1,90,GK,14487,0.0,0.02199449948966503,0,Brighton,0.0,0
+2020-10-19,0.0,0,0,0.01852869987487793,0,Burnley,422344,0,Sam Johnstone,2020,0,90,GK,14484,0.0,0.01852869987487793,0,West Bromwich Albion,0.0,0
+2020-10-04,0.0,0,0,0.0,2,West Bromwich Albion,419966,0,Sam Johnstone,2020,0,90,GK,14473,0.0,0.0,0,Southampton,0.0,0
+2020-09-26,0.0,0,0,0.0,3,Chelsea,417584,0,Sam Johnstone,2020,3,90,GK,14108,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-09-19,0.0,0,0,0.0,5,West Bromwich Albion,415583,0,Sam Johnstone,2020,2,90,GK,14096,0.0,0.0,0,Everton,0.0,0
+2020-09-13,0.0,0,0,0.0,0,Leicester,414976,0,Sam Johnstone,2020,3,90,GK,14092,0.0,0.0,0,West Bromwich Albion,0.0,0

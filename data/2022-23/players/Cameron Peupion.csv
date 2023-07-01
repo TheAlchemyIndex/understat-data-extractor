@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-18,0.05361342057585716,0,0,0,0,4,Brighton,0.05361342057585716,597650,0,Cameron Peupion,2022,1,1,Sub,18449,1,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-18,0.05361342057585716,0,0,0.0,4,Brighton,597650,0,Cameron Peupion,2022,1,1,Sub,18449,0.0,0.0,1,Newcastle United,0.05361342057585716,0

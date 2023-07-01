@@ -1,21 +1,21 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-28,0,0,0,0,0,1,Nottingham Forest,0,600969,0,Sam Surridge,2022,1,1,Sub,18576,0,Crystal Palace,0,0
-2023-05-08,0,0,0,0,0,4,Southampton,0,595854,0,Sam Surridge,2022,3,6,Sub,18548,0,Nottingham Forest,0,0
-2023-04-22,0,0,0,0.02240254357457161,0,3,Nottingham Forest,0,590136,0,Sam Surridge,2022,2,1,Sub,18519,0,Liverpool,0.02240254357457161,0
-2023-04-16,0,0,0,0,0,0,Manchester United,0,589297,0,Sam Surridge,2022,2,23,Sub,18507,0,Nottingham Forest,0,0
-2023-03-17,0,0,0,0,0,1,Newcastle United,0,582682,0,Sam Surridge,2022,2,8,Sub,18479,0,Nottingham Forest,0,0
-2023-02-25,0,0,0,0,0,4,Nottingham Forest,0,577914,0,Sam Surridge,2022,0,3,Sub,18451,0,West Ham,0,0
-2023-02-05,0.04022489860653877,0,0,0,0,1,Leeds,0.04022489860653877,573839,0,Sam Surridge,2022,0,14,Sub,18419,1,Nottingham Forest,0,0
-2023-01-21,0.8022300004959106,0,1,0.8022300004959106,0,1,Nottingham Forest,0.8022300004959106,570257,0,Sam Surridge,2022,1,10,Sub,18403,2,Bournemouth,0,1
-2023-01-14,0.5658529996871948,0,0,1.1976900100708008,0,2,Leicester,0.5658529996871948,568787,0,Sam Surridge,2022,0,34,Sub,18399,2,Nottingham Forest,0.6318420171737671,0
-2023-01-04,0,0,0,0.025584500283002853,0,0,Nottingham Forest,0,567379,0,Sam Surridge,2022,1,16,Sub,18391,0,Southampton,0.025584500283002853,0
-2023-01-01,0,0,0,0,0,1,Chelsea,0,566788,0,Sam Surridge,2022,1,7,Sub,18378,0,Nottingham Forest,0,0
-2022-12-27,0.08524160087108612,0,0,0.08524160087108612,0,3,Nottingham Forest,0.08524160087108612,565711,0,Sam Surridge,2022,0,25,Sub,18370,1,Manchester United,0,0
-2022-11-12,0.08139640092849731,0,0,0.08139640092849731,0,1,Crystal Palace,0.08139640092849731,564514,0,Sam Surridge,2022,0,8,Sub,18358,1,Nottingham Forest,0,0
-2022-11-05,0,0,0,0,0,2,Brentford,0,561922,0,Sam Surridge,2022,2,1,Sub,18347,0,Nottingham Forest,0,0
-2022-10-15,0,0,0,0,0,1,Nottingham Forest,0,555958,0,Sam Surridge,2022,0,1,Sub,18311,0,Wolverhampton Wanderers,0,0
-2022-10-10,0,1,0,0.051858801394701004,0.051858801394701004,1,Aston Villa,0,555426,0,Sam Surridge,2022,1,17,Sub,18300,0,Nottingham Forest,0.051858801394701004,0
-2022-09-16,0,0,0,0,0,2,Fulham,0,550254,0,Sam Surridge,2022,3,19,Sub,18273,0,Nottingham Forest,0,0
-2022-08-28,0,0,0,0,0,0,Tottenham,0,545401,0,Sam Surridge,2022,2,1,Sub,18241,0,Nottingham Forest,0,0
-2022-08-14,0,0,0,0,0,1,West Ham,0,541266,0,Sam Surridge,2022,0,15,Sub,18219,0,Nottingham Forest,0,0
-2022-08-06,0.11772699654102325,0,0,0.11772699654102325,0,2,Nottingham Forest,0.11772699654102325,539477,0,Sam Surridge,2022,0,65,FW,18206,2,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-28,0.0,0,0,0.0,1,Nottingham Forest,600969,0,Sam Surridge,2022,1,1,Sub,18576,0.0,0.0,0,Crystal Palace,0.0,0
+2023-05-08,0.0,0,0,0.0,4,Southampton,595854,0,Sam Surridge,2022,3,6,Sub,18548,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-04-22,0.0,0,0,0.02240254357457161,3,Nottingham Forest,590136,0,Sam Surridge,2022,2,1,Sub,18519,0.0,0.02240254357457161,0,Liverpool,0.0,0
+2023-04-16,0.0,0,0,0.0,0,Manchester United,589297,0,Sam Surridge,2022,2,23,Sub,18507,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-03-17,0.0,0,0,0.0,1,Newcastle United,582682,0,Sam Surridge,2022,2,8,Sub,18479,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-02-25,0.0,0,0,0.0,4,Nottingham Forest,577914,0,Sam Surridge,2022,0,3,Sub,18451,0.0,0.0,0,West Ham,0.0,0
+2023-02-05,0.04022489860653877,0,0,0.0,1,Leeds,573839,0,Sam Surridge,2022,0,14,Sub,18419,0.0,0.0,1,Nottingham Forest,0.04022489860653877,0
+2023-01-21,0.8022300004959106,0,1,0.8022300004959106,1,Nottingham Forest,570257,0,Sam Surridge,2022,1,10,Sub,18403,0.0,0.0,2,Bournemouth,0.8022300004959106,1
+2023-01-14,0.5658529996871948,0,0,1.1976900100708008,2,Leicester,568787,0,Sam Surridge,2022,0,34,Sub,18399,0.0,0.6318420171737671,2,Nottingham Forest,0.5658529996871948,0
+2023-01-04,0.0,0,0,0.025584500283002853,0,Nottingham Forest,567379,0,Sam Surridge,2022,1,16,Sub,18391,0.0,0.025584500283002853,0,Southampton,0.0,0
+2023-01-01,0.0,0,0,0.0,1,Chelsea,566788,0,Sam Surridge,2022,1,7,Sub,18378,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-12-27,0.08524160087108612,0,0,0.08524160087108612,3,Nottingham Forest,565711,0,Sam Surridge,2022,0,25,Sub,18370,0.0,0.0,1,Manchester United,0.08524160087108612,0
+2022-11-12,0.08139640092849731,0,0,0.08139640092849731,1,Crystal Palace,564514,0,Sam Surridge,2022,0,8,Sub,18358,0.0,0.0,1,Nottingham Forest,0.08139640092849731,0
+2022-11-05,0.0,0,0,0.0,2,Brentford,561922,0,Sam Surridge,2022,2,1,Sub,18347,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-10-15,0.0,0,0,0.0,1,Nottingham Forest,555958,0,Sam Surridge,2022,0,1,Sub,18311,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2022-10-10,0.0,1,0,0.051858801394701004,1,Aston Villa,555426,0,Sam Surridge,2022,1,17,Sub,18300,0.051858801394701004,0.051858801394701004,0,Nottingham Forest,0.0,0
+2022-09-16,0.0,0,0,0.0,2,Fulham,550254,0,Sam Surridge,2022,3,19,Sub,18273,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-08-28,0.0,0,0,0.0,0,Tottenham,545401,0,Sam Surridge,2022,2,1,Sub,18241,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-08-14,0.0,0,0,0.0,1,West Ham,541266,0,Sam Surridge,2022,0,15,Sub,18219,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-08-06,0.11772699654102325,0,0,0.11772699654102325,2,Nottingham Forest,539477,0,Sam Surridge,2022,0,65,FW,18206,0.0,0.0,2,Newcastle United,0.11772699654102325,0

@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-07-26,0,0,0,1.135409951210022,0,1,Bournemouth,0,411322,0,Jarrad Branthwaite,2019,3,90,DC,12019,0,Everton,1.135409951210022,0
-2020-07-20,0,0,0,0.08899810165166855,0,0,Everton,0,410380,0,Jarrad Branthwaite,2019,1,90,DC,12009,0,Sheffield United,0.08899810165166855,0
-2020-07-16,0,0,0,0.20198999345302582,0,1,Aston Villa,0,409097,0,Jarrad Branthwaite,2019,1,75,Sub,11997,0,Everton,0.20198999345302582,0
-2020-07-12,0,0,0,0.045295100659132004,0,3,Everton,0,407776,0,Jarrad Branthwaite,2019,0,41,Sub,11992,0,Wolverhampton Wanderers,0.045295100659132004,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-07-26,0.0,0,0,1.135409951210022,1,Bournemouth,411322,0,Jarrad Branthwaite,2019,3,90,DC,12019,0.0,1.135409951210022,0,Everton,0.0,0
+2020-07-20,0.0,0,0,0.08899810165166855,0,Everton,410380,0,Jarrad Branthwaite,2019,1,90,DC,12009,0.0,0.08899810165166855,0,Sheffield United,0.0,0
+2020-07-16,0.0,0,0,0.20198999345302582,1,Aston Villa,409097,0,Jarrad Branthwaite,2019,1,75,Sub,11997,0.0,0.20198999345302582,0,Everton,0.0,0
+2020-07-12,0.0,0,0,0.045295100659132004,3,Everton,407776,0,Jarrad Branthwaite,2019,0,41,Sub,11992,0.0,0.045295100659132004,0,Wolverhampton Wanderers,0.0,0

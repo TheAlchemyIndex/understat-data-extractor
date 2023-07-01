@@ -1,12 +1,12 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-28,0.040715381503105164,0,0,0,0,1,Nottingham Forest,0.040715381503105164,600957,0,Willy Boly,2022,1,73,DC,18576,1,Crystal Palace,0,0
-2023-05-20,0,0,0,0,0,1,Arsenal,0,598340,0,Willy Boly,2022,0,7,Sub,18568,0,Nottingham Forest,0,0
-2023-05-08,0,0,0,0,0,4,Southampton,0,595856,0,Willy Boly,2022,3,6,Sub,18548,0,Nottingham Forest,0,0
-2023-02-11,0,0,0,0,0,2,Nottingham Forest,0,574889,0,Willy Boly,2022,0,6,DC,18425,0,Fulham,0,0
-2023-02-05,0,0,0,0.09648759663105011,0,1,Leeds,0,573830,0,Willy Boly,2022,0,90,DC,18419,0,Nottingham Forest,0.09648759663105011,0
-2023-01-21,0,0,0,0.04457069933414459,0,1,Nottingham Forest,0,570248,0,Willy Boly,2022,1,80,DC,18403,0,Bournemouth,0.04457069933414459,0
-2023-01-04,0,0,0,0,0,0,Nottingham Forest,0,567370,0,Willy Boly,2022,1,90,DC,18391,0,Southampton,0,0
-2023-01-01,0,1,0,0.3370029926300049,0.117637999355793,1,Chelsea,0,566780,1,Willy Boly,2022,1,90,DC,18378,0,Nottingham Forest,0.3370029926300049,0
-2022-12-27,0,0,0,0,0,3,Nottingham Forest,0,565702,0,Willy Boly,2022,0,90,DC,18370,0,Manchester United,0,0
-2022-11-12,0.029274800792336464,0,0,0.08139640092849731,0,1,Crystal Palace,0.029274800792336464,564505,0,Willy Boly,2022,0,90,DC,18358,1,Nottingham Forest,0.08139640092849731,0
-2022-09-16,0,0,0,0.07709719985723495,0,2,Fulham,0,550243,0,Willy Boly,2022,3,65,DC,18273,0,Nottingham Forest,0.07709719985723495,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-28,0.040715381503105164,0,0,0.0,1,Nottingham Forest,600957,0,Willy Boly,2022,1,73,DC,18576,0.0,0.0,1,Crystal Palace,0.040715381503105164,0
+2023-05-20,0.0,0,0,0.0,1,Arsenal,598340,0,Willy Boly,2022,0,7,Sub,18568,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-05-08,0.0,0,0,0.0,4,Southampton,595856,0,Willy Boly,2022,3,6,Sub,18548,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-02-11,0.0,0,0,0.0,2,Nottingham Forest,574889,0,Willy Boly,2022,0,6,DC,18425,0.0,0.0,0,Fulham,0.0,0
+2023-02-05,0.0,0,0,0.09648759663105011,1,Leeds,573830,0,Willy Boly,2022,0,90,DC,18419,0.0,0.09648759663105011,0,Nottingham Forest,0.0,0
+2023-01-21,0.0,0,0,0.04457069933414459,1,Nottingham Forest,570248,0,Willy Boly,2022,1,80,DC,18403,0.0,0.04457069933414459,0,Bournemouth,0.0,0
+2023-01-04,0.0,0,0,0.0,0,Nottingham Forest,567370,0,Willy Boly,2022,1,90,DC,18391,0.0,0.0,0,Southampton,0.0,0
+2023-01-01,0.0,1,0,0.3370029926300049,1,Chelsea,566780,1,Willy Boly,2022,1,90,DC,18378,0.117637999355793,0.3370029926300049,0,Nottingham Forest,0.0,0
+2022-12-27,0.0,0,0,0.0,3,Nottingham Forest,565702,0,Willy Boly,2022,0,90,DC,18370,0.0,0.0,0,Manchester United,0.0,0
+2022-11-12,0.029274800792336464,0,0,0.08139640092849731,1,Crystal Palace,564505,0,Willy Boly,2022,0,90,DC,18358,0.0,0.08139640092849731,1,Nottingham Forest,0.029274800792336464,0
+2022-09-16,0.0,0,0,0.07709719985723495,2,Fulham,550243,0,Willy Boly,2022,3,65,DC,18273,0.0,0.07709719985723495,0,Nottingham Forest,0.0,0

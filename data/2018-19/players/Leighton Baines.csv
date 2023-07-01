@@ -1,7 +1,7 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-02-02,0,0,0,0,0,1,Wolverhampton Wanderers,0,304246,0,Leighton Baines,2018,3,36,DL,9441,0,Everton,0,0
-2019-01-29,0,1,0,0.029260799288749695,0.019422000274062157,0,Everton,0,303934,0,Leighton Baines,2018,1,57,DL,9428,0,Huddersfield,0.029260799288749695,0
-2018-09-01,0,1,0,0,0.03267940133810043,1,Huddersfield,0,259640,0,Leighton Baines,2018,1,12,Sub,9229,0,Everton,0,0
-2018-08-25,0.07558160275220871,0,0,0.04093790054321289,0,2,Everton,0.07558160275220871,259258,0,Leighton Baines,2018,2,90,DL,9221,2,Bournemouth,0.02154489979147911,0
-2018-08-18,0,0,0,0.6787809729576111,0,2,Southampton,0,259077,0,Leighton Baines,2018,1,90,DL,9211,0,Everton,0.6787809729576111,0
-2018-08-11,0,2,0,0.06049380078911781,0.031383201479911804,2,Everton,0,258923,0,Leighton Baines,2018,2,90,DL,9203,0,Wolverhampton Wanderers,0.06049380078911781,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-02-02,0.0,0,0,0.0,1,Wolverhampton Wanderers,304246,0,Leighton Baines,2018,3,36,DL,9441,0.0,0.0,0,Everton,0.0,0
+2019-01-29,0.0,1,0,0.029260799288749695,0,Everton,303934,0,Leighton Baines,2018,1,57,DL,9428,0.019422000274062157,0.029260799288749695,0,Huddersfield,0.0,0
+2018-09-01,0.0,1,0,0.0,1,Huddersfield,259640,0,Leighton Baines,2018,1,12,Sub,9229,0.03267940133810043,0.0,0,Everton,0.0,0
+2018-08-25,0.07558160275220871,0,0,0.04093790054321289,2,Everton,259258,0,Leighton Baines,2018,2,90,DL,9221,0.0,0.02154489979147911,2,Bournemouth,0.07558160275220871,0
+2018-08-18,0.0,0,0,0.6787809729576111,2,Southampton,259077,0,Leighton Baines,2018,1,90,DL,9211,0.0,0.6787809729576111,0,Everton,0.0,0
+2018-08-11,0.0,2,0,0.06049380078911781,2,Everton,258923,0,Leighton Baines,2018,2,90,DL,9203,0.031383201479911804,0.06049380078911781,0,Wolverhampton Wanderers,0.0,0

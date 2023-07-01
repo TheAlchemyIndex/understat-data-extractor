@@ -1,16 +1,16 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-28,0.5510002970695496,0,1,0.5510002970695496,0,1,Tottenham,0.5510002970695496,601022,0,Lucas Moura,2022,4,1,Sub,18578,1,Leeds,0,1
-2023-05-20,0.1303563416004181,1,0,0.10693538188934326,0.04036474972963333,1,Brentford,0.1303563416004181,597819,0,Lucas Moura,2022,3,20,Sub,18569,2,Tottenham,0.06657063215970993,0
-2023-04-30,0,0,0,0,0,4,Tottenham,0,593280,0,Lucas Moura,2022,3,1,Sub,18539,0,Liverpool,0,0
-2023-04-03,0,0,0,0,0,1,Tottenham,0,585941,0,Lucas Moura,2022,1,5,Sub,18487,0,Everton,0,0
-2023-03-11,0,0,0,0,0,3,Nottingham Forest,0,581238,0,Lucas Moura,2022,1,4,Sub,18470,0,Tottenham,0,0
-2023-03-04,0,2,0,0.10525800287723541,0.13607800006866455,1,Tottenham,0,579540,0,Lucas Moura,2022,0,5,Sub,18461,0,Wolverhampton Wanderers,0,0
-2023-02-19,0,0,0,0,0,2,West Ham,0,577223,0,Lucas Moura,2022,0,1,Sub,18440,0,Tottenham,0,0
-2022-11-12,0,0,0,0,0,4,Leeds,0,564483,0,Lucas Moura,2022,3,1,Sub,18359,0,Tottenham,0,0
-2022-11-06,0,0,0,0,0,1,Liverpool,0,562909,0,Lucas Moura,2022,2,2,Sub,18349,0,Tottenham,0,0
-2022-10-29,0.05653659999370575,1,0,0.18863099813461304,0.05469200015068054,2,Tottenham,0.05653659999370575,560157,0,Lucas Moura,2022,3,42,Sub,18333,1,Bournemouth,0.18863099813461304,0
-2022-10-23,0,0,0,0.12876400351524353,0,1,Newcastle United,0,559162,0,Lucas Moura,2022,2,21,Sub,18329,0,Tottenham,0.12876400351524353,0
-2022-10-19,0,0,0,0,0,2,Tottenham,0,557665,0,Lucas Moura,2022,0,6,Sub,18321,0,Manchester United,0,0
-2022-10-15,0,0,0,0,0,2,Everton,0,556183,0,Lucas Moura,2022,0,1,Sub,18310,0,Tottenham,0,0
-2022-08-14,0,0,0,0,0,2,Tottenham,0,541433,0,Lucas Moura,2022,2,5,Sub,18220,0,Chelsea,0,0
-2022-08-06,0,0,0,0,0,4,Southampton,0,539493,0,Lucas Moura,2022,1,2,Sub,18207,0,Tottenham,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-28,0.5510002970695496,0,1,0.5510002970695496,1,Tottenham,601022,0,Lucas Moura,2022,4,1,Sub,18578,0.0,0.0,1,Leeds,0.5510002970695496,1
+2023-05-20,0.1303563416004181,1,0,0.10693538188934326,1,Brentford,597819,0,Lucas Moura,2022,3,20,Sub,18569,0.04036474972963333,0.06657063215970993,2,Tottenham,0.1303563416004181,0
+2023-04-30,0.0,0,0,0.0,4,Tottenham,593280,0,Lucas Moura,2022,3,1,Sub,18539,0.0,0.0,0,Liverpool,0.0,0
+2023-04-03,0.0,0,0,0.0,1,Tottenham,585941,0,Lucas Moura,2022,1,5,Sub,18487,0.0,0.0,0,Everton,0.0,0
+2023-03-11,0.0,0,0,0.0,3,Nottingham Forest,581238,0,Lucas Moura,2022,1,4,Sub,18470,0.0,0.0,0,Tottenham,0.0,0
+2023-03-04,0.0,2,0,0.10525800287723541,1,Tottenham,579540,0,Lucas Moura,2022,0,5,Sub,18461,0.13607800006866455,0.0,0,Wolverhampton Wanderers,0.0,0
+2023-02-19,0.0,0,0,0.0,2,West Ham,577223,0,Lucas Moura,2022,0,1,Sub,18440,0.0,0.0,0,Tottenham,0.0,0
+2022-11-12,0.0,0,0,0.0,4,Leeds,564483,0,Lucas Moura,2022,3,1,Sub,18359,0.0,0.0,0,Tottenham,0.0,0
+2022-11-06,0.0,0,0,0.0,1,Liverpool,562909,0,Lucas Moura,2022,2,2,Sub,18349,0.0,0.0,0,Tottenham,0.0,0
+2022-10-29,0.05653659999370575,1,0,0.18863099813461304,2,Tottenham,560157,0,Lucas Moura,2022,3,42,Sub,18333,0.05469200015068054,0.18863099813461304,1,Bournemouth,0.05653659999370575,0
+2022-10-23,0.0,0,0,0.12876400351524353,1,Newcastle United,559162,0,Lucas Moura,2022,2,21,Sub,18329,0.0,0.12876400351524353,0,Tottenham,0.0,0
+2022-10-19,0.0,0,0,0.0,2,Tottenham,557665,0,Lucas Moura,2022,0,6,Sub,18321,0.0,0.0,0,Manchester United,0.0,0
+2022-10-15,0.0,0,0,0.0,2,Everton,556183,0,Lucas Moura,2022,0,1,Sub,18310,0.0,0.0,0,Tottenham,0.0,0
+2022-08-14,0.0,0,0,0.0,2,Tottenham,541433,0,Lucas Moura,2022,2,5,Sub,18220,0.0,0.0,0,Chelsea,0.0,0
+2022-08-06,0.0,0,0,0.0,4,Southampton,539493,0,Lucas Moura,2022,1,2,Sub,18207,0.0,0.0,0,Tottenham,0.0,0

@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-05-15,0,0,0,0,0,1,Burnley,0,536011,0,Joe Rodon,2021,0,1,Sub,16739,0,Tottenham,0,0
-2022-05-12,0,0,0,0,0,3,Arsenal,0,535021,0,Joe Rodon,2021,0,6,Sub,16593,0,Tottenham,0,0
-2021-09-11,0,0,0,0,0,3,Tottenham,0,480046,0,Joe Rodon,2021,0,79,Sub,16406,0,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-05-15,0.0,0,0,0.0,1,Burnley,536011,0,Joe Rodon,2021,0,1,Sub,16739,0.0,0.0,0,Tottenham,0.0,0
+2022-05-12,0.0,0,0,0.0,3,Arsenal,535021,0,Joe Rodon,2021,0,6,Sub,16593,0.0,0.0,0,Tottenham,0.0,0
+2021-09-11,0.0,0,0,0.0,3,Tottenham,480046,0,Joe Rodon,2021,0,79,Sub,16406,0.0,0.0,0,Crystal Palace,0.0,0

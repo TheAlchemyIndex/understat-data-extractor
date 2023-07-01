@@ -1,12 +1,12 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-21,0.1217620000243187,0,0,0.18117600679397583,0,1,Bournemouth,0.1217620000243187,125251,0,Yohan Benalouane,2016,1,61,DC,3514,1,Leicester,0.05941389873623848,0
-2017-05-18,0.12503500282764435,1,0,0,0.03531450033187866,1,Tottenham,0.12503500282764435,134213,0,Yohan Benalouane,2016,6,67,DC,3475,1,Leicester,0,0
-2017-05-13,0,0,0,0,0,2,Leicester,0,135302,0,Yohan Benalouane,2016,1,90,DC,3503,0,Manchester City,0,0
-2017-05-06,0,1,0,0,0.029722999781370163,3,Watford,0,134953,0,Yohan Benalouane,2016,0,90,DC,3495,0,Leicester,0,0
-2017-04-29,0,0,0,0,0,0,Leicester,0,134637,0,Yohan Benalouane,2016,1,90,DC,3489,0,West Bromwich Albion,0,0
-2017-04-26,0,0,0,0.06960389763116837,0,1,Leicester,0,133754,0,Yohan Benalouane,2016,0,90,DC,3410,0,Arsenal,0.06960389763116837,0
-2017-04-15,0,0,0,0,0,2,Leicester,0,134142,0,Yohan Benalouane,2016,2,77,DC,3468,0,Crystal Palace,0,0
-2017-04-09,0,0,0,0,0,4,Leicester,0,133260,0,Yohan Benalouane,2016,2,90,DC,3458,0,Everton,0,0
-2017-04-04,0,0,0,0,0,2,Sunderland,0,132370,0,Yohan Benalouane,2016,0,90,DC,3445,0,Leicester,0,0
-2017-04-01,0.08923149853944778,0,0,0.036140698939561844,0,2,Stoke,0.08923149853944778,132676,0,Yohan Benalouane,2016,0,90,DC,3434,1,Leicester,0.036140698939561844,0
-2017-03-18,0.019139299169182777,0,0,0,0,2,Leicester,0.019139299169182777,134059,0,Yohan Benalouane,2016,3,90,DC,3421,1,West Ham,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-21,0.1217620000243187,0,0,0.18117600679397583,1,Bournemouth,125251,0,Yohan Benalouane,2016,1,61,DC,3514,0.0,0.05941389873623848,1,Leicester,0.1217620000243187,0
+2017-05-18,0.12503500282764435,1,0,0.0,1,Tottenham,134213,0,Yohan Benalouane,2016,6,67,DC,3475,0.03531450033187866,0.0,1,Leicester,0.12503500282764435,0
+2017-05-13,0.0,0,0,0.0,2,Leicester,135302,0,Yohan Benalouane,2016,1,90,DC,3503,0.0,0.0,0,Manchester City,0.0,0
+2017-05-06,0.0,1,0,0.0,3,Watford,134953,0,Yohan Benalouane,2016,0,90,DC,3495,0.029722999781370163,0.0,0,Leicester,0.0,0
+2017-04-29,0.0,0,0,0.0,0,Leicester,134637,0,Yohan Benalouane,2016,1,90,DC,3489,0.0,0.0,0,West Bromwich Albion,0.0,0
+2017-04-26,0.0,0,0,0.06960389763116837,1,Leicester,133754,0,Yohan Benalouane,2016,0,90,DC,3410,0.0,0.06960389763116837,0,Arsenal,0.0,0
+2017-04-15,0.0,0,0,0.0,2,Leicester,134142,0,Yohan Benalouane,2016,2,77,DC,3468,0.0,0.0,0,Crystal Palace,0.0,0
+2017-04-09,0.0,0,0,0.0,4,Leicester,133260,0,Yohan Benalouane,2016,2,90,DC,3458,0.0,0.0,0,Everton,0.0,0
+2017-04-04,0.0,0,0,0.0,2,Sunderland,132370,0,Yohan Benalouane,2016,0,90,DC,3445,0.0,0.0,0,Leicester,0.0,0
+2017-04-01,0.08923149853944778,0,0,0.036140698939561844,2,Stoke,132676,0,Yohan Benalouane,2016,0,90,DC,3434,0.0,0.036140698939561844,1,Leicester,0.08923149853944778,0
+2017-03-18,0.019139299169182777,0,0,0.0,2,Leicester,134059,0,Yohan Benalouane,2016,3,90,DC,3421,0.0,0.0,1,West Ham,0.019139299169182777,0

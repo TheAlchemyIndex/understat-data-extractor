@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-07-19,0,1,0,0.06571190059185028,0.06571190059185028,0,Southampton,0,409764,0,Sam Surridge,2019,2,6,Sub,12004,0,Bournemouth,0,0
-2020-07-15,0,0,0,0,0,2,Bournemouth,0,408680,0,Sam Surridge,2019,1,1,Sub,11999,0,Manchester City,0,0
-2020-07-12,0.8971610069274902,0,0,0.42005300521850586,0,4,Leicester,0.8971610069274902,408209,0,Sam Surridge,2019,1,1,Sub,11984,2,Bournemouth,0,0
-2020-01-12,0,0,0,0,0,0,Watford,0,385966,0,Sam Surridge,2019,3,12,Sub,11857,0,Bournemouth,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-07-19,0.0,1,0,0.06571190059185028,0,Southampton,409764,0,Sam Surridge,2019,2,6,Sub,12004,0.06571190059185028,0.0,0,Bournemouth,0.0,0
+2020-07-15,0.0,0,0,0.0,2,Bournemouth,408680,0,Sam Surridge,2019,1,1,Sub,11999,0.0,0.0,0,Manchester City,0.0,0
+2020-07-12,0.8971610069274902,0,0,0.42005300521850586,4,Leicester,408209,0,Sam Surridge,2019,1,1,Sub,11984,0.0,0.0,2,Bournemouth,0.8971610069274902,0
+2020-01-12,0.0,0,0,0.0,0,Watford,385966,0,Sam Surridge,2019,3,12,Sub,11857,0.0,0.0,0,Bournemouth,0.0,0

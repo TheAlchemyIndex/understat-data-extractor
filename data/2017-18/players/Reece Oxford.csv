@@ -1,9 +1,9 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-05,0,0,0,0.11882200092077255,0,3,Freiburg,0,237440,0,Reece Oxford,2017,1,20,Sub,8554,0,Borussia M.Gladbach,0.11882200092077255,0
-2018-03-02,0,0,0,0.616582989692688,0,2,Werder Bremen,0,220609,0,Reece Oxford,2017,2,82,DR,8478,0,Borussia M.Gladbach,0.616582989692688,0
-2018-02-24,0,0,0,0.12767300009727478,0,0,Borussia M.Gladbach,0,219001,0,Reece Oxford,2017,1,90,DR,8472,0,Hannover 96,0.12767300009727478,0
-2018-02-18,0.06252960115671158,1,0,0.2408130019903183,0.04015659913420677,0,Borussia Dortmund,0.06252960115671158,218543,0,Reece Oxford,2017,1,90,DR,8460,2,Borussia M.Gladbach,0.20065699517726898,0
-2018-01-30,0,0,0,0,0,1,Crystal Palace,0,215391,0,Reece Oxford,2017,1,1,Sub,7360,0,West Ham,0,0
-2017-12-15,0.04897189885377884,0,0,0.6865699887275696,0,3,Hamburger SV,0.04897189885377884,203785,0,Reece Oxford,2017,1,89,MC,8408,1,Borussia M.Gladbach,0.6865699887275696,0
-2017-12-12,0,0,0,0,0,1,Borussia M.Gladbach,0,204017,0,Reece Oxford,2017,0,90,DR,8397,0,Freiburg,0,0
-2017-10-28,0,0,0,0,0,1,Borussia M.Gladbach,0,187276,0,Reece Oxford,2017,3,1,Sub,8341,0,Hoffenheim,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-05,0.0,0,0,0.11882200092077255,3,Freiburg,237440,0,Reece Oxford,2017,1,20,Sub,8554,0.0,0.11882200092077255,0,Borussia M.Gladbach,0.0,0
+2018-03-02,0.0,0,0,0.616582989692688,2,Werder Bremen,220609,0,Reece Oxford,2017,2,82,DR,8478,0.0,0.616582989692688,0,Borussia M.Gladbach,0.0,0
+2018-02-24,0.0,0,0,0.12767300009727478,0,Borussia M.Gladbach,219001,0,Reece Oxford,2017,1,90,DR,8472,0.0,0.12767300009727478,0,Hannover 96,0.0,0
+2018-02-18,0.06252960115671158,1,0,0.2408130019903183,0,Borussia Dortmund,218543,0,Reece Oxford,2017,1,90,DR,8460,0.04015659913420677,0.20065699517726898,2,Borussia M.Gladbach,0.06252960115671158,0
+2018-01-30,0.0,0,0,0.0,1,Crystal Palace,215391,0,Reece Oxford,2017,1,1,Sub,7360,0.0,0.0,0,West Ham,0.0,0
+2017-12-15,0.04897189885377884,0,0,0.6865699887275696,3,Hamburger SV,203785,0,Reece Oxford,2017,1,89,MC,8408,0.0,0.6865699887275696,1,Borussia M.Gladbach,0.04897189885377884,0
+2017-12-12,0.0,0,0,0.0,1,Borussia M.Gladbach,204017,0,Reece Oxford,2017,0,90,DR,8397,0.0,0.0,0,Freiburg,0.0,0
+2017-10-28,0.0,0,0,0.0,1,Borussia M.Gladbach,187276,0,Reece Oxford,2017,3,1,Sub,8341,0.0,0.0,0,Hoffenheim,0.0,0

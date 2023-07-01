@@ -1,14 +1,14 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-05-12,0.03158269822597504,2,0,0.012776399962604046,0.6852380037307739,5,Bournemouth,0.03158269822597504,332284,1,Chris Mepham,2018,3,19,Sub,9574,1,Crystal Palace,0,0
-2019-04-27,0,0,0,0,0,3,Bournemouth,0,328314,0,Chris Mepham,2018,3,22,DC,9549,0,Southampton,0,0
-2019-04-20,0,0,0,0,0,0,Fulham,0,326063,0,Chris Mepham,2018,1,80,DC,9545,0,Bournemouth,0,0
-2019-04-13,0,0,0,0.7896329760551453,0,0,Bournemouth,0,324219,0,Chris Mepham,2018,5,90,DC,9536,0,Brighton,0.7896329760551453,0
-2019-04-06,0,0,0,0,0,1,Burnley,0,322601,0,Chris Mepham,2018,3,90,DC,9526,0,Bournemouth,0,0
-2019-03-30,0,0,0,0.10253799706697464,0,2,Bournemouth,0,317876,0,Chris Mepham,2018,0,90,DC,9511,0,Leicester,0.10253799706697464,0
-2019-03-16,0.018855199217796326,0,0,0,0,2,Newcastle United,0.018855199217796326,316397,0,Chris Mepham,2018,2,90,DC,9506,1,Bournemouth,0,0
-2019-03-09,0,0,0,0,0,0,Bournemouth,0,314500,0,Chris Mepham,2018,2,90,DC,9492,0,Huddersfield,0,0
-2019-03-02,0,0,0,0,0,0,Manchester City,0,305351,0,Chris Mepham,2018,1,90,DC,9486,0,Bournemouth,0,0
-2019-02-27,0,0,0,0.054851699620485306,0,5,Bournemouth,0,305061,0,Chris Mepham,2018,1,90,DC,9470,0,Arsenal,0.054851699620485306,0
-2019-02-23,0,0,0,0,0,1,Wolverhampton Wanderers,0,304797,0,Chris Mepham,2018,1,90,DC,9465,0,Bournemouth,0,0
-2019-02-09,0,0,0,0,0,3,Bournemouth,0,304574,0,Chris Mepham,2018,0,8,Sub,9455,0,Liverpool,0,0
-2019-01-30,0,0,0,0,0,4,Chelsea,0,304037,0,Chris Mepham,2018,0,1,Sub,9430,0,Bournemouth,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-05-12,0.03158269822597504,2,0,0.012776399962604046,5,Bournemouth,332284,1,Chris Mepham,2018,3,19,Sub,9574,0.6852380037307739,0.0,1,Crystal Palace,0.03158269822597504,0
+2019-04-27,0.0,0,0,0.0,3,Bournemouth,328314,0,Chris Mepham,2018,3,22,DC,9549,0.0,0.0,0,Southampton,0.0,0
+2019-04-20,0.0,0,0,0.0,0,Fulham,326063,0,Chris Mepham,2018,1,80,DC,9545,0.0,0.0,0,Bournemouth,0.0,0
+2019-04-13,0.0,0,0,0.7896329760551453,0,Bournemouth,324219,0,Chris Mepham,2018,5,90,DC,9536,0.0,0.7896329760551453,0,Brighton,0.0,0
+2019-04-06,0.0,0,0,0.0,1,Burnley,322601,0,Chris Mepham,2018,3,90,DC,9526,0.0,0.0,0,Bournemouth,0.0,0
+2019-03-30,0.0,0,0,0.10253799706697464,2,Bournemouth,317876,0,Chris Mepham,2018,0,90,DC,9511,0.0,0.10253799706697464,0,Leicester,0.0,0
+2019-03-16,0.018855199217796326,0,0,0.0,2,Newcastle United,316397,0,Chris Mepham,2018,2,90,DC,9506,0.0,0.0,1,Bournemouth,0.018855199217796326,0
+2019-03-09,0.0,0,0,0.0,0,Bournemouth,314500,0,Chris Mepham,2018,2,90,DC,9492,0.0,0.0,0,Huddersfield,0.0,0
+2019-03-02,0.0,0,0,0.0,0,Manchester City,305351,0,Chris Mepham,2018,1,90,DC,9486,0.0,0.0,0,Bournemouth,0.0,0
+2019-02-27,0.0,0,0,0.054851699620485306,5,Bournemouth,305061,0,Chris Mepham,2018,1,90,DC,9470,0.0,0.054851699620485306,0,Arsenal,0.0,0
+2019-02-23,0.0,0,0,0.0,1,Wolverhampton Wanderers,304797,0,Chris Mepham,2018,1,90,DC,9465,0.0,0.0,0,Bournemouth,0.0,0
+2019-02-09,0.0,0,0,0.0,3,Bournemouth,304574,0,Chris Mepham,2018,0,8,Sub,9455,0.0,0.0,0,Liverpool,0.0,0
+2019-01-30,0.0,0,0,0.0,4,Chelsea,304037,0,Chris Mepham,2018,0,1,Sub,9430,0.0,0.0,0,Bournemouth,0.0,0

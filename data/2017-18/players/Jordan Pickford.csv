@@ -1,39 +1,39 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-13,0,0,0,0,0,3,Everton,0,240132,0,Jordan Pickford,2017,1,90,GK,7489,0,West Ham,0,0
-2018-05-05,0,0,0,0.05277220159769058,0,1,Southampton,0,237734,0,Jordan Pickford,2017,1,90,GK,7486,0,Everton,0.05277220159769058,0
-2018-04-28,0,0,0,0,0,0,Everton,0,235780,0,Jordan Pickford,2017,2,90,GK,7471,0,Huddersfield,0,0
-2018-04-23,0,0,0,0,0,1,Newcastle United,0,235321,0,Jordan Pickford,2017,0,90,GK,7461,0,Everton,0,0
-2018-04-14,0,0,0,0,0,1,Everton,0,232106,0,Jordan Pickford,2017,1,90,GK,7456,0,Swansea,0,0
-2018-04-07,0,0,0,0,0,0,Liverpool,0,230346,0,Jordan Pickford,2017,0,90,GK,7443,0,Everton,0,0
-2018-03-31,0,0,0,0,0,1,Manchester City,0,227080,0,Jordan Pickford,2017,3,90,GK,7433,0,Everton,0,0
-2018-03-17,0,0,0,0,0,1,Everton,0,223997,0,Jordan Pickford,2017,2,90,GK,7425,0,Stoke,0,0
-2018-03-10,0,0,0,0,0,2,Brighton,0,222345,0,Jordan Pickford,2017,0,90,GK,7412,0,Everton,0,0
-2018-03-03,0,0,0,0,0,2,Everton,0,220702,0,Jordan Pickford,2017,1,90,GK,7400,0,Burnley,0,0
-2018-02-24,0,0,0,0,0,1,Everton,0,219331,0,Jordan Pickford,2017,0,90,GK,7392,0,Watford,0,0
-2018-02-10,0,0,0,0,0,3,Crystal Palace,0,215077,0,Jordan Pickford,2017,1,90,GK,7380,0,Everton,0,0
-2018-02-03,0,0,0,0.575780987739563,0,5,Everton,0,214791,0,Jordan Pickford,2017,1,90,GK,7369,0,Arsenal,0.575780987739563,0
-2018-01-31,0,0,0,0,0,2,Leicester,0,215432,0,Jordan Pickford,2017,1,90,GK,7365,0,Everton,0,0
-2018-01-20,0,0,0,0,0,1,West Bromwich Albion,0,209196,0,Jordan Pickford,2017,1,90,GK,7352,0,Everton,0,0
-2018-01-13,0,0,0,0.06517510116100311,0,4,Everton,0,207858,0,Jordan Pickford,2017,0,90,GK,7346,0,Tottenham,0.06517510116100311,0
-2018-01-01,0,0,0,0,0,0,Manchester United,0,206490,0,Jordan Pickford,2017,2,90,GK,7333,0,Everton,0,0
-2017-12-30,0,0,0,0,0,2,Everton,0,206201,0,Jordan Pickford,2017,1,90,GK,7319,0,Bournemouth,0,0
-2017-12-26,0,0,0,0.12125500291585922,0,0,Everton,0,205731,0,Jordan Pickford,2017,0,90,GK,7318,0,West Bromwich Albion,0.12125500291585922,0
-2017-12-23,0,0,0,0,0,0,Chelsea,0,203001,0,Jordan Pickford,2017,0,90,GK,7303,0,Everton,0,0
-2017-12-18,0,0,0,0.026128999888896942,0,3,Swansea,0,203225,0,Jordan Pickford,2017,1,90,GK,7293,0,Everton,0.026128999888896942,0
-2017-12-13,0,0,0,0,0,0,Everton,0,202931,0,Jordan Pickford,2017,1,90,GK,7284,0,Newcastle United,0,0
-2017-12-10,0,0,0,0,0,1,Everton,0,198860,0,Jordan Pickford,2017,1,90,GK,7275,0,Liverpool,0,0
-2017-12-02,0,0,0,0,0,2,Huddersfield,0,179779,0,Jordan Pickford,2017,0,90,GK,7260,0,Everton,0,0
-2017-11-29,0,0,0,0.11110000312328339,0,4,West Ham,0,179201,0,Jordan Pickford,2017,0,90,GK,7256,0,Everton,0.11110000312328339,0
-2017-11-26,0,0,0,0,0,4,Everton,0,179601,0,Jordan Pickford,2017,1,90,GK,7241,0,Southampton,0,0
-2017-11-18,0,1,0,0.011114600114524364,0.011114600114524364,2,Everton,0,178640,0,Jordan Pickford,2017,2,90,GK,7234,0,Crystal Palace,0,0
-2017-11-05,0,1,0,0.5977780222892761,0.04355340078473091,3,Watford,0,178131,0,Jordan Pickford,2017,2,90,GK,7220,0,Everton,0.5977780222892761,0
-2017-10-29,0,0,0,0,0,2,Everton,0,177815,0,Jordan Pickford,2017,0,90,GK,7214,0,Leicester,0,0
-2017-10-22,0,0,0,0,0,2,Arsenal,0,177144,0,Jordan Pickford,2017,5,90,GK,7200,0,Everton,0,0
-2017-10-15,0,0,0,0,0,1,Everton,0,178312,0,Jordan Pickford,2017,1,90,GK,7189,0,Brighton,0,0
-2017-10-01,0,0,0,0.09235530346632004,0,0,Burnley,0,177994,0,Jordan Pickford,2017,1,90,GK,7187,0,Everton,0.09235530346632004,0
-2017-09-23,0,1,0,0.012047099880874157,0.012047099880874157,2,Bournemouth,0,177004,0,Jordan Pickford,2017,1,90,GK,7175,0,Everton,0,0
-2017-09-17,0,0,0,0,0,4,Everton,0,176468,0,Jordan Pickford,2017,0,90,GK,7168,0,Manchester United,0,0
-2017-09-09,0,0,0,0,0,0,Tottenham,0,176948,0,Jordan Pickford,2017,3,90,GK,7154,0,Everton,0,0
-2017-08-27,0,0,0,0.06884609907865524,0,2,Everton,0,176990,0,Jordan Pickford,2017,0,90,GK,7140,0,Chelsea,0.06884609907865524,0
-2017-08-21,0,0,0,0.021572399884462357,0,1,Everton,0,176218,0,Jordan Pickford,2017,1,90,GK,7138,0,Manchester City,0.021572399884462357,0
-2017-08-12,0,0,0,0,0,1,Stoke,0,175901,0,Jordan Pickford,2017,0,90,GK,7125,0,Everton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-13,0.0,0,0,0.0,3,Everton,240132,0,Jordan Pickford,2017,1,90,GK,7489,0.0,0.0,0,West Ham,0.0,0
+2018-05-05,0.0,0,0,0.05277220159769058,1,Southampton,237734,0,Jordan Pickford,2017,1,90,GK,7486,0.0,0.05277220159769058,0,Everton,0.0,0
+2018-04-28,0.0,0,0,0.0,0,Everton,235780,0,Jordan Pickford,2017,2,90,GK,7471,0.0,0.0,0,Huddersfield,0.0,0
+2018-04-23,0.0,0,0,0.0,1,Newcastle United,235321,0,Jordan Pickford,2017,0,90,GK,7461,0.0,0.0,0,Everton,0.0,0
+2018-04-14,0.0,0,0,0.0,1,Everton,232106,0,Jordan Pickford,2017,1,90,GK,7456,0.0,0.0,0,Swansea,0.0,0
+2018-04-07,0.0,0,0,0.0,0,Liverpool,230346,0,Jordan Pickford,2017,0,90,GK,7443,0.0,0.0,0,Everton,0.0,0
+2018-03-31,0.0,0,0,0.0,1,Manchester City,227080,0,Jordan Pickford,2017,3,90,GK,7433,0.0,0.0,0,Everton,0.0,0
+2018-03-17,0.0,0,0,0.0,1,Everton,223997,0,Jordan Pickford,2017,2,90,GK,7425,0.0,0.0,0,Stoke,0.0,0
+2018-03-10,0.0,0,0,0.0,2,Brighton,222345,0,Jordan Pickford,2017,0,90,GK,7412,0.0,0.0,0,Everton,0.0,0
+2018-03-03,0.0,0,0,0.0,2,Everton,220702,0,Jordan Pickford,2017,1,90,GK,7400,0.0,0.0,0,Burnley,0.0,0
+2018-02-24,0.0,0,0,0.0,1,Everton,219331,0,Jordan Pickford,2017,0,90,GK,7392,0.0,0.0,0,Watford,0.0,0
+2018-02-10,0.0,0,0,0.0,3,Crystal Palace,215077,0,Jordan Pickford,2017,1,90,GK,7380,0.0,0.0,0,Everton,0.0,0
+2018-02-03,0.0,0,0,0.575780987739563,5,Everton,214791,0,Jordan Pickford,2017,1,90,GK,7369,0.0,0.575780987739563,0,Arsenal,0.0,0
+2018-01-31,0.0,0,0,0.0,2,Leicester,215432,0,Jordan Pickford,2017,1,90,GK,7365,0.0,0.0,0,Everton,0.0,0
+2018-01-20,0.0,0,0,0.0,1,West Bromwich Albion,209196,0,Jordan Pickford,2017,1,90,GK,7352,0.0,0.0,0,Everton,0.0,0
+2018-01-13,0.0,0,0,0.06517510116100311,4,Everton,207858,0,Jordan Pickford,2017,0,90,GK,7346,0.0,0.06517510116100311,0,Tottenham,0.0,0
+2018-01-01,0.0,0,0,0.0,0,Manchester United,206490,0,Jordan Pickford,2017,2,90,GK,7333,0.0,0.0,0,Everton,0.0,0
+2017-12-30,0.0,0,0,0.0,2,Everton,206201,0,Jordan Pickford,2017,1,90,GK,7319,0.0,0.0,0,Bournemouth,0.0,0
+2017-12-26,0.0,0,0,0.12125500291585922,0,Everton,205731,0,Jordan Pickford,2017,0,90,GK,7318,0.0,0.12125500291585922,0,West Bromwich Albion,0.0,0
+2017-12-23,0.0,0,0,0.0,0,Chelsea,203001,0,Jordan Pickford,2017,0,90,GK,7303,0.0,0.0,0,Everton,0.0,0
+2017-12-18,0.0,0,0,0.026128999888896942,3,Swansea,203225,0,Jordan Pickford,2017,1,90,GK,7293,0.0,0.026128999888896942,0,Everton,0.0,0
+2017-12-13,0.0,0,0,0.0,0,Everton,202931,0,Jordan Pickford,2017,1,90,GK,7284,0.0,0.0,0,Newcastle United,0.0,0
+2017-12-10,0.0,0,0,0.0,1,Everton,198860,0,Jordan Pickford,2017,1,90,GK,7275,0.0,0.0,0,Liverpool,0.0,0
+2017-12-02,0.0,0,0,0.0,2,Huddersfield,179779,0,Jordan Pickford,2017,0,90,GK,7260,0.0,0.0,0,Everton,0.0,0
+2017-11-29,0.0,0,0,0.11110000312328339,4,West Ham,179201,0,Jordan Pickford,2017,0,90,GK,7256,0.0,0.11110000312328339,0,Everton,0.0,0
+2017-11-26,0.0,0,0,0.0,4,Everton,179601,0,Jordan Pickford,2017,1,90,GK,7241,0.0,0.0,0,Southampton,0.0,0
+2017-11-18,0.0,1,0,0.011114600114524364,2,Everton,178640,0,Jordan Pickford,2017,2,90,GK,7234,0.011114600114524364,0.0,0,Crystal Palace,0.0,0
+2017-11-05,0.0,1,0,0.5977780222892761,3,Watford,178131,0,Jordan Pickford,2017,2,90,GK,7220,0.04355340078473091,0.5977780222892761,0,Everton,0.0,0
+2017-10-29,0.0,0,0,0.0,2,Everton,177815,0,Jordan Pickford,2017,0,90,GK,7214,0.0,0.0,0,Leicester,0.0,0
+2017-10-22,0.0,0,0,0.0,2,Arsenal,177144,0,Jordan Pickford,2017,5,90,GK,7200,0.0,0.0,0,Everton,0.0,0
+2017-10-15,0.0,0,0,0.0,1,Everton,178312,0,Jordan Pickford,2017,1,90,GK,7189,0.0,0.0,0,Brighton,0.0,0
+2017-10-01,0.0,0,0,0.09235530346632004,0,Burnley,177994,0,Jordan Pickford,2017,1,90,GK,7187,0.0,0.09235530346632004,0,Everton,0.0,0
+2017-09-23,0.0,1,0,0.012047099880874157,2,Bournemouth,177004,0,Jordan Pickford,2017,1,90,GK,7175,0.012047099880874157,0.0,0,Everton,0.0,0
+2017-09-17,0.0,0,0,0.0,4,Everton,176468,0,Jordan Pickford,2017,0,90,GK,7168,0.0,0.0,0,Manchester United,0.0,0
+2017-09-09,0.0,0,0,0.0,0,Tottenham,176948,0,Jordan Pickford,2017,3,90,GK,7154,0.0,0.0,0,Everton,0.0,0
+2017-08-27,0.0,0,0,0.06884609907865524,2,Everton,176990,0,Jordan Pickford,2017,0,90,GK,7140,0.0,0.06884609907865524,0,Chelsea,0.0,0
+2017-08-21,0.0,0,0,0.021572399884462357,1,Everton,176218,0,Jordan Pickford,2017,1,90,GK,7138,0.0,0.021572399884462357,0,Manchester City,0.0,0
+2017-08-12,0.0,0,0,0.0,1,Stoke,175901,0,Jordan Pickford,2017,0,90,GK,7125,0.0,0.0,0,Everton,0.0,0

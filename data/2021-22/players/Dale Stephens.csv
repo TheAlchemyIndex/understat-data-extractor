@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-04-30,0,0,0,0,0,1,Burnley,0,530523,0,Dale Stephens,2021,2,1,Sub,16718,0,Watford,0,0
-2022-02-05,0.04461440071463585,1,0,0.061886899173259735,0.017272500321269035,0,Watford,0.04461440071463585,511308,0,Dale Stephens,2021,0,90,MC,16539,1,Burnley,0,0
-2021-12-30,0,0,0,0,0,3,Burnley,0,505421,0,Dale Stephens,2021,1,30,Sub,16574,0,Manchester United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-04-30,0.0,0,0,0.0,1,Burnley,530523,0,Dale Stephens,2021,2,1,Sub,16718,0.0,0.0,0,Watford,0.0,0
+2022-02-05,0.04461440071463585,1,0,0.061886899173259735,0,Watford,511308,0,Dale Stephens,2021,0,90,MC,16539,0.017272500321269035,0.0,1,Burnley,0.04461440071463585,0
+2021-12-30,0.0,0,0,0.0,3,Burnley,505421,0,Dale Stephens,2021,1,30,Sub,16574,0.0,0.0,0,Manchester United,0.0,0

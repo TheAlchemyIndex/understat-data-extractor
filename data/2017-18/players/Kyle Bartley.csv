@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-04-22,0,0,0,0,0,5,Swansea,0,235066,0,Kyle Bartley,2017,0,22,Sub,7465,0,Manchester City,0,0
-2018-04-07,0,1,0,0.02803790010511875,0.02803790010511875,1,Swansea,0,230509,0,Kyle Bartley,2017,1,41,Sub,7448,0,West Bromwich Albion,0.02803790010511875,0
-2018-01-13,0.011062700301408768,1,0,0,0.08574219793081284,1,Swansea,0.011062700301408768,207722,0,Kyle Bartley,2017,1,90,DC,7345,1,Newcastle United,0,0
-2017-08-19,0.061425499618053436,0,0,0,0,0,Manchester United,0.061425499618053436,176678,0,Kyle Bartley,2017,4,68,DC,7129,1,Swansea,0,0
-2017-08-12,0,0,0,0,0,0,Swansea,0,176009,0,Kyle Bartley,2017,0,8,Sub,7122,0,Southampton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-04-22,0.0,0,0,0.0,5,Swansea,235066,0,Kyle Bartley,2017,0,22,Sub,7465,0.0,0.0,0,Manchester City,0.0,0
+2018-04-07,0.0,1,0,0.02803790010511875,1,Swansea,230509,0,Kyle Bartley,2017,1,41,Sub,7448,0.02803790010511875,0.02803790010511875,0,West Bromwich Albion,0.0,0
+2018-01-13,0.011062700301408768,1,0,0.0,1,Swansea,207722,0,Kyle Bartley,2017,1,90,DC,7345,0.08574219793081284,0.0,1,Newcastle United,0.011062700301408768,0
+2017-08-19,0.061425499618053436,0,0,0.0,0,Manchester United,176678,0,Kyle Bartley,2017,4,68,DC,7129,0.0,0.0,1,Swansea,0.061425499618053436,0
+2017-08-12,0.0,0,0,0.0,0,Swansea,176009,0,Kyle Bartley,2017,0,8,Sub,7122,0.0,0.0,0,Southampton,0.0,0

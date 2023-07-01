@@ -1,25 +1,25 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2019-04-06,0,0,0,0.5315769910812378,0,1,Burnley,0,322598,0,Asmir Begović,2018,3,90,GK,9526,0,Bournemouth,0.5315769910812378,0
-2019-03-30,0,0,0,0,0,2,Bournemouth,0,317873,0,Asmir Begović,2018,0,90,GK,9511,0,Leicester,0,0
-2019-01-13,0,0,0,0,0,2,Bournemouth,0,303522,0,Asmir Begović,2018,0,90,GK,9411,0,Everton,0,0
-2019-01-02,0,0,0,0.41731101274490356,0,3,Watford,0,303179,0,Asmir Begović,2018,3,90,GK,9405,0,Bournemouth,0.41731101274490356,0
-2018-12-30,0,0,0,0,0,4,Bournemouth,0,291656,0,Asmir Begović,2018,1,90,GK,9390,0,Manchester United,0,0
-2018-12-26,0,0,0,0.03304560109972954,0,5,Bournemouth,0,279043,0,Asmir Begović,2018,0,90,GK,9378,0,Tottenham,0.03304560109972954,0
-2018-12-22,0,0,0,0,0,2,Brighton,0,278917,0,Asmir Begović,2018,0,90,GK,9375,0,Bournemouth,0,0
-2018-12-15,0,0,0,0,0,2,Bournemouth,0,278488,0,Asmir Begović,2018,0,90,GK,9357,0,Wolverhampton Wanderers,0,0
-2018-12-08,0,0,0,0,0,0,Liverpool,0,278168,0,Asmir Begović,2018,4,90,GK,9355,0,Bournemouth,0,0
-2018-12-04,0,0,0,0,0,2,Huddersfield,0,279137,0,Asmir Begović,2018,1,90,GK,9338,0,Bournemouth,0,0
-2018-12-01,0,0,0,0,0,3,Bournemouth,0,277709,0,Asmir Begović,2018,1,90,GK,9329,0,Manchester City,0,0
-2018-11-25,0,0,0,0.021139400079846382,0,1,Arsenal,0,277558,0,Asmir Begović,2018,2,90,GK,9324,0,Bournemouth,0.021139400079846382,0
-2018-11-10,0,0,0,0.3946070075035095,0,2,Bournemouth,0,277156,0,Asmir Begović,2018,1,90,GK,9309,0,Newcastle United,0.3946070075035095,0
-2018-11-03,0,0,0,0.021205099299550056,0,1,Manchester United,0,276810,0,Asmir Begović,2018,2,90,GK,9297,0,Bournemouth,0.021205099299550056,0
-2018-10-27,0,0,0,0,0,0,Bournemouth,0,276573,0,Asmir Begović,2018,3,90,GK,9289,0,Fulham,0,0
-2018-10-20,0,0,0,0.03888050094246864,0,0,Southampton,0,276423,0,Asmir Begović,2018,0,90,GK,9283,0,Bournemouth,0.03888050094246864,0
-2018-10-06,0,0,0,0,0,0,Bournemouth,0,276022,0,Asmir Begović,2018,4,90,GK,9268,0,Watford,0,0
-2018-10-01,0,0,0,0,0,2,Crystal Palace,0,275953,0,Asmir Begović,2018,1,90,GK,9266,0,Bournemouth,0,0
-2018-09-22,0,0,0,0,0,4,Bournemouth,0,260111,0,Asmir Begović,2018,0,90,GK,9253,0,Burnley,0,0
-2018-09-15,0,0,0,0.41053900122642517,0,4,Leicester,0,259768,0,Asmir Begović,2018,2,90,GK,9242,0,Bournemouth,0.41053900122642517,0
-2018-09-01,0,0,0,0.036634400486946106,0,2,Bournemouth,0,259586,0,Asmir Begović,2018,0,90,GK,9231,0,Chelsea,0.036634400486946106,0
-2018-08-25,0,0,0,0.016108300536870956,0,2,Everton,0,259240,0,Asmir Begović,2018,2,90,GK,9221,0,Bournemouth,0.016108300536870956,0
-2018-08-18,0,0,0,0.02966569922864437,0,1,Bournemouth,0,259199,0,Asmir Begović,2018,2,90,GK,9208,0,West Ham,0.02966569922864437,0
-2018-08-11,0,0,0,0.5403079986572266,0,2,Cardiff,0,258682,0,Asmir Begović,2018,0,90,GK,9202,0,Bournemouth,0.5403079986572266,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2019-04-06,0.0,0,0,0.5315769910812378,1,Burnley,322598,0,Asmir Begović,2018,3,90,GK,9526,0.0,0.5315769910812378,0,Bournemouth,0.0,0
+2019-03-30,0.0,0,0,0.0,2,Bournemouth,317873,0,Asmir Begović,2018,0,90,GK,9511,0.0,0.0,0,Leicester,0.0,0
+2019-01-13,0.0,0,0,0.0,2,Bournemouth,303522,0,Asmir Begović,2018,0,90,GK,9411,0.0,0.0,0,Everton,0.0,0
+2019-01-02,0.0,0,0,0.41731101274490356,3,Watford,303179,0,Asmir Begović,2018,3,90,GK,9405,0.0,0.41731101274490356,0,Bournemouth,0.0,0
+2018-12-30,0.0,0,0,0.0,4,Bournemouth,291656,0,Asmir Begović,2018,1,90,GK,9390,0.0,0.0,0,Manchester United,0.0,0
+2018-12-26,0.0,0,0,0.03304560109972954,5,Bournemouth,279043,0,Asmir Begović,2018,0,90,GK,9378,0.0,0.03304560109972954,0,Tottenham,0.0,0
+2018-12-22,0.0,0,0,0.0,2,Brighton,278917,0,Asmir Begović,2018,0,90,GK,9375,0.0,0.0,0,Bournemouth,0.0,0
+2018-12-15,0.0,0,0,0.0,2,Bournemouth,278488,0,Asmir Begović,2018,0,90,GK,9357,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2018-12-08,0.0,0,0,0.0,0,Liverpool,278168,0,Asmir Begović,2018,4,90,GK,9355,0.0,0.0,0,Bournemouth,0.0,0
+2018-12-04,0.0,0,0,0.0,2,Huddersfield,279137,0,Asmir Begović,2018,1,90,GK,9338,0.0,0.0,0,Bournemouth,0.0,0
+2018-12-01,0.0,0,0,0.0,3,Bournemouth,277709,0,Asmir Begović,2018,1,90,GK,9329,0.0,0.0,0,Manchester City,0.0,0
+2018-11-25,0.0,0,0,0.021139400079846382,1,Arsenal,277558,0,Asmir Begović,2018,2,90,GK,9324,0.0,0.021139400079846382,0,Bournemouth,0.0,0
+2018-11-10,0.0,0,0,0.3946070075035095,2,Bournemouth,277156,0,Asmir Begović,2018,1,90,GK,9309,0.0,0.3946070075035095,0,Newcastle United,0.0,0
+2018-11-03,0.0,0,0,0.021205099299550056,1,Manchester United,276810,0,Asmir Begović,2018,2,90,GK,9297,0.0,0.021205099299550056,0,Bournemouth,0.0,0
+2018-10-27,0.0,0,0,0.0,0,Bournemouth,276573,0,Asmir Begović,2018,3,90,GK,9289,0.0,0.0,0,Fulham,0.0,0
+2018-10-20,0.0,0,0,0.03888050094246864,0,Southampton,276423,0,Asmir Begović,2018,0,90,GK,9283,0.0,0.03888050094246864,0,Bournemouth,0.0,0
+2018-10-06,0.0,0,0,0.0,0,Bournemouth,276022,0,Asmir Begović,2018,4,90,GK,9268,0.0,0.0,0,Watford,0.0,0
+2018-10-01,0.0,0,0,0.0,2,Crystal Palace,275953,0,Asmir Begović,2018,1,90,GK,9266,0.0,0.0,0,Bournemouth,0.0,0
+2018-09-22,0.0,0,0,0.0,4,Bournemouth,260111,0,Asmir Begović,2018,0,90,GK,9253,0.0,0.0,0,Burnley,0.0,0
+2018-09-15,0.0,0,0,0.41053900122642517,4,Leicester,259768,0,Asmir Begović,2018,2,90,GK,9242,0.0,0.41053900122642517,0,Bournemouth,0.0,0
+2018-09-01,0.0,0,0,0.036634400486946106,2,Bournemouth,259586,0,Asmir Begović,2018,0,90,GK,9231,0.0,0.036634400486946106,0,Chelsea,0.0,0
+2018-08-25,0.0,0,0,0.016108300536870956,2,Everton,259240,0,Asmir Begović,2018,2,90,GK,9221,0.0,0.016108300536870956,0,Bournemouth,0.0,0
+2018-08-18,0.0,0,0,0.02966569922864437,1,Bournemouth,259199,0,Asmir Begović,2018,2,90,GK,9208,0.0,0.02966569922864437,0,West Ham,0.0,0
+2018-08-11,0.0,0,0,0.5403079986572266,2,Cardiff,258682,0,Asmir Begović,2018,0,90,GK,9202,0.0,0.5403079986572266,0,Bournemouth,0.0,0

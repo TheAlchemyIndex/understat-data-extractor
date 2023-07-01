@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-04-23,0.05401209369301796,0,0,0.0785289853811264,0,6,Tottenham,0.05401209369301796,590898,0,Jamaal Lascelles,2022,1,14,Sub,18521,1,Newcastle United,0.0785289853811264,0
-2023-04-08,0,0,0,0,0,1,Newcastle United,0,586684,0,Jamaal Lascelles,2022,2,1,Sub,18493,0,Brentford,0,0
-2023-03-04,0,0,0,0.25559601187705994,0,2,Newcastle United,0,579192,0,Jamaal Lascelles,2022,0,90,DC,18458,0,Manchester City,0.25559601187705994,0
-2022-10-29,0.06622830033302307,0,0,0,0,4,Aston Villa,0.06622830033302307,560083,0,Jamaal Lascelles,2022,0,1,Sub,18341,1,Newcastle United,0,0
-2022-10-16,0,0,0,0,0,0,Newcastle United,0,556601,0,Jamaal Lascelles,2022,0,1,Sub,18308,0,Manchester United,0,0
-2022-10-01,0,0,0,0,0,1,Newcastle United,0,552386,0,Jamaal Lascelles,2022,4,3,Sub,18285,0,Fulham,0,0
-2022-08-31,0,0,0,0.04934599995613098,0,2,Newcastle United,0,546449,0,Jamaal Lascelles,2022,1,90,DC,18250,0,Liverpool,0.04934599995613098,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-04-23,0.05401209369301796,0,0,0.0785289853811264,6,Tottenham,590898,0,Jamaal Lascelles,2022,1,14,Sub,18521,0.0,0.0785289853811264,1,Newcastle United,0.05401209369301796,0
+2023-04-08,0.0,0,0,0.0,1,Newcastle United,586684,0,Jamaal Lascelles,2022,2,1,Sub,18493,0.0,0.0,0,Brentford,0.0,0
+2023-03-04,0.0,0,0,0.25559601187705994,2,Newcastle United,579192,0,Jamaal Lascelles,2022,0,90,DC,18458,0.0,0.25559601187705994,0,Manchester City,0.0,0
+2022-10-29,0.06622830033302307,0,0,0.0,4,Aston Villa,560083,0,Jamaal Lascelles,2022,0,1,Sub,18341,0.0,0.0,1,Newcastle United,0.06622830033302307,0
+2022-10-16,0.0,0,0,0.0,0,Newcastle United,556601,0,Jamaal Lascelles,2022,0,1,Sub,18308,0.0,0.0,0,Manchester United,0.0,0
+2022-10-01,0.0,0,0,0.0,1,Newcastle United,552386,0,Jamaal Lascelles,2022,4,3,Sub,18285,0.0,0.0,0,Fulham,0.0,0
+2022-08-31,0.0,0,0,0.04934599995613098,2,Newcastle United,546449,0,Jamaal Lascelles,2022,1,90,DC,18250,0.0,0.04934599995613098,0,Liverpool,0.0,0

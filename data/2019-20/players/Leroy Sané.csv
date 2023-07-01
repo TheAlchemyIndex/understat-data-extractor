@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-06-22,0.0981592983007431,0,0,0.17216899991035461,0,5,Burnley,0.0981592983007431,401951,0,Leroy Sané,2019,0,6,Sub,11939,2,Manchester City,0.12103500217199326,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-06-22,0.0981592983007431,0,0,0.17216899991035461,5,Burnley,401951,0,Leroy Sané,2019,0,6,Sub,11939,0.0,0.12103500217199326,2,Manchester City,0.0981592983007431,0

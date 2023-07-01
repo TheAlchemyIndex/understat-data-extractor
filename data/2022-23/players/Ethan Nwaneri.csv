@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-09-18,0,0,0,0,0,0,Arsenal,0,551067,0,Ethan Nwaneri,2022,3,1,Sub,18280,0,Brentford,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-09-18,0.0,0,0,0.0,0,Arsenal,551067,0,Ethan Nwaneri,2022,3,1,Sub,18280,0.0,0.0,0,Brentford,0.0,0

@@ -1,10 +1,10 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-21,0,0,0,0,0,2,West Bromwich Albion,0,125383,0,Jonathan Leko,2016,1,1,Sub,3518,0,Swansea,0,0
-2017-04-29,0,0,0,0.11996199935674667,0,0,Leicester,0,134633,0,Jonathan Leko,2016,1,9,Sub,3489,0,West Bromwich Albion,0.11996199935674667,0
-2017-03-04,0,0,0,0,0,0,Crystal Palace,0,133558,0,Jonathan Leko,2016,2,8,Sub,3408,0,West Bromwich Albion,0,0
-2016-12-17,0,0,0,0,0,0,Manchester United,0,128876,0,Jonathan Leko,2016,2,7,Sub,3140,0,West Bromwich Albion,0,0
-2016-10-29,0,1,0,0.12914599478244781,0.12914599478244781,0,Manchester City,0,127885,0,Jonathan Leko,2016,4,37,Sub,2680,0,West Bromwich Albion,0,0
-2016-09-24,0,1,0,0,0.012551399879157543,1,West Bromwich Albion,0,126714,1,Jonathan Leko,2016,1,1,Sub,513,0,Stoke,0,0
-2016-09-10,0,0,0,0,0,1,West Bromwich Albion,0,126022,0,Jonathan Leko,2016,0,6,Sub,495,0,Bournemouth,0,0
-2016-08-28,0,0,0,0,0,0,Middlesbrough,0,125953,0,Jonathan Leko,2016,0,8,Sub,489,0,West Bromwich Albion,0,0
-2016-08-20,0,0,0,0,0,1,Everton,0,125646,0,Jonathan Leko,2016,2,22,Sub,477,0,West Bromwich Albion,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-21,0.0,0,0,0.0,2,West Bromwich Albion,125383,0,Jonathan Leko,2016,1,1,Sub,3518,0.0,0.0,0,Swansea,0.0,0
+2017-04-29,0.0,0,0,0.11996199935674667,0,Leicester,134633,0,Jonathan Leko,2016,1,9,Sub,3489,0.0,0.11996199935674667,0,West Bromwich Albion,0.0,0
+2017-03-04,0.0,0,0,0.0,0,Crystal Palace,133558,0,Jonathan Leko,2016,2,8,Sub,3408,0.0,0.0,0,West Bromwich Albion,0.0,0
+2016-12-17,0.0,0,0,0.0,0,Manchester United,128876,0,Jonathan Leko,2016,2,7,Sub,3140,0.0,0.0,0,West Bromwich Albion,0.0,0
+2016-10-29,0.0,1,0,0.12914599478244781,0,Manchester City,127885,0,Jonathan Leko,2016,4,37,Sub,2680,0.12914599478244781,0.0,0,West Bromwich Albion,0.0,0
+2016-09-24,0.0,1,0,0.0,1,West Bromwich Albion,126714,1,Jonathan Leko,2016,1,1,Sub,513,0.012551399879157543,0.0,0,Stoke,0.0,0
+2016-09-10,0.0,0,0,0.0,1,West Bromwich Albion,126022,0,Jonathan Leko,2016,0,6,Sub,495,0.0,0.0,0,Bournemouth,0.0,0
+2016-08-28,0.0,0,0,0.0,0,Middlesbrough,125953,0,Jonathan Leko,2016,0,8,Sub,489,0.0,0.0,0,West Bromwich Albion,0.0,0
+2016-08-20,0.0,0,0,0.0,1,Everton,125646,0,Jonathan Leko,2016,2,22,Sub,477,0.0,0.0,0,West Bromwich Albion,0.0,0

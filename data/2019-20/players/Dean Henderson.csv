@@ -1,37 +1,37 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-07-26,0,0,0,0,0,3,Sheffield United,0,411427,0,Dean Henderson,2019,1,90,GK,12015,0,Southampton,0,0
-2020-07-20,0,0,0,0,0,0,Everton,0,410363,0,Dean Henderson,2019,1,90,GK,12009,0,Sheffield United,0,0
-2020-07-16,0,0,0,0,0,2,Sheffield United,0,409126,0,Dean Henderson,2019,0,90,GK,11998,0,Leicester,0,0
-2020-07-11,0,0,0,0,0,3,Chelsea,0,407503,0,Dean Henderson,2019,0,90,GK,11989,0,Sheffield United,0,0
-2020-07-08,0,0,0,0,0,1,Wolverhampton Wanderers,0,406540,0,Dean Henderson,2019,0,90,GK,11980,0,Sheffield United,0,0
-2020-07-05,0,0,0,0.03603909909725189,0,1,Sheffield United,0,405557,0,Dean Henderson,2019,1,90,GK,11963,0,Burnley,0.03603909909725189,0
-2020-07-02,0,1,0,0,0.02186880074441433,3,Tottenham,0,404810,0,Dean Henderson,2019,1,90,GK,11960,0,Sheffield United,0,0
-2020-06-21,0,0,0,0,0,3,Sheffield United,0,401617,0,Dean Henderson,2019,0,90,GK,11938,0,Newcastle United,0,0
-2020-06-17,0,0,0,0,0,0,Sheffield United,0,400337,0,Dean Henderson,2019,0,90,GK,11913,0,Aston Villa,0,0
-2020-03-07,0,0,0,0,0,1,Norwich,0,387670,0,Dean Henderson,2019,0,90,GK,11929,0,Sheffield United,0,0
-2020-02-22,0,0,0,0,0,1,Brighton,0,387152,0,Dean Henderson,2019,1,90,GK,11909,0,Sheffield United,0,0
-2020-02-09,0,0,0,0.0645546019077301,0,2,Bournemouth,0,386905,0,Dean Henderson,2019,1,90,GK,11900,0,Sheffield United,0.0645546019077301,0
-2020-02-01,0,0,0,0,0,0,Sheffield United,0,386702,0,Dean Henderson,2019,1,90,GK,11885,0,Crystal Palace,0,0
-2020-01-21,0,0,0,0,0,0,Manchester City,0,386362,0,Dean Henderson,2019,1,90,GK,11875,0,Sheffield United,0,0
-2020-01-18,0,0,0,0,0,1,Sheffield United,0,386156,0,Dean Henderson,2019,1,90,GK,11863,0,Arsenal,0,0
-2020-01-10,0,0,0,0.04828989878296852,0,1,West Ham,0,385740,0,Dean Henderson,2019,0,90,GK,11855,0,Sheffield United,0.04828989878296852,0
-2020-01-02,0,0,0,0,0,2,Sheffield United,0,385726,0,Dean Henderson,2019,0,90,GK,11847,0,Liverpool,0,0
-2019-12-29,0,0,0,0,0,2,Sheffield United,0,372933,0,Dean Henderson,2019,0,90,GK,11837,0,Manchester City,0,0
-2019-12-26,0,0,0,0,0,1,Watford,0,372561,0,Dean Henderson,2019,1,90,GK,11830,0,Sheffield United,0,0
-2019-12-21,0,0,0,0,0,0,Sheffield United,0,371466,0,Dean Henderson,2019,1,90,GK,11815,0,Brighton,0,0
-2019-12-14,0,0,0,0,0,2,Aston Villa,0,369822,0,Dean Henderson,2019,0,90,GK,11810,0,Sheffield United,0,0
-2019-12-08,0,0,0,0,0,1,Sheffield United,0,369008,0,Dean Henderson,2019,2,90,GK,11799,0,Norwich,0,0
-2019-12-05,0,0,0,0.06689950078725815,0,0,Newcastle United,0,367802,0,Dean Henderson,2019,2,90,GK,11786,0,Sheffield United,0.06689950078725815,0
-2019-12-01,0,0,0,0,0,1,Sheffield United,0,366769,0,Dean Henderson,2019,1,90,GK,11780,0,Wolverhampton Wanderers,0,0
-2019-11-09,0,0,0,0.03985859826207161,0,1,Sheffield United,0,363148,0,Dean Henderson,2019,1,90,GK,11759,0,Tottenham,0.03985859826207161,0
-2019-11-02,0,0,0,0,0,3,Burnley,0,361636,0,Dean Henderson,2019,0,90,GK,11750,0,Sheffield United,0,0
-2019-10-26,0,0,0,0.037985898554325104,0,1,Sheffield United,0,359405,0,Dean Henderson,2019,1,90,GK,11742,0,West Ham,0.037985898554325104,0
-2019-10-21,0,0,0,0,0,1,Arsenal,0,358948,0,Dean Henderson,2019,0,90,GK,11730,0,Sheffield United,0,0
-2019-10-05,0,0,0,0,0,0,Sheffield United,0,356261,0,Dean Henderson,2019,0,90,GK,11719,0,Watford,0,0
-2019-09-28,0,0,0,0,0,0,Liverpool,0,354331,0,Dean Henderson,2019,1,90,GK,11703,0,Sheffield United,0,0
-2019-09-21,0,0,0,0,0,0,Sheffield United,0,352227,0,Dean Henderson,2019,2,90,GK,11698,0,Everton,0,0
-2019-09-14,0.03304079920053482,0,0,0,0,0,Southampton,0.03304079920053482,349064,0,Dean Henderson,2019,1,90,GK,11686,1,Sheffield United,0,0
-2019-08-31,0,0,0,0,0,2,Sheffield United,0,347440,0,Dean Henderson,2019,2,90,GK,11675,0,Chelsea,0,0
-2019-08-24,0,0,0,0,0,1,Leicester,0,344008,0,Dean Henderson,2019,2,90,GK,11665,0,Sheffield United,0,0
-2019-08-18,0,0,0,0,0,1,Crystal Palace,0,342452,0,Dean Henderson,2019,0,90,GK,11660,0,Sheffield United,0,0
-2019-08-10,0,0,0,0,0,1,Sheffield United,0,341220,0,Dean Henderson,2019,1,90,GK,11645,0,Bournemouth,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-07-26,0.0,0,0,0.0,3,Sheffield United,411427,0,Dean Henderson,2019,1,90,GK,12015,0.0,0.0,0,Southampton,0.0,0
+2020-07-20,0.0,0,0,0.0,0,Everton,410363,0,Dean Henderson,2019,1,90,GK,12009,0.0,0.0,0,Sheffield United,0.0,0
+2020-07-16,0.0,0,0,0.0,2,Sheffield United,409126,0,Dean Henderson,2019,0,90,GK,11998,0.0,0.0,0,Leicester,0.0,0
+2020-07-11,0.0,0,0,0.0,3,Chelsea,407503,0,Dean Henderson,2019,0,90,GK,11989,0.0,0.0,0,Sheffield United,0.0,0
+2020-07-08,0.0,0,0,0.0,1,Wolverhampton Wanderers,406540,0,Dean Henderson,2019,0,90,GK,11980,0.0,0.0,0,Sheffield United,0.0,0
+2020-07-05,0.0,0,0,0.03603909909725189,1,Sheffield United,405557,0,Dean Henderson,2019,1,90,GK,11963,0.0,0.03603909909725189,0,Burnley,0.0,0
+2020-07-02,0.0,1,0,0.0,3,Tottenham,404810,0,Dean Henderson,2019,1,90,GK,11960,0.02186880074441433,0.0,0,Sheffield United,0.0,0
+2020-06-21,0.0,0,0,0.0,3,Sheffield United,401617,0,Dean Henderson,2019,0,90,GK,11938,0.0,0.0,0,Newcastle United,0.0,0
+2020-06-17,0.0,0,0,0.0,0,Sheffield United,400337,0,Dean Henderson,2019,0,90,GK,11913,0.0,0.0,0,Aston Villa,0.0,0
+2020-03-07,0.0,0,0,0.0,1,Norwich,387670,0,Dean Henderson,2019,0,90,GK,11929,0.0,0.0,0,Sheffield United,0.0,0
+2020-02-22,0.0,0,0,0.0,1,Brighton,387152,0,Dean Henderson,2019,1,90,GK,11909,0.0,0.0,0,Sheffield United,0.0,0
+2020-02-09,0.0,0,0,0.0645546019077301,2,Bournemouth,386905,0,Dean Henderson,2019,1,90,GK,11900,0.0,0.0645546019077301,0,Sheffield United,0.0,0
+2020-02-01,0.0,0,0,0.0,0,Sheffield United,386702,0,Dean Henderson,2019,1,90,GK,11885,0.0,0.0,0,Crystal Palace,0.0,0
+2020-01-21,0.0,0,0,0.0,0,Manchester City,386362,0,Dean Henderson,2019,1,90,GK,11875,0.0,0.0,0,Sheffield United,0.0,0
+2020-01-18,0.0,0,0,0.0,1,Sheffield United,386156,0,Dean Henderson,2019,1,90,GK,11863,0.0,0.0,0,Arsenal,0.0,0
+2020-01-10,0.0,0,0,0.04828989878296852,1,West Ham,385740,0,Dean Henderson,2019,0,90,GK,11855,0.0,0.04828989878296852,0,Sheffield United,0.0,0
+2020-01-02,0.0,0,0,0.0,2,Sheffield United,385726,0,Dean Henderson,2019,0,90,GK,11847,0.0,0.0,0,Liverpool,0.0,0
+2019-12-29,0.0,0,0,0.0,2,Sheffield United,372933,0,Dean Henderson,2019,0,90,GK,11837,0.0,0.0,0,Manchester City,0.0,0
+2019-12-26,0.0,0,0,0.0,1,Watford,372561,0,Dean Henderson,2019,1,90,GK,11830,0.0,0.0,0,Sheffield United,0.0,0
+2019-12-21,0.0,0,0,0.0,0,Sheffield United,371466,0,Dean Henderson,2019,1,90,GK,11815,0.0,0.0,0,Brighton,0.0,0
+2019-12-14,0.0,0,0,0.0,2,Aston Villa,369822,0,Dean Henderson,2019,0,90,GK,11810,0.0,0.0,0,Sheffield United,0.0,0
+2019-12-08,0.0,0,0,0.0,1,Sheffield United,369008,0,Dean Henderson,2019,2,90,GK,11799,0.0,0.0,0,Norwich,0.0,0
+2019-12-05,0.0,0,0,0.06689950078725815,0,Newcastle United,367802,0,Dean Henderson,2019,2,90,GK,11786,0.0,0.06689950078725815,0,Sheffield United,0.0,0
+2019-12-01,0.0,0,0,0.0,1,Sheffield United,366769,0,Dean Henderson,2019,1,90,GK,11780,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2019-11-09,0.0,0,0,0.03985859826207161,1,Sheffield United,363148,0,Dean Henderson,2019,1,90,GK,11759,0.0,0.03985859826207161,0,Tottenham,0.0,0
+2019-11-02,0.0,0,0,0.0,3,Burnley,361636,0,Dean Henderson,2019,0,90,GK,11750,0.0,0.0,0,Sheffield United,0.0,0
+2019-10-26,0.0,0,0,0.037985898554325104,1,Sheffield United,359405,0,Dean Henderson,2019,1,90,GK,11742,0.0,0.037985898554325104,0,West Ham,0.0,0
+2019-10-21,0.0,0,0,0.0,1,Arsenal,358948,0,Dean Henderson,2019,0,90,GK,11730,0.0,0.0,0,Sheffield United,0.0,0
+2019-10-05,0.0,0,0,0.0,0,Sheffield United,356261,0,Dean Henderson,2019,0,90,GK,11719,0.0,0.0,0,Watford,0.0,0
+2019-09-28,0.0,0,0,0.0,0,Liverpool,354331,0,Dean Henderson,2019,1,90,GK,11703,0.0,0.0,0,Sheffield United,0.0,0
+2019-09-21,0.0,0,0,0.0,0,Sheffield United,352227,0,Dean Henderson,2019,2,90,GK,11698,0.0,0.0,0,Everton,0.0,0
+2019-09-14,0.03304079920053482,0,0,0.0,0,Southampton,349064,0,Dean Henderson,2019,1,90,GK,11686,0.0,0.0,1,Sheffield United,0.03304079920053482,0
+2019-08-31,0.0,0,0,0.0,2,Sheffield United,347440,0,Dean Henderson,2019,2,90,GK,11675,0.0,0.0,0,Chelsea,0.0,0
+2019-08-24,0.0,0,0,0.0,1,Leicester,344008,0,Dean Henderson,2019,2,90,GK,11665,0.0,0.0,0,Sheffield United,0.0,0
+2019-08-18,0.0,0,0,0.0,1,Crystal Palace,342452,0,Dean Henderson,2019,0,90,GK,11660,0.0,0.0,0,Sheffield United,0.0,0
+2019-08-10,0.0,0,0,0.0,1,Sheffield United,341220,0,Dean Henderson,2019,1,90,GK,11645,0.0,0.0,0,Bournemouth,0.0,0

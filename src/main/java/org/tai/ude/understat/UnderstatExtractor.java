@@ -37,7 +37,8 @@ public class UnderstatExtractor {
             String teamName = TeamNameFormatter.formatName(individualTeamData.getString("title"));
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
             JSONArray matchDataWithTeamName = addTeamNameAndSeasonToJsonArray(teamHistory, teamName, this.season);
-            writeDataToFile(matchDataWithTeamName, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+            JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(matchDataWithTeamName);
+            writeDataToFile(xGColumnsToSnakecase, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
             LOGGER.info("Team data extraction from {} complete.", this.mainUrl);
         });
     }
@@ -53,7 +54,8 @@ public class UnderstatExtractor {
             JSONArray playerMatchData = HexToJsonConverter.toJsonArray(playerMatchElements);
             JSONArray currentSeasonData = filterCurrentSeason(playerMatchData);
             JSONArray playerMatchDataWithName = addPlayerNameToJsonArray(currentSeasonData, playerName);
-            writeDataToFile(playerMatchDataWithName, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+            JSONArray playerXGColumnsToSnakecase = playerXGColumnsToSnakecase(playerMatchDataWithName);
+            writeDataToFile(playerXGColumnsToSnakecase, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
             LOGGER.info("Player data extraction from {} complete.", this.mainUrl);
         }
     }
@@ -75,21 +77,69 @@ public class UnderstatExtractor {
         };
     }
 
-    private JSONArray addPlayerNameToJsonArray(JSONArray playerData, String playerName) {
-        for (int i = 0; i < playerData.length(); i++) {
-            JSONObject matchData = playerData.getJSONObject(i);
+    private JSONArray addPlayerNameToJsonArray(JSONArray jsonArray, String playerName) {
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject matchData = jsonArray.getJSONObject(i);
             matchData.put("name", playerName);
         }
-        return playerData;
+        return jsonArray;
     }
 
-    private JSONArray addTeamNameAndSeasonToJsonArray(JSONArray teamData, String teamName, String season) {
-        for (int i = 0; i < teamData.length(); i++) {
-            JSONObject matchData = teamData.getJSONObject(i);
+    private JSONArray addTeamNameAndSeasonToJsonArray(JSONArray jsonArray, String teamName, String season) {
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject matchData = jsonArray.getJSONObject(i);
             matchData.put("team", teamName);
             matchData.put("season", season);
         }
-        return teamData;
+        return jsonArray;
+    }
+
+    private JSONArray teamXGColumnsToSnakecase(JSONArray jsonArray) {
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject matchData = jsonArray.getJSONObject(i);
+            Double npxG = matchData.getDouble("npxG");
+            Double xG = matchData.getDouble("xG");
+            Double npxGD = matchData.getDouble("npxGD");
+            Double npxGA = matchData.getDouble("npxGA");
+            Double xGA = matchData.getDouble("xGA");
+
+            matchData.remove("npxG");
+            matchData.remove("xG");
+            matchData.remove("npxGD");
+            matchData.remove("npxGA");
+            matchData.remove("xGA");
+
+            matchData.put("npx_g", npxG);
+            matchData.put("x_g", xG);
+            matchData.put("npx_g_d", npxGD);
+            matchData.put("npx_g_a", npxGA);
+            matchData.put("x_g_a", xGA);
+        }
+        return jsonArray;
+    }
+
+    private JSONArray playerXGColumnsToSnakecase(JSONArray jsonArray) {
+        for (int i = 0; i < jsonArray.length(); i++) {
+            JSONObject matchData = jsonArray.getJSONObject(i);
+            Double npxG = matchData.getDouble("npxG");
+            Double xGChain = matchData.getDouble("xGChain");
+            Double xA = matchData.getDouble("xA");
+            Double xG = matchData.getDouble("xG");
+            Double xGBuildup = matchData.getDouble("xGBuildup");
+
+            matchData.remove("npxG");
+            matchData.remove("xGChain");
+            matchData.remove("xA");
+            matchData.remove("xG");
+            matchData.remove("xGBuildup");
+
+            matchData.put("npx_g", npxG);
+            matchData.put("x_g_chain", xGChain);
+            matchData.put("x_a", xA);
+            matchData.put("x_g", xG);
+            matchData.put("x_g_buildup", xGBuildup);
+        }
+        return jsonArray;
     }
 
     private JSONArray filterCurrentSeason(JSONArray playerData) {

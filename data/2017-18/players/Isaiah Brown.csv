@@ -1,14 +1,14 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-01-01,0,0,0,0,0,2,Bournemouth,0,206393,0,Isaiah Brown,2017,2,1,Sub,7331,0,Brighton,0,0
-2017-12-16,0,2,0,0.035407498478889465,0.035407498478889465,0,Burnley,0,205482,0,Isaiah Brown,2017,0,14,Sub,7291,0,Brighton,0,0
-2017-12-09,0,2,0,0.01463059987872839,0.07163619995117188,2,Brighton,0,198840,0,Isaiah Brown,2017,0,75,ML,7274,0,Huddersfield,0.01463059987872839,0
-2017-12-02,0,2,0,0.11090999841690063,0.6844840049743652,1,Liverpool,0,179623,0,Isaiah Brown,2017,5,71,ML,7268,0,Brighton,0,0
-2017-11-28,0,0,0,0,0,0,Crystal Palace,0,178835,0,Isaiah Brown,2017,0,7,Sub,7250,0,Brighton,0,0
-2017-11-25,0,0,0,0,0,1,Brighton,0,179447,0,Isaiah Brown,2017,0,1,Sub,7243,0,Manchester United,0,0
-2017-11-20,0,0,0,0,0,2,Stoke,0,179739,0,Isaiah Brown,2017,2,3,Sub,7238,0,Brighton,0,0
-2017-11-04,0,0,0,0,0,0,Brighton,0,179338,0,Isaiah Brown,2017,1,4,Sub,7225,0,Swansea,0,0
-2017-10-29,0,0,0,0,0,1,Southampton,0,177650,0,Isaiah Brown,2017,1,5,Sub,7211,0,Brighton,0,0
-2017-10-20,0,0,0,0,0,0,Brighton,0,177471,0,Isaiah Brown,2017,3,11,Sub,7208,0,West Ham,0,0
-2017-10-15,0.09284999966621399,0,0,0.09284999966621399,0,1,Everton,0.09284999966621399,178311,0,Isaiah Brown,2017,1,4,Sub,7189,1,Brighton,0.09284999966621399,0
-2017-10-01,0,0,0,0.07305130362510681,0,2,Brighton,0,177853,0,Isaiah Brown,2017,0,77,FW,7186,0,Arsenal,0.07305130362510681,0
-2017-08-12,0,0,0,0,0,0,Manchester City,0,175827,0,Isaiah Brown,2017,2,23,ML,7126,0,Brighton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-01-01,0.0,0,0,0.0,2,Bournemouth,206393,0,Isaiah Brown,2017,2,1,Sub,7331,0.0,0.0,0,Brighton,0.0,0
+2017-12-16,0.0,2,0,0.035407498478889465,0,Burnley,205482,0,Isaiah Brown,2017,0,14,Sub,7291,0.035407498478889465,0.0,0,Brighton,0.0,0
+2017-12-09,0.0,2,0,0.01463059987872839,2,Brighton,198840,0,Isaiah Brown,2017,0,75,ML,7274,0.07163619995117188,0.01463059987872839,0,Huddersfield,0.0,0
+2017-12-02,0.0,2,0,0.11090999841690063,1,Liverpool,179623,0,Isaiah Brown,2017,5,71,ML,7268,0.6844840049743652,0.0,0,Brighton,0.0,0
+2017-11-28,0.0,0,0,0.0,0,Crystal Palace,178835,0,Isaiah Brown,2017,0,7,Sub,7250,0.0,0.0,0,Brighton,0.0,0
+2017-11-25,0.0,0,0,0.0,1,Brighton,179447,0,Isaiah Brown,2017,0,1,Sub,7243,0.0,0.0,0,Manchester United,0.0,0
+2017-11-20,0.0,0,0,0.0,2,Stoke,179739,0,Isaiah Brown,2017,2,3,Sub,7238,0.0,0.0,0,Brighton,0.0,0
+2017-11-04,0.0,0,0,0.0,0,Brighton,179338,0,Isaiah Brown,2017,1,4,Sub,7225,0.0,0.0,0,Swansea,0.0,0
+2017-10-29,0.0,0,0,0.0,1,Southampton,177650,0,Isaiah Brown,2017,1,5,Sub,7211,0.0,0.0,0,Brighton,0.0,0
+2017-10-20,0.0,0,0,0.0,0,Brighton,177471,0,Isaiah Brown,2017,3,11,Sub,7208,0.0,0.0,0,West Ham,0.0,0
+2017-10-15,0.09284999966621399,0,0,0.09284999966621399,1,Everton,178311,0,Isaiah Brown,2017,1,4,Sub,7189,0.0,0.09284999966621399,1,Brighton,0.09284999966621399,0
+2017-10-01,0.0,0,0,0.07305130362510681,2,Brighton,177853,0,Isaiah Brown,2017,0,77,FW,7186,0.0,0.07305130362510681,0,Arsenal,0.0,0
+2017-08-12,0.0,0,0,0.0,0,Manchester City,175827,0,Isaiah Brown,2017,2,23,ML,7126,0.0,0.0,0,Brighton,0.0,0

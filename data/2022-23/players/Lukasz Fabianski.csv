@@ -1,37 +1,37 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-28,0,0,0,0.15203803777694702,0,2,West Ham,0,601195,0,Lukasz Fabianski,2022,1,90,GK,18579,0,Leicester,0.15203803777694702,0
-2023-05-21,0,0,0,0.06038571149110794,0,3,Leeds,0,598666,0,Lukasz Fabianski,2022,1,90,GK,18570,0,West Ham,0.06038571149110794,0
-2023-05-14,0,0,0,0,0,2,West Ham,0,596908,0,Lukasz Fabianski,2022,0,90,GK,18554,0,Brentford,0,0
-2023-05-07,0,0,0,0,0,1,Manchester United,0,595565,0,Lukasz Fabianski,2022,0,90,GK,18550,0,West Ham,0,0
-2023-05-03,0,0,0,0,0,3,West Ham,0,593980,0,Lukasz Fabianski,2022,0,90,GK,18478,0,Manchester City,0,0
-2023-04-29,0,0,0,0,0,4,West Ham,0,592156,0,Lukasz Fabianski,2022,3,90,GK,18536,0,Crystal Palace,0,0
-2023-04-26,0,0,0,0,0,1,Liverpool,0,591618,0,Lukasz Fabianski,2022,2,90,GK,18526,0,West Ham,0,0
-2023-04-23,0,0,0,0,0,0,West Ham,0,590805,0,Lukasz Fabianski,2022,4,90,GK,18513,0,Bournemouth,0,0
-2023-04-16,0,0,0,0,0,2,Arsenal,0,589131,0,Lukasz Fabianski,2022,2,90,GK,18510,0,West Ham,0,0
-2023-04-08,0,0,0,0,0,0,West Ham,0,586791,0,Lukasz Fabianski,2022,1,90,GK,18494,0,Fulham,0,0
-2023-04-05,0,0,0,0,0,1,Newcastle United,0,586092,0,Lukasz Fabianski,2022,5,90,GK,18268,0,West Ham,0,0
-2023-04-02,0,0,0,0,0,1,Southampton,0,585259,0,Lukasz Fabianski,2022,0,90,GK,18491,0,West Ham,0,0
-2023-02-25,0,0,0,0,0,4,Nottingham Forest,0,577886,0,Lukasz Fabianski,2022,0,70,GK,18451,0,West Ham,0,0
-2023-02-19,0,0,0,0,0,2,West Ham,0,577227,0,Lukasz Fabianski,2022,0,90,GK,18440,0,Tottenham,0,0
-2023-02-11,0,0,0,0.19450199604034424,0,1,Chelsea,0,574570,0,Lukasz Fabianski,2022,1,90,GK,18431,0,West Ham,0.19450199604034424,0
-2023-02-04,0,0,0,0,0,1,West Ham,0,573477,0,Lukasz Fabianski,2022,1,90,GK,18418,0,Newcastle United,0,0
-2023-01-21,0,0,0,0,0,2,Everton,0,570146,0,Lukasz Fabianski,2022,0,90,GK,18411,0,West Ham,0,0
-2023-01-14,0,0,0,0.0795494019985199,0,1,West Ham,0,568820,0,Lukasz Fabianski,2022,0,90,GK,18401,0,Wolverhampton Wanderers,0.0795494019985199,0
-2023-01-04,0,0,0,0,0,2,West Ham,0,567430,0,Lukasz Fabianski,2022,2,90,GK,18388,0,Leeds,0,0
-2022-12-30,0,0,0,0,0,0,Brentford,0,566229,0,Lukasz Fabianski,2022,2,90,GK,18380,0,West Ham,0,0
-2022-12-26,0,0,0,0.08035720139741898,0,3,West Ham,0,565641,0,Lukasz Fabianski,2022,1,90,GK,18362,0,Arsenal,0.08035720139741898,0
-2022-11-12,0,0,0,0.02391190081834793,0,0,Leicester,0,564443,0,Lukasz Fabianski,2022,2,90,GK,18360,0,West Ham,0.02391190081834793,0
-2022-11-06,0,0,0,0.04118189960718155,0,1,Crystal Palace,0,562718,0,Lukasz Fabianski,2022,2,90,GK,18350,0,West Ham,0.04118189960718155,0
-2022-10-30,0,0,0,0,0,1,West Ham,0,561007,0,Lukasz Fabianski,2022,0,47,GK,18340,0,Manchester United,0,0
-2022-10-24,0,0,0,0.10450900346040726,0,2,Bournemouth,0,559519,0,Lukasz Fabianski,2022,0,90,GK,18330,0,West Ham,0.10450900346040726,0
-2022-10-19,0,0,0,0,0,1,West Ham,0,557536,0,Lukasz Fabianski,2022,0,90,GK,18320,0,Liverpool,0,0
-2022-10-16,0,0,0,0.06605309993028641,0,1,West Ham,0,556681,0,Lukasz Fabianski,2022,1,90,GK,18309,0,Southampton,0.06605309993028641,0
-2022-10-09,0,0,0,0,0,3,Fulham,0,554738,0,Lukasz Fabianski,2022,1,90,GK,18301,0,West Ham,0,0
-2022-10-01,0,0,0,0.08483920246362686,0,2,Wolverhampton Wanderers,0,552608,0,Lukasz Fabianski,2022,0,90,GK,18291,0,West Ham,0.08483920246362686,0
-2022-09-18,0,0,0,0,0,1,West Ham,0,551394,0,Lukasz Fabianski,2022,0,90,GK,18277,0,Everton,0,0
-2022-09-03,0,0,0,0,0,2,West Ham,0,547261,0,Lukasz Fabianski,2022,1,90,GK,18260,0,Chelsea,0,0
-2022-08-31,0,0,0,0.12824100255966187,0,1,Tottenham,0,546406,0,Lukasz Fabianski,2022,1,90,GK,18249,0,West Ham,0.12824100255966187,0
-2022-08-28,0,0,0,0.0674934983253479,0,0,West Ham,0,545250,0,Lukasz Fabianski,2022,1,90,GK,18239,0,Aston Villa,0.0674934983253479,0
-2022-08-21,0,0,0,0.025861699134111404,0,0,Brighton,0,542916,0,Lukasz Fabianski,2022,2,90,GK,18229,0,West Ham,0.025861699134111404,0
-2022-08-14,0,0,0,0.03215770050883293,0,1,West Ham,0,541267,0,Lukasz Fabianski,2022,0,90,GK,18219,0,Nottingham Forest,0.03215770050883293,0
-2022-08-07,0,0,0,0,0,0,Manchester City,0,540061,0,Lukasz Fabianski,2022,2,28,GK,18211,0,West Ham,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-28,0.0,0,0,0.15203803777694702,2,West Ham,601195,0,Lukasz Fabianski,2022,1,90,GK,18579,0.0,0.15203803777694702,0,Leicester,0.0,0
+2023-05-21,0.0,0,0,0.06038571149110794,3,Leeds,598666,0,Lukasz Fabianski,2022,1,90,GK,18570,0.0,0.06038571149110794,0,West Ham,0.0,0
+2023-05-14,0.0,0,0,0.0,2,West Ham,596908,0,Lukasz Fabianski,2022,0,90,GK,18554,0.0,0.0,0,Brentford,0.0,0
+2023-05-07,0.0,0,0,0.0,1,Manchester United,595565,0,Lukasz Fabianski,2022,0,90,GK,18550,0.0,0.0,0,West Ham,0.0,0
+2023-05-03,0.0,0,0,0.0,3,West Ham,593980,0,Lukasz Fabianski,2022,0,90,GK,18478,0.0,0.0,0,Manchester City,0.0,0
+2023-04-29,0.0,0,0,0.0,4,West Ham,592156,0,Lukasz Fabianski,2022,3,90,GK,18536,0.0,0.0,0,Crystal Palace,0.0,0
+2023-04-26,0.0,0,0,0.0,1,Liverpool,591618,0,Lukasz Fabianski,2022,2,90,GK,18526,0.0,0.0,0,West Ham,0.0,0
+2023-04-23,0.0,0,0,0.0,0,West Ham,590805,0,Lukasz Fabianski,2022,4,90,GK,18513,0.0,0.0,0,Bournemouth,0.0,0
+2023-04-16,0.0,0,0,0.0,2,Arsenal,589131,0,Lukasz Fabianski,2022,2,90,GK,18510,0.0,0.0,0,West Ham,0.0,0
+2023-04-08,0.0,0,0,0.0,0,West Ham,586791,0,Lukasz Fabianski,2022,1,90,GK,18494,0.0,0.0,0,Fulham,0.0,0
+2023-04-05,0.0,0,0,0.0,1,Newcastle United,586092,0,Lukasz Fabianski,2022,5,90,GK,18268,0.0,0.0,0,West Ham,0.0,0
+2023-04-02,0.0,0,0,0.0,1,Southampton,585259,0,Lukasz Fabianski,2022,0,90,GK,18491,0.0,0.0,0,West Ham,0.0,0
+2023-02-25,0.0,0,0,0.0,4,Nottingham Forest,577886,0,Lukasz Fabianski,2022,0,70,GK,18451,0.0,0.0,0,West Ham,0.0,0
+2023-02-19,0.0,0,0,0.0,2,West Ham,577227,0,Lukasz Fabianski,2022,0,90,GK,18440,0.0,0.0,0,Tottenham,0.0,0
+2023-02-11,0.0,0,0,0.19450199604034424,1,Chelsea,574570,0,Lukasz Fabianski,2022,1,90,GK,18431,0.0,0.19450199604034424,0,West Ham,0.0,0
+2023-02-04,0.0,0,0,0.0,1,West Ham,573477,0,Lukasz Fabianski,2022,1,90,GK,18418,0.0,0.0,0,Newcastle United,0.0,0
+2023-01-21,0.0,0,0,0.0,2,Everton,570146,0,Lukasz Fabianski,2022,0,90,GK,18411,0.0,0.0,0,West Ham,0.0,0
+2023-01-14,0.0,0,0,0.0795494019985199,1,West Ham,568820,0,Lukasz Fabianski,2022,0,90,GK,18401,0.0,0.0795494019985199,0,Wolverhampton Wanderers,0.0,0
+2023-01-04,0.0,0,0,0.0,2,West Ham,567430,0,Lukasz Fabianski,2022,2,90,GK,18388,0.0,0.0,0,Leeds,0.0,0
+2022-12-30,0.0,0,0,0.0,0,Brentford,566229,0,Lukasz Fabianski,2022,2,90,GK,18380,0.0,0.0,0,West Ham,0.0,0
+2022-12-26,0.0,0,0,0.08035720139741898,3,West Ham,565641,0,Lukasz Fabianski,2022,1,90,GK,18362,0.0,0.08035720139741898,0,Arsenal,0.0,0
+2022-11-12,0.0,0,0,0.02391190081834793,0,Leicester,564443,0,Lukasz Fabianski,2022,2,90,GK,18360,0.0,0.02391190081834793,0,West Ham,0.0,0
+2022-11-06,0.0,0,0,0.04118189960718155,1,Crystal Palace,562718,0,Lukasz Fabianski,2022,2,90,GK,18350,0.0,0.04118189960718155,0,West Ham,0.0,0
+2022-10-30,0.0,0,0,0.0,1,West Ham,561007,0,Lukasz Fabianski,2022,0,47,GK,18340,0.0,0.0,0,Manchester United,0.0,0
+2022-10-24,0.0,0,0,0.10450900346040726,2,Bournemouth,559519,0,Lukasz Fabianski,2022,0,90,GK,18330,0.0,0.10450900346040726,0,West Ham,0.0,0
+2022-10-19,0.0,0,0,0.0,1,West Ham,557536,0,Lukasz Fabianski,2022,0,90,GK,18320,0.0,0.0,0,Liverpool,0.0,0
+2022-10-16,0.0,0,0,0.06605309993028641,1,West Ham,556681,0,Lukasz Fabianski,2022,1,90,GK,18309,0.0,0.06605309993028641,0,Southampton,0.0,0
+2022-10-09,0.0,0,0,0.0,3,Fulham,554738,0,Lukasz Fabianski,2022,1,90,GK,18301,0.0,0.0,0,West Ham,0.0,0
+2022-10-01,0.0,0,0,0.08483920246362686,2,Wolverhampton Wanderers,552608,0,Lukasz Fabianski,2022,0,90,GK,18291,0.0,0.08483920246362686,0,West Ham,0.0,0
+2022-09-18,0.0,0,0,0.0,1,West Ham,551394,0,Lukasz Fabianski,2022,0,90,GK,18277,0.0,0.0,0,Everton,0.0,0
+2022-09-03,0.0,0,0,0.0,2,West Ham,547261,0,Lukasz Fabianski,2022,1,90,GK,18260,0.0,0.0,0,Chelsea,0.0,0
+2022-08-31,0.0,0,0,0.12824100255966187,1,Tottenham,546406,0,Lukasz Fabianski,2022,1,90,GK,18249,0.0,0.12824100255966187,0,West Ham,0.0,0
+2022-08-28,0.0,0,0,0.0674934983253479,0,West Ham,545250,0,Lukasz Fabianski,2022,1,90,GK,18239,0.0,0.0674934983253479,0,Aston Villa,0.0,0
+2022-08-21,0.0,0,0,0.025861699134111404,0,Brighton,542916,0,Lukasz Fabianski,2022,2,90,GK,18229,0.0,0.025861699134111404,0,West Ham,0.0,0
+2022-08-14,0.0,0,0,0.03215770050883293,1,West Ham,541267,0,Lukasz Fabianski,2022,0,90,GK,18219,0.0,0.03215770050883293,0,Nottingham Forest,0.0,0
+2022-08-07,0.0,0,0,0.0,0,Manchester City,540061,0,Lukasz Fabianski,2022,2,28,GK,18211,0.0,0.0,0,West Ham,0.0,0

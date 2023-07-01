@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-12-19,0,0,0,0,0,2,Arsenal,0,436193,0,Jonjoe Kenny,2020,1,1,Sub,14569,0,Everton,0,0
-2020-12-16,0,0,0,0,0,0,Everton,0,434694,0,Jonjoe Kenny,2020,2,1,Sub,14559,0,Leicester,0,0
-2020-12-12,0,0,0,0,0,1,Chelsea,0,433299,0,Jonjoe Kenny,2020,0,1,Sub,14546,0,Everton,0,0
-2020-11-01,0,0,0,0.24064500629901886,0,2,Everton,0,425197,0,Jonjoe Kenny,2020,1,78,DR,14501,0,Newcastle United,0.24064500629901886,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-12-19,0.0,0,0,0.0,2,Arsenal,436193,0,Jonjoe Kenny,2020,1,1,Sub,14569,0.0,0.0,0,Everton,0.0,0
+2020-12-16,0.0,0,0,0.0,0,Everton,434694,0,Jonjoe Kenny,2020,2,1,Sub,14559,0.0,0.0,0,Leicester,0.0,0
+2020-12-12,0.0,0,0,0.0,1,Chelsea,433299,0,Jonjoe Kenny,2020,0,1,Sub,14546,0.0,0.0,0,Everton,0.0,0
+2020-11-01,0.0,0,0,0.24064500629901886,2,Everton,425197,0,Jonjoe Kenny,2020,1,78,DR,14501,0.0,0.24064500629901886,0,Newcastle United,0.0,0

@@ -1,38 +1,38 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-07-26,0,1,0,0.08704569935798645,0.03599730134010315,1,Bournemouth,0,411336,0,Aaron Ramsdale,2019,3,90,GK,12019,0,Everton,0.0510484017431736,0
-2020-07-19,0,0,0,0,0,0,Southampton,0,409753,0,Aaron Ramsdale,2019,2,90,GK,12004,0,Bournemouth,0,0
-2020-07-15,0,0,0,0.04039520025253296,0,2,Bournemouth,0,408669,0,Aaron Ramsdale,2019,1,90,GK,11999,0,Manchester City,0.04039520025253296,0
-2020-07-12,0,0,0,0,0,4,Leicester,0,408197,0,Aaron Ramsdale,2019,1,90,GK,11984,0,Bournemouth,0,0
-2020-07-09,0,0,0,0,0,0,Tottenham,0,407021,0,Aaron Ramsdale,2019,0,90,GK,11975,0,Bournemouth,0,0
-2020-07-04,0,0,0,0,0,5,Bournemouth,0,405138,0,Aaron Ramsdale,2019,2,90,GK,11967,0,Manchester United,0,0
-2020-07-01,0,0,0,0.06730599701404572,0,1,Newcastle United,0,404373,0,Aaron Ramsdale,2019,4,90,GK,11955,0,Bournemouth,0.06730599701404572,0
-2020-06-24,0,0,0,0,0,1,Bournemouth,0,402379,0,Aaron Ramsdale,2019,0,90,GK,11947,0,Wolverhampton Wanderers,0,0
-2020-06-20,0,0,0,0,0,0,Crystal Palace,0,401448,0,Aaron Ramsdale,2019,2,90,GK,11942,0,Bournemouth,0,0
-2020-03-07,0,0,0,0,0,2,Bournemouth,0,387630,0,Aaron Ramsdale,2019,1,90,GK,11928,0,Liverpool,0,0
-2020-02-29,0,0,0,0,0,2,Chelsea,0,387479,0,Aaron Ramsdale,2019,2,90,GK,11914,0,Bournemouth,0,0
-2020-02-22,0,0,0,0,0,3,Bournemouth,0,387220,0,Aaron Ramsdale,2019,0,90,GK,11907,0,Burnley,0,0
-2020-02-09,0,0,0,0,0,2,Bournemouth,0,386918,0,Aaron Ramsdale,2019,1,90,GK,11900,0,Sheffield United,0,0
-2020-02-01,0,0,0,0,0,2,Aston Villa,0,386716,0,Aaron Ramsdale,2019,1,90,GK,11883,0,Bournemouth,0,0
-2020-01-21,0,0,0,0.09440810233354568,0,3,Brighton,0,386335,0,Aaron Ramsdale,2019,1,90,GK,11878,0,Bournemouth,0.09440810233354568,0
-2020-01-18,0,0,0,0,0,1,Bournemouth,0,386130,0,Aaron Ramsdale,2019,0,90,GK,11869,0,Norwich,0,0
-2020-01-01,0,0,0,0.09948969632387161,0,4,Bournemouth,0,385616,0,Aaron Ramsdale,2019,0,90,GK,11843,0,West Ham,0.09948969632387161,0
-2019-12-28,0,0,0,0.12189099937677383,0,2,Bournemouth,0,372685,0,Aaron Ramsdale,2019,0,90,GK,11834,0,Brighton,0.12189099937677383,0
-2019-12-26,0,0,0,0.034685298800468445,0,1,Arsenal,0,372422,0,Aaron Ramsdale,2019,1,90,GK,11824,0,Bournemouth,0.034685298800468445,0
-2019-12-21,0,0,0,0,0,0,Burnley,0,371425,0,Aaron Ramsdale,2019,1,90,GK,11814,0,Bournemouth,0,0
-2019-12-14,0,0,0,0,0,0,Bournemouth,0,369755,0,Aaron Ramsdale,2019,1,90,GK,11805,0,Chelsea,0,0
-2019-12-07,0,0,0,0,0,0,Liverpool,0,368328,0,Aaron Ramsdale,2019,3,90,GK,11794,0,Bournemouth,0,0
-2019-12-03,0,0,0,0.02615389972925186,0,1,Bournemouth,0,367428,0,Aaron Ramsdale,2019,0,90,GK,11791,0,Crystal Palace,0.02615389972925186,0
-2019-11-30,0,0,0,0.014831899665296078,0,3,Bournemouth,0,366248,0,Aaron Ramsdale,2019,2,90,GK,11779,0,Tottenham,0.014831899665296078,0
-2019-11-23,0,0,0,0,0,1,Wolverhampton Wanderers,0,364656,0,Aaron Ramsdale,2019,2,90,GK,11765,0,Bournemouth,0,0
-2019-11-09,0,0,0,0.01755630038678646,0,2,Bournemouth,0,363203,0,Aaron Ramsdale,2019,1,90,GK,11756,0,Newcastle United,0.01755630038678646,0
-2019-11-02,0,0,0,0.09682869911193848,0,1,Manchester United,0,361248,0,Aaron Ramsdale,2019,0,90,GK,11745,0,Bournemouth,0.09682869911193848,0
-2019-10-26,0,0,0,0.4093349874019623,0,0,Bournemouth,0,359433,0,Aaron Ramsdale,2019,0,90,GK,11741,0,Watford,0.4093349874019623,0
-2019-10-19,0,0,0,0.07121309638023376,0,0,Norwich,0,357918,0,Aaron Ramsdale,2019,0,90,GK,11724,0,Bournemouth,0.07121309638023376,0
-2019-10-06,0,0,0,0,0,1,Bournemouth,0,356929,0,Aaron Ramsdale,2019,0,90,GK,11722,0,Arsenal,0,0
-2019-09-28,0,0,0,0,0,2,West Ham,0,354581,0,Aaron Ramsdale,2019,2,90,GK,11707,0,Bournemouth,0,0
-2019-09-20,0,1,0,0.5451740026473999,0.4954259991645813,1,Bournemouth,0,351920,1,Aaron Ramsdale,2019,3,90,GK,11693,0,Southampton,0.049747999757528305,0
-2019-09-15,0,0,0,0,0,3,Everton,0,349621,0,Aaron Ramsdale,2019,1,90,GK,11690,0,Bournemouth,0,0
-2019-08-31,0,0,0,0.018161900341510773,0,3,Bournemouth,0,347496,0,Aaron Ramsdale,2019,1,90,GK,11677,0,Leicester,0.018161900341510773,0
-2019-08-25,0,0,0,0.37376898527145386,0,1,Manchester City,0,344480,0,Aaron Ramsdale,2019,3,90,GK,11671,0,Bournemouth,0.37376898527145386,0
-2019-08-17,0,0,0,0.04912929981946945,0,1,Bournemouth,0,341826,0,Aaron Ramsdale,2019,2,90,GK,11654,0,Aston Villa,0.04912929981946945,0
-2019-08-10,0,0,0,0,0,1,Sheffield United,0,341208,0,Aaron Ramsdale,2019,1,90,GK,11645,0,Bournemouth,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-07-26,0.0,1,0,0.08704569935798645,1,Bournemouth,411336,0,Aaron Ramsdale,2019,3,90,GK,12019,0.03599730134010315,0.0510484017431736,0,Everton,0.0,0
+2020-07-19,0.0,0,0,0.0,0,Southampton,409753,0,Aaron Ramsdale,2019,2,90,GK,12004,0.0,0.0,0,Bournemouth,0.0,0
+2020-07-15,0.0,0,0,0.04039520025253296,2,Bournemouth,408669,0,Aaron Ramsdale,2019,1,90,GK,11999,0.0,0.04039520025253296,0,Manchester City,0.0,0
+2020-07-12,0.0,0,0,0.0,4,Leicester,408197,0,Aaron Ramsdale,2019,1,90,GK,11984,0.0,0.0,0,Bournemouth,0.0,0
+2020-07-09,0.0,0,0,0.0,0,Tottenham,407021,0,Aaron Ramsdale,2019,0,90,GK,11975,0.0,0.0,0,Bournemouth,0.0,0
+2020-07-04,0.0,0,0,0.0,5,Bournemouth,405138,0,Aaron Ramsdale,2019,2,90,GK,11967,0.0,0.0,0,Manchester United,0.0,0
+2020-07-01,0.0,0,0,0.06730599701404572,1,Newcastle United,404373,0,Aaron Ramsdale,2019,4,90,GK,11955,0.0,0.06730599701404572,0,Bournemouth,0.0,0
+2020-06-24,0.0,0,0,0.0,1,Bournemouth,402379,0,Aaron Ramsdale,2019,0,90,GK,11947,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2020-06-20,0.0,0,0,0.0,0,Crystal Palace,401448,0,Aaron Ramsdale,2019,2,90,GK,11942,0.0,0.0,0,Bournemouth,0.0,0
+2020-03-07,0.0,0,0,0.0,2,Bournemouth,387630,0,Aaron Ramsdale,2019,1,90,GK,11928,0.0,0.0,0,Liverpool,0.0,0
+2020-02-29,0.0,0,0,0.0,2,Chelsea,387479,0,Aaron Ramsdale,2019,2,90,GK,11914,0.0,0.0,0,Bournemouth,0.0,0
+2020-02-22,0.0,0,0,0.0,3,Bournemouth,387220,0,Aaron Ramsdale,2019,0,90,GK,11907,0.0,0.0,0,Burnley,0.0,0
+2020-02-09,0.0,0,0,0.0,2,Bournemouth,386918,0,Aaron Ramsdale,2019,1,90,GK,11900,0.0,0.0,0,Sheffield United,0.0,0
+2020-02-01,0.0,0,0,0.0,2,Aston Villa,386716,0,Aaron Ramsdale,2019,1,90,GK,11883,0.0,0.0,0,Bournemouth,0.0,0
+2020-01-21,0.0,0,0,0.09440810233354568,3,Brighton,386335,0,Aaron Ramsdale,2019,1,90,GK,11878,0.0,0.09440810233354568,0,Bournemouth,0.0,0
+2020-01-18,0.0,0,0,0.0,1,Bournemouth,386130,0,Aaron Ramsdale,2019,0,90,GK,11869,0.0,0.0,0,Norwich,0.0,0
+2020-01-01,0.0,0,0,0.09948969632387161,4,Bournemouth,385616,0,Aaron Ramsdale,2019,0,90,GK,11843,0.0,0.09948969632387161,0,West Ham,0.0,0
+2019-12-28,0.0,0,0,0.12189099937677383,2,Bournemouth,372685,0,Aaron Ramsdale,2019,0,90,GK,11834,0.0,0.12189099937677383,0,Brighton,0.0,0
+2019-12-26,0.0,0,0,0.034685298800468445,1,Arsenal,372422,0,Aaron Ramsdale,2019,1,90,GK,11824,0.0,0.034685298800468445,0,Bournemouth,0.0,0
+2019-12-21,0.0,0,0,0.0,0,Burnley,371425,0,Aaron Ramsdale,2019,1,90,GK,11814,0.0,0.0,0,Bournemouth,0.0,0
+2019-12-14,0.0,0,0,0.0,0,Bournemouth,369755,0,Aaron Ramsdale,2019,1,90,GK,11805,0.0,0.0,0,Chelsea,0.0,0
+2019-12-07,0.0,0,0,0.0,0,Liverpool,368328,0,Aaron Ramsdale,2019,3,90,GK,11794,0.0,0.0,0,Bournemouth,0.0,0
+2019-12-03,0.0,0,0,0.02615389972925186,1,Bournemouth,367428,0,Aaron Ramsdale,2019,0,90,GK,11791,0.0,0.02615389972925186,0,Crystal Palace,0.0,0
+2019-11-30,0.0,0,0,0.014831899665296078,3,Bournemouth,366248,0,Aaron Ramsdale,2019,2,90,GK,11779,0.0,0.014831899665296078,0,Tottenham,0.0,0
+2019-11-23,0.0,0,0,0.0,1,Wolverhampton Wanderers,364656,0,Aaron Ramsdale,2019,2,90,GK,11765,0.0,0.0,0,Bournemouth,0.0,0
+2019-11-09,0.0,0,0,0.01755630038678646,2,Bournemouth,363203,0,Aaron Ramsdale,2019,1,90,GK,11756,0.0,0.01755630038678646,0,Newcastle United,0.0,0
+2019-11-02,0.0,0,0,0.09682869911193848,1,Manchester United,361248,0,Aaron Ramsdale,2019,0,90,GK,11745,0.0,0.09682869911193848,0,Bournemouth,0.0,0
+2019-10-26,0.0,0,0,0.4093349874019623,0,Bournemouth,359433,0,Aaron Ramsdale,2019,0,90,GK,11741,0.0,0.4093349874019623,0,Watford,0.0,0
+2019-10-19,0.0,0,0,0.07121309638023376,0,Norwich,357918,0,Aaron Ramsdale,2019,0,90,GK,11724,0.0,0.07121309638023376,0,Bournemouth,0.0,0
+2019-10-06,0.0,0,0,0.0,1,Bournemouth,356929,0,Aaron Ramsdale,2019,0,90,GK,11722,0.0,0.0,0,Arsenal,0.0,0
+2019-09-28,0.0,0,0,0.0,2,West Ham,354581,0,Aaron Ramsdale,2019,2,90,GK,11707,0.0,0.0,0,Bournemouth,0.0,0
+2019-09-20,0.0,1,0,0.5451740026473999,1,Bournemouth,351920,1,Aaron Ramsdale,2019,3,90,GK,11693,0.4954259991645813,0.049747999757528305,0,Southampton,0.0,0
+2019-09-15,0.0,0,0,0.0,3,Everton,349621,0,Aaron Ramsdale,2019,1,90,GK,11690,0.0,0.0,0,Bournemouth,0.0,0
+2019-08-31,0.0,0,0,0.018161900341510773,3,Bournemouth,347496,0,Aaron Ramsdale,2019,1,90,GK,11677,0.0,0.018161900341510773,0,Leicester,0.0,0
+2019-08-25,0.0,0,0,0.37376898527145386,1,Manchester City,344480,0,Aaron Ramsdale,2019,3,90,GK,11671,0.0,0.37376898527145386,0,Bournemouth,0.0,0
+2019-08-17,0.0,0,0,0.04912929981946945,1,Bournemouth,341826,0,Aaron Ramsdale,2019,2,90,GK,11654,0.0,0.04912929981946945,0,Aston Villa,0.0,0
+2019-08-10,0.0,0,0,0.0,1,Sheffield United,341208,0,Aaron Ramsdale,2019,1,90,GK,11645,0.0,0.0,0,Bournemouth,0.0,0

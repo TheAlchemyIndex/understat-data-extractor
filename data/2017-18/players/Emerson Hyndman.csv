@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-13,0,1,0,0.017591100186109543,0.022522199898958206,1,Bournemouth,0,240167,0,Emerson Hyndman,2017,2,60,MC,7492,0,Burnley,0.017591100186109543,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-13,0.0,1,0,0.017591100186109543,1,Bournemouth,240167,0,Emerson Hyndman,2017,2,60,MC,7492,0.022522199898958206,0.017591100186109543,0,Burnley,0.0,0

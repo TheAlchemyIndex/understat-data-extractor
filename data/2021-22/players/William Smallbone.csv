@@ -1,5 +1,5 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-05-22,0,0,0,0,0,4,Southampton,0,537882,0,William Smallbone,2021,1,1,Sub,16752,0,Leicester,0,0
-2022-04-09,0,0,0,0,0,0,Chelsea,0,524615,0,William Smallbone,2021,6,15,Sub,16687,0,Southampton,0,0
-2022-03-13,0,0,0,0,0,1,Watford,0,520133,0,William Smallbone,2021,2,48,FW,16664,0,Southampton,0,0
-2021-12-15,0.06670799851417542,1,0,0.06670799851417542,0.05095230042934418,2,Southampton,0.06670799851417542,503264,0,William Smallbone,2021,2,72,MR,16542,1,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-05-22,0.0,0,0,0.0,4,Southampton,537882,0,William Smallbone,2021,1,1,Sub,16752,0.0,0.0,0,Leicester,0.0,0
+2022-04-09,0.0,0,0,0.0,0,Chelsea,524615,0,William Smallbone,2021,6,15,Sub,16687,0.0,0.0,0,Southampton,0.0,0
+2022-03-13,0.0,0,0,0.0,1,Watford,520133,0,William Smallbone,2021,2,48,FW,16664,0.0,0.0,0,Southampton,0.0,0
+2021-12-15,0.06670799851417542,1,0,0.06670799851417542,2,Southampton,503264,0,William Smallbone,2021,2,72,MR,16542,0.05095230042934418,0.0,1,Crystal Palace,0.06670799851417542,0

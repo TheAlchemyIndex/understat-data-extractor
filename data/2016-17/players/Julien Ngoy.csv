@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-02-04,0.04176320135593414,0,0,0.04176320135593414,0,1,Stoke,0.04176320135593414,130296,0,Julien Ngoy,2016,0,20,Sub,3375,1,West Bromwich Albion,0,0
-2017-02-01,0,0,0,0,0,1,Everton,0,129236,0,Julien Ngoy,2016,1,1,Sub,3369,0,Stoke,0,0
-2017-01-21,0,1,0,0.09213949739933014,0.09213949739933014,1,Manchester United,0,131969,0,Julien Ngoy,2016,1,16,Sub,3354,0,Stoke,0,0
-2017-01-14,0.08561389893293381,0,0,0.08561389893293381,0,1,Stoke,0.08561389893293381,130760,0,Julien Ngoy,2016,3,1,Sub,3342,1,Sunderland,0,0
-2016-12-10,0,0,0,0,0,3,Stoke,0,129500,0,Julien Ngoy,2016,1,1,Sub,3118,0,Arsenal,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-02-04,0.04176320135593414,0,0,0.04176320135593414,1,Stoke,130296,0,Julien Ngoy,2016,0,20,Sub,3375,0.0,0.0,1,West Bromwich Albion,0.04176320135593414,0
+2017-02-01,0.0,0,0,0.0,1,Everton,129236,0,Julien Ngoy,2016,1,1,Sub,3369,0.0,0.0,0,Stoke,0.0,0
+2017-01-21,0.0,1,0,0.09213949739933014,1,Manchester United,131969,0,Julien Ngoy,2016,1,16,Sub,3354,0.09213949739933014,0.0,0,Stoke,0.0,0
+2017-01-14,0.08561389893293381,0,0,0.08561389893293381,1,Stoke,130760,0,Julien Ngoy,2016,3,1,Sub,3342,0.0,0.0,1,Sunderland,0.08561389893293381,0
+2016-12-10,0.0,0,0,0.0,3,Stoke,129500,0,Julien Ngoy,2016,1,1,Sub,3118,0.0,0.0,0,Arsenal,0.0,0

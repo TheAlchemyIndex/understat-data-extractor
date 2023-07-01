@@ -1,12 +1,12 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-03-05,0,0,0,0.07795160263776779,0,2,Everton,0,580101,0,Jack Colback,2022,2,72,MC,18459,0,Nottingham Forest,0.07795160263776779,0
-2023-02-25,0,0,0,0.10676500201225281,0,4,Nottingham Forest,0,577909,0,Jack Colback,2022,0,90,MC,18451,0,West Ham,0.10676500201225281,0
-2023-02-18,0,0,0,0,0,1,Manchester City,0,576514,0,Jack Colback,2022,1,59,MC,18439,0,Nottingham Forest,0,0
-2023-02-05,0,0,0,0,0,1,Leeds,0,573840,0,Jack Colback,2022,0,41,Sub,18419,0,Nottingham Forest,0,0
-2023-01-14,0,1,0,0.023927800357341766,0.023927800357341766,2,Leicester,0,568788,0,Jack Colback,2022,0,43,Sub,18399,0,Nottingham Forest,0.023927800357341766,0
-2023-01-04,0,0,0,0,0,0,Nottingham Forest,0,567381,0,Jack Colback,2022,1,27,Sub,18391,0,Southampton,0,0
-2023-01-01,0,0,0,0,0,1,Chelsea,0,566789,0,Jack Colback,2022,1,11,Sub,18378,0,Nottingham Forest,0,0
-2022-11-12,0,0,0,0,0,1,Crystal Palace,0,564513,0,Jack Colback,2022,0,18,Sub,18358,0,Nottingham Forest,0,0
-2022-09-03,0,0,0,0.06671209633350372,0,2,Bournemouth,0,547138,0,Jack Colback,2022,3,9,Sub,18254,0,Nottingham Forest,0.06671209633350372,0
-2022-08-31,0,1,0,0.25832000374794006,0.25832000374794006,6,Nottingham Forest,0,546341,0,Jack Colback,2022,0,20,Sub,18246,0,Manchester City,0,0
-2022-08-06,0,0,0,0.04274750128388405,0,2,Nottingham Forest,0,539474,0,Jack Colback,2022,0,90,MC,18206,0,Newcastle United,0.04274750128388405,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-03-05,0.0,0,0,0.07795160263776779,2,Everton,580101,0,Jack Colback,2022,2,72,MC,18459,0.0,0.07795160263776779,0,Nottingham Forest,0.0,0
+2023-02-25,0.0,0,0,0.10676500201225281,4,Nottingham Forest,577909,0,Jack Colback,2022,0,90,MC,18451,0.0,0.10676500201225281,0,West Ham,0.0,0
+2023-02-18,0.0,0,0,0.0,1,Manchester City,576514,0,Jack Colback,2022,1,59,MC,18439,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-02-05,0.0,0,0,0.0,1,Leeds,573840,0,Jack Colback,2022,0,41,Sub,18419,0.0,0.0,0,Nottingham Forest,0.0,0
+2023-01-14,0.0,1,0,0.023927800357341766,2,Leicester,568788,0,Jack Colback,2022,0,43,Sub,18399,0.023927800357341766,0.023927800357341766,0,Nottingham Forest,0.0,0
+2023-01-04,0.0,0,0,0.0,0,Nottingham Forest,567381,0,Jack Colback,2022,1,27,Sub,18391,0.0,0.0,0,Southampton,0.0,0
+2023-01-01,0.0,0,0,0.0,1,Chelsea,566789,0,Jack Colback,2022,1,11,Sub,18378,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-11-12,0.0,0,0,0.0,1,Crystal Palace,564513,0,Jack Colback,2022,0,18,Sub,18358,0.0,0.0,0,Nottingham Forest,0.0,0
+2022-09-03,0.0,0,0,0.06671209633350372,2,Bournemouth,547138,0,Jack Colback,2022,3,9,Sub,18254,0.0,0.06671209633350372,0,Nottingham Forest,0.0,0
+2022-08-31,0.0,1,0,0.25832000374794006,6,Nottingham Forest,546341,0,Jack Colback,2022,0,20,Sub,18246,0.25832000374794006,0.0,0,Manchester City,0.0,0
+2022-08-06,0.0,0,0,0.04274750128388405,2,Nottingham Forest,539474,0,Jack Colback,2022,0,90,MC,18206,0.0,0.04274750128388405,0,Newcastle United,0.0,0

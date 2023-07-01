@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-05-15,0,2,0,0.334307998418808,0.334307998418808,1,West Ham,0,471072,1,Percy Tau,2020,1,16,Sub,14785,0,Brighton,0.010673100128769875,0
-2021-01-16,0,0,0,0,0,0,Brighton,0,442326,0,Percy Tau,2020,1,15,Sub,14618,0,Leeds,0,0
-2021-01-13,0,1,0,0.10821100324392319,0.03305720165371895,1,Brighton,0,441924,0,Percy Tau,2020,0,69,AMC,14614,0,Manchester City,0.07515370100736618,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-05-15,0.0,2,0,0.334307998418808,1,West Ham,471072,1,Percy Tau,2020,1,16,Sub,14785,0.334307998418808,0.010673100128769875,0,Brighton,0.0,0
+2021-01-16,0.0,0,0,0.0,0,Brighton,442326,0,Percy Tau,2020,1,15,Sub,14618,0.0,0.0,0,Leeds,0.0,0
+2021-01-13,0.0,1,0,0.10821100324392319,1,Brighton,441924,0,Percy Tau,2020,0,69,AMC,14614,0.03305720165371895,0.07515370100736618,0,Manchester City,0.0,0

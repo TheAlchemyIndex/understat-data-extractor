@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-18,0,1,0,0.26587700843811035,0.0845538005232811,1,Tottenham,0,134237,1,Filip Lesniak,2016,6,3,Sub,3475,0,Leicester,0.18132300674915314,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-18,0.0,1,0,0.26587700843811035,1,Tottenham,134237,1,Filip Lesniak,2016,6,3,Sub,3475,0.0845538005232811,0.18132300674915314,0,Leicester,0.0,0

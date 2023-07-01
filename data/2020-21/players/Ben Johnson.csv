@@ -1,15 +1,15 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-04-24,0,0,0,0,0,0,Chelsea,0,465576,0,Ben Johnson,2020,1,6,Sub,14763,0,West Ham,0,0
-2021-04-17,0.028392400592565536,3,0,0.3013310134410858,0.36711201071739197,3,West Ham,0.028392400592565536,462669,0,Ben Johnson,2020,2,90,ML,14752,2,Newcastle United,0,0
-2021-04-11,0,0,0,0,0,3,Leicester,0,461884,0,Ben Johnson,2020,2,6,Sub,14744,0,West Ham,0,0
-2021-04-05,0,0,0,0,0,2,West Ham,0,460696,0,Ben Johnson,2020,3,20,Sub,14734,0,Wolverhampton Wanderers,0,0
-2021-03-14,0,0,0,0,0,1,West Ham,0,457323,0,Ben Johnson,2020,0,64,ML,14711,0,Manchester United,0,0
-2021-03-08,0,0,0,0,0,2,Leeds,0,455617,0,Ben Johnson,2020,0,1,Sub,14704,0,West Ham,0,0
-2021-02-27,0,0,0,0.6001080274581909,0,2,West Ham,0,452028,0,Ben Johnson,2020,1,85,DML,14689,0,Manchester City,0.6001080274581909,0
-2021-02-21,0,0,0,0,0,2,Tottenham,0,451040,0,Ben Johnson,2020,1,5,Sub,14683,0,West Ham,0,0
-2021-02-15,0,1,0,0.018753599375486374,0.018753599375486374,3,Sheffield United,0,450025,0,Ben Johnson,2020,0,90,DML,14674,0,West Ham,0,0
-2021-02-03,0,0,0,0,0,1,West Ham,0,447240,0,Ben Johnson,2020,3,1,Sub,14645,0,Aston Villa,0,0
-2020-12-27,0.45601698756217957,0,1,0.505137026309967,0,2,Brighton,0.45601698756217957,438246,0,Ben Johnson,2020,2,90,ML,14583,1,West Ham,0.04911959916353226,1
-2020-12-11,0,0,0,0,0,1,West Ham,0,432693,0,Ben Johnson,2020,2,4,Sub,14548,0,Leeds,0,0
-2020-12-05,0,0,0,0.018660100176930428,0,1,Manchester United,0,431525,0,Ben Johnson,2020,3,4,Sub,14544,0,West Ham,0.018660100176930428,0
-2020-09-27,0,0,0,0,0,4,Wolverhampton Wanderers,0,418465,0,Ben Johnson,2020,0,40,Sub,14113,0,West Ham,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-04-24,0.0,0,0,0.0,0,Chelsea,465576,0,Ben Johnson,2020,1,6,Sub,14763,0.0,0.0,0,West Ham,0.0,0
+2021-04-17,0.028392400592565536,3,0,0.3013310134410858,3,West Ham,462669,0,Ben Johnson,2020,2,90,ML,14752,0.36711201071739197,0.0,2,Newcastle United,0.028392400592565536,0
+2021-04-11,0.0,0,0,0.0,3,Leicester,461884,0,Ben Johnson,2020,2,6,Sub,14744,0.0,0.0,0,West Ham,0.0,0
+2021-04-05,0.0,0,0,0.0,2,West Ham,460696,0,Ben Johnson,2020,3,20,Sub,14734,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2021-03-14,0.0,0,0,0.0,1,West Ham,457323,0,Ben Johnson,2020,0,64,ML,14711,0.0,0.0,0,Manchester United,0.0,0
+2021-03-08,0.0,0,0,0.0,2,Leeds,455617,0,Ben Johnson,2020,0,1,Sub,14704,0.0,0.0,0,West Ham,0.0,0
+2021-02-27,0.0,0,0,0.6001080274581909,2,West Ham,452028,0,Ben Johnson,2020,1,85,DML,14689,0.0,0.6001080274581909,0,Manchester City,0.0,0
+2021-02-21,0.0,0,0,0.0,2,Tottenham,451040,0,Ben Johnson,2020,1,5,Sub,14683,0.0,0.0,0,West Ham,0.0,0
+2021-02-15,0.0,1,0,0.018753599375486374,3,Sheffield United,450025,0,Ben Johnson,2020,0,90,DML,14674,0.018753599375486374,0.0,0,West Ham,0.0,0
+2021-02-03,0.0,0,0,0.0,1,West Ham,447240,0,Ben Johnson,2020,3,1,Sub,14645,0.0,0.0,0,Aston Villa,0.0,0
+2020-12-27,0.45601698756217957,0,1,0.505137026309967,2,Brighton,438246,0,Ben Johnson,2020,2,90,ML,14583,0.0,0.04911959916353226,1,West Ham,0.45601698756217957,1
+2020-12-11,0.0,0,0,0.0,1,West Ham,432693,0,Ben Johnson,2020,2,4,Sub,14548,0.0,0.0,0,Leeds,0.0,0
+2020-12-05,0.0,0,0,0.018660100176930428,1,Manchester United,431525,0,Ben Johnson,2020,3,4,Sub,14544,0.0,0.018660100176930428,0,West Ham,0.0,0
+2020-09-27,0.0,0,0,0.0,4,Wolverhampton Wanderers,418465,0,Ben Johnson,2020,0,40,Sub,14113,0.0,0.0,0,West Ham,0.0,0

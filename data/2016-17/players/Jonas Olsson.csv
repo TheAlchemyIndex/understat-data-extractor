@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-01-14,0,0,0,0,0,4,West Bromwich Albion,0,130973,0,Jonas Olsson,2016,0,90,DC,3340,0,Tottenham,0,0
-2016-12-17,0.05457660183310509,0,0,0.29736900329589844,0,0,Manchester United,0.05457660183310509,128867,0,Jonas Olsson,2016,2,90,DC,3140,1,West Bromwich Albion,0.29736900329589844,0
-2016-12-15,0,0,0,0.021793300285935402,0,3,Swansea,0,131125,0,Jonas Olsson,2016,1,90,DC,3131,0,West Bromwich Albion,0.021793300285935402,0
-2016-10-29,0,0,0,0,0,0,Manchester City,0,127876,0,Jonas Olsson,2016,4,53,DC,2680,0,West Bromwich Albion,0,0
-2016-10-22,0,0,0,0,0,2,West Bromwich Albion,0,127309,0,Jonas Olsson,2016,1,90,DC,548,0,Liverpool,0,0
-2016-08-20,0,0,0,0.3119710087776184,0,1,Everton,0,125635,0,Jonas Olsson,2016,2,90,DC,477,0,West Bromwich Albion,0.3119710087776184,0
-2016-08-13,0.14079000055789948,0,0,0.11258000135421753,0,0,West Bromwich Albion,0.14079000055789948,124993,0,Jonas Olsson,2016,1,90,DC,462,2,Crystal Palace,0.11258000135421753,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-01-14,0.0,0,0,0.0,4,West Bromwich Albion,130973,0,Jonas Olsson,2016,0,90,DC,3340,0.0,0.0,0,Tottenham,0.0,0
+2016-12-17,0.05457660183310509,0,0,0.29736900329589844,0,Manchester United,128867,0,Jonas Olsson,2016,2,90,DC,3140,0.0,0.29736900329589844,1,West Bromwich Albion,0.05457660183310509,0
+2016-12-15,0.0,0,0,0.021793300285935402,3,Swansea,131125,0,Jonas Olsson,2016,1,90,DC,3131,0.0,0.021793300285935402,0,West Bromwich Albion,0.0,0
+2016-10-29,0.0,0,0,0.0,0,Manchester City,127876,0,Jonas Olsson,2016,4,53,DC,2680,0.0,0.0,0,West Bromwich Albion,0.0,0
+2016-10-22,0.0,0,0,0.0,2,West Bromwich Albion,127309,0,Jonas Olsson,2016,1,90,DC,548,0.0,0.0,0,Liverpool,0.0,0
+2016-08-20,0.0,0,0,0.3119710087776184,1,Everton,125635,0,Jonas Olsson,2016,2,90,DC,477,0.0,0.3119710087776184,0,West Bromwich Albion,0.0,0
+2016-08-13,0.14079000055789948,0,0,0.11258000135421753,0,West Bromwich Albion,124993,0,Jonas Olsson,2016,1,90,DC,462,0.0,0.11258000135421753,2,Crystal Palace,0.14079000055789948,0

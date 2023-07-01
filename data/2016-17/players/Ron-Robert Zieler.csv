@@ -1,10 +1,10 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2016-12-13,0,0,0,0.08075190335512161,0,1,Leicester,0,130587,0,Ron-Robert Zieler,2016,0,90,GK,3125,0,Bournemouth,0.08075190335512161,0
-2016-12-10,0,0,0,0,0,4,Manchester City,0,129916,0,Ron-Robert Zieler,2016,2,90,GK,3120,0,Leicester,0,0
-2016-12-03,0,0,0,0,0,2,Leicester,0,128824,0,Ron-Robert Zieler,2016,1,90,GK,3108,0,Sunderland,0,0
-2016-11-26,0,0,0,0,0,2,Middlesbrough,0,128014,0,Ron-Robert Zieler,2016,2,90,GK,2711,0,Leicester,0,0
-2016-11-19,0,0,0,0,0,2,Leicester,0,128851,0,Ron-Robert Zieler,2016,1,90,GK,2701,0,Watford,0,0
-2016-11-06,0,0,0,0.4521850049495697,0,1,West Bromwich Albion,0,128536,0,Ron-Robert Zieler,2016,2,90,GK,2696,0,Leicester,0.4521850049495697,0
-2016-09-24,0,0,0,0,0,4,Leicester,0,126647,0,Ron-Robert Zieler,2016,1,90,GK,511,0,Manchester United,0,0
-2016-09-17,0,0,0,0.03835190087556839,0,3,Burnley,0,126355,0,Ron-Robert Zieler,2016,0,90,GK,503,0,Leicester,0.03835190087556839,0
-2016-08-27,0,0,0,0,0,2,Swansea,0,125812,0,Ron-Robert Zieler,2016,1,32,Sub,483,0,Leicester,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2016-12-13,0.0,0,0,0.08075190335512161,1,Leicester,130587,0,Ron-Robert Zieler,2016,0,90,GK,3125,0.0,0.08075190335512161,0,Bournemouth,0.0,0
+2016-12-10,0.0,0,0,0.0,4,Manchester City,129916,0,Ron-Robert Zieler,2016,2,90,GK,3120,0.0,0.0,0,Leicester,0.0,0
+2016-12-03,0.0,0,0,0.0,2,Leicester,128824,0,Ron-Robert Zieler,2016,1,90,GK,3108,0.0,0.0,0,Sunderland,0.0,0
+2016-11-26,0.0,0,0,0.0,2,Middlesbrough,128014,0,Ron-Robert Zieler,2016,2,90,GK,2711,0.0,0.0,0,Leicester,0.0,0
+2016-11-19,0.0,0,0,0.0,2,Leicester,128851,0,Ron-Robert Zieler,2016,1,90,GK,2701,0.0,0.0,0,Watford,0.0,0
+2016-11-06,0.0,0,0,0.4521850049495697,1,West Bromwich Albion,128536,0,Ron-Robert Zieler,2016,2,90,GK,2696,0.0,0.4521850049495697,0,Leicester,0.0,0
+2016-09-24,0.0,0,0,0.0,4,Leicester,126647,0,Ron-Robert Zieler,2016,1,90,GK,511,0.0,0.0,0,Manchester United,0.0,0
+2016-09-17,0.0,0,0,0.03835190087556839,3,Burnley,126355,0,Ron-Robert Zieler,2016,0,90,GK,503,0.0,0.03835190087556839,0,Leicester,0.0,0
+2016-08-27,0.0,0,0,0.0,2,Swansea,125812,0,Ron-Robert Zieler,2016,1,32,Sub,483,0.0,0.0,0,Leicester,0.0,0

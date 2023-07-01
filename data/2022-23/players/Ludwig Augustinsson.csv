@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-04,0,0,0,0,0,2,Mallorca,0,594241,0,Ludwig Augustinsson,2022,1,16,Sub,19289,0,Girona,0,0
-2023-03-19,0,0,0,0,0,1,Mallorca,0,583569,0,Ludwig Augustinsson,2022,0,32,Sub,19214,0,Real Betis,0,0
-2023-03-04,0,0,0,0.012094300240278244,0,0,Elche,0,579829,0,Ludwig Augustinsson,2022,1,6,Sub,19199,0,Mallorca,0.012094300240278244,0
-2023-02-11,0,1,0,0.012794500216841698,0.012794500216841698,2,Mallorca,0,575074,0,Ludwig Augustinsson,2022,0,73,DL,19170,0,Sevilla,0,0
-2023-01-04,0.07303450256586075,0,0,0.08046679943799973,0,1,Wolverhampton Wanderers,0.07303450256586075,567520,0,Ludwig Augustinsson,2022,1,21,Sub,18383,2,Aston Villa,0.026183299720287323,0
-2022-11-13,0,0,0,0,0,1,Aston Villa,0,565020,0,Ludwig Augustinsson,2022,2,5,Sub,18353,0,Brighton,0,0
-2022-10-02,0,0,0,0,0,0,Aston Villa,0,553311,0,Ludwig Augustinsson,2022,0,48,DL,18286,0,Leeds,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-04,0.0,0,0,0.0,2,Mallorca,594241,0,Ludwig Augustinsson,2022,1,16,Sub,19289,0.0,0.0,0,Girona,0.0,0
+2023-03-19,0.0,0,0,0.0,1,Mallorca,583569,0,Ludwig Augustinsson,2022,0,32,Sub,19214,0.0,0.0,0,Real Betis,0.0,0
+2023-03-04,0.0,0,0,0.012094300240278244,0,Elche,579829,0,Ludwig Augustinsson,2022,1,6,Sub,19199,0.0,0.012094300240278244,0,Mallorca,0.0,0
+2023-02-11,0.0,1,0,0.012794500216841698,2,Mallorca,575074,0,Ludwig Augustinsson,2022,0,73,DL,19170,0.012794500216841698,0.0,0,Sevilla,0.0,0
+2023-01-04,0.07303450256586075,0,0,0.08046679943799973,1,Wolverhampton Wanderers,567520,0,Ludwig Augustinsson,2022,1,21,Sub,18383,0.0,0.026183299720287323,2,Aston Villa,0.07303450256586075,0
+2022-11-13,0.0,0,0,0.0,1,Aston Villa,565020,0,Ludwig Augustinsson,2022,2,5,Sub,18353,0.0,0.0,0,Brighton,0.0,0
+2022-10-02,0.0,0,0,0.0,0,Aston Villa,553311,0,Ludwig Augustinsson,2022,0,48,DL,18286,0.0,0.0,0,Leeds,0.0,0

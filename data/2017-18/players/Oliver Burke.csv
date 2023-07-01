@@ -1,16 +1,16 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-04-21,0,0,0,0,0,2,Liverpool,0,234108,0,Oliver Burke,2017,2,13,Sub,7468,0,West Bromwich Albion,0,0
-2018-03-31,0,0,0,0,0,1,Burnley,0,226956,0,Oliver Burke,2017,2,15,Sub,7438,0,West Bromwich Albion,0,0
-2018-03-10,0,1,0,0.14800399541854858,0.12735700607299805,1,Leicester,0,222301,1,Oliver Burke,2017,4,84,FWR,7417,0,West Bromwich Albion,0.14800399541854858,0
-2018-03-03,0,0,0,0,0,1,West Bromwich Albion,0,221049,0,Oliver Burke,2017,0,1,Sub,7408,0,Watford,0,0
-2018-02-24,0.09824410080909729,0,0,0.09824410080909729,0,1,Huddersfield,0.09824410080909729,219190,0,Oliver Burke,2017,2,7,Sub,7394,1,West Bromwich Albion,0,0
-2018-02-12,0,0,0,0,0,3,West Bromwich Albion,0,215076,0,Oliver Burke,2017,0,40,Sub,7379,0,Chelsea,0,0
-2018-02-03,0,0,0,0,0,2,Southampton,0,215034,0,Oliver Burke,2017,3,26,Sub,7378,0,West Bromwich Albion,0,0
-2018-01-02,0.32557201385498047,0,0,0.32557201385498047,0,2,West Bromwich Albion,0.32557201385498047,206544,0,Oliver Burke,2017,1,17,Sub,7329,2,West Ham,0,0
-2017-12-23,0,0,0,0,0,3,West Bromwich Albion,0,205468,0,Oliver Burke,2017,1,7,Sub,7306,0,Stoke,0,0
-2017-12-17,0,1,0,0.08368930220603943,0.01261220034211874,1,Manchester United,0,202785,0,Oliver Burke,2017,2,65,FWR,7295,0,West Bromwich Albion,0.08368930220603943,0
-2017-12-09,0,0,0,0,0,1,West Bromwich Albion,0,198984,0,Oliver Burke,2017,0,10,Sub,7271,0,Swansea,0,0
-2017-12-02,0,0,0,0,0,0,Crystal Palace,0,178861,0,Oliver Burke,2017,0,1,Sub,7265,0,West Bromwich Albion,0,0
-2017-11-18,0,0,0,0,0,0,Chelsea,0,179026,0,Oliver Burke,2017,4,18,Sub,7229,0,West Bromwich Albion,0,0
-2017-09-09,0.031191900372505188,1,0,0.3334670066833496,0.30227500200271606,3,West Bromwich Albion,0.031191900372505188,176839,1,Oliver Burke,2017,1,31,Sub,7153,1,Brighton,0,0
-2017-08-27,0,1,0,0.027205299586057663,0.027205299586057663,1,Stoke,0,176661,0,Oliver Burke,2017,1,1,Sub,7146,0,West Bromwich Albion,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-04-21,0.0,0,0,0.0,2,Liverpool,234108,0,Oliver Burke,2017,2,13,Sub,7468,0.0,0.0,0,West Bromwich Albion,0.0,0
+2018-03-31,0.0,0,0,0.0,1,Burnley,226956,0,Oliver Burke,2017,2,15,Sub,7438,0.0,0.0,0,West Bromwich Albion,0.0,0
+2018-03-10,0.0,1,0,0.14800399541854858,1,Leicester,222301,1,Oliver Burke,2017,4,84,FWR,7417,0.12735700607299805,0.14800399541854858,0,West Bromwich Albion,0.0,0
+2018-03-03,0.0,0,0,0.0,1,West Bromwich Albion,221049,0,Oliver Burke,2017,0,1,Sub,7408,0.0,0.0,0,Watford,0.0,0
+2018-02-24,0.09824410080909729,0,0,0.09824410080909729,1,Huddersfield,219190,0,Oliver Burke,2017,2,7,Sub,7394,0.0,0.0,1,West Bromwich Albion,0.09824410080909729,0
+2018-02-12,0.0,0,0,0.0,3,West Bromwich Albion,215076,0,Oliver Burke,2017,0,40,Sub,7379,0.0,0.0,0,Chelsea,0.0,0
+2018-02-03,0.0,0,0,0.0,2,Southampton,215034,0,Oliver Burke,2017,3,26,Sub,7378,0.0,0.0,0,West Bromwich Albion,0.0,0
+2018-01-02,0.32557201385498047,0,0,0.32557201385498047,2,West Bromwich Albion,206544,0,Oliver Burke,2017,1,17,Sub,7329,0.0,0.0,2,West Ham,0.32557201385498047,0
+2017-12-23,0.0,0,0,0.0,3,West Bromwich Albion,205468,0,Oliver Burke,2017,1,7,Sub,7306,0.0,0.0,0,Stoke,0.0,0
+2017-12-17,0.0,1,0,0.08368930220603943,1,Manchester United,202785,0,Oliver Burke,2017,2,65,FWR,7295,0.01261220034211874,0.08368930220603943,0,West Bromwich Albion,0.0,0
+2017-12-09,0.0,0,0,0.0,1,West Bromwich Albion,198984,0,Oliver Burke,2017,0,10,Sub,7271,0.0,0.0,0,Swansea,0.0,0
+2017-12-02,0.0,0,0,0.0,0,Crystal Palace,178861,0,Oliver Burke,2017,0,1,Sub,7265,0.0,0.0,0,West Bromwich Albion,0.0,0
+2017-11-18,0.0,0,0,0.0,0,Chelsea,179026,0,Oliver Burke,2017,4,18,Sub,7229,0.0,0.0,0,West Bromwich Albion,0.0,0
+2017-09-09,0.031191900372505188,1,0,0.3334670066833496,3,West Bromwich Albion,176839,1,Oliver Burke,2017,1,31,Sub,7153,0.30227500200271606,0.0,1,Brighton,0.031191900372505188,0
+2017-08-27,0.0,1,0,0.027205299586057663,1,Stoke,176661,0,Oliver Burke,2017,1,1,Sub,7146,0.027205299586057663,0.0,0,West Bromwich Albion,0.0,0

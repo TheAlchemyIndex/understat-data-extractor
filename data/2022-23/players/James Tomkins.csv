@@ -1,7 +1,7 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-04-15,0,0,0,0,0,0,Crystal Palace,0,588450,0,James Tomkins,2022,2,1,Sub,18508,0,Southampton,0,0
-2023-03-19,0.07676780223846436,0,0,0,0,4,Crystal Palace,0.07676780223846436,583834,0,James Tomkins,2022,1,90,DC,18472,1,Arsenal,0,0
-2023-02-11,0.6128699779510498,0,1,0,0,1,Brighton,0.6128699779510498,574844,0,James Tomkins,2022,1,90,DC,18424,1,Crystal Palace,0,1
-2023-01-15,0.039419300854206085,0,0,0.039419300854206085,0,1,Crystal Palace,0.039419300854206085,569439,0,James Tomkins,2022,0,53,Sub,18395,1,Chelsea,0,0
-2022-12-26,0,0,0,0.06696999818086624,0,0,Fulham,0,565568,0,James Tomkins,2022,3,59,DC,18366,0,Crystal Palace,0.06696999818086624,0
-2022-10-01,0,0,0,0,0,1,Chelsea,0,552283,0,James Tomkins,2022,2,47,Sub,18284,0,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-04-15,0.0,0,0,0.0,0,Crystal Palace,588450,0,James Tomkins,2022,2,1,Sub,18508,0.0,0.0,0,Southampton,0.0,0
+2023-03-19,0.07676780223846436,0,0,0.0,4,Crystal Palace,583834,0,James Tomkins,2022,1,90,DC,18472,0.0,0.0,1,Arsenal,0.07676780223846436,0
+2023-02-11,0.6128699779510498,0,1,0.0,1,Brighton,574844,0,James Tomkins,2022,1,90,DC,18424,0.0,0.0,1,Crystal Palace,0.6128699779510498,1
+2023-01-15,0.039419300854206085,0,0,0.039419300854206085,1,Crystal Palace,569439,0,James Tomkins,2022,0,53,Sub,18395,0.0,0.0,1,Chelsea,0.039419300854206085,0
+2022-12-26,0.0,0,0,0.06696999818086624,0,Fulham,565568,0,James Tomkins,2022,3,59,DC,18366,0.0,0.06696999818086624,0,Crystal Palace,0.0,0
+2022-10-01,0.0,0,0,0.0,1,Chelsea,552283,0,James Tomkins,2022,2,47,Sub,18284,0.0,0.0,0,Crystal Palace,0.0,0

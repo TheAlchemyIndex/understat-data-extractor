@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2023-05-28,0.06400494277477264,0,0,0.06400494277477264,0,1,Newcastle United,0.06400494277477264,600936,0,Lewis Miley,2022,1,10,Sub,18575,1,Chelsea,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-05-28,0.06400494277477264,0,0,0.06400494277477264,1,Newcastle United,600936,0,Lewis Miley,2022,1,10,Sub,18575,0.0,0.0,1,Chelsea,0.06400494277477264,0

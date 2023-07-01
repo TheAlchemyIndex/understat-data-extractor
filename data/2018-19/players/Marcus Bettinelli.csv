@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-10-20,0,0,0,0.019440000876784325,0,4,Fulham,0,276409,0,Marcus Bettinelli,2018,2,90,GK,9282,0,Cardiff,0.019440000876784325,0
-2018-10-07,0,0,0,0.01751979999244213,0,1,Arsenal,0,276176,0,Marcus Bettinelli,2018,5,90,GK,9274,0,Fulham,0.01751979999244213,0
-2018-09-29,0,0,0,0,0,3,Fulham,0,260441,0,Marcus Bettinelli,2018,0,90,GK,9262,0,Everton,0,0
-2018-09-22,0,0,0,0.04747710004448891,0,1,Watford,0,260180,0,Marcus Bettinelli,2018,1,90,GK,9247,0,Fulham,0.04747710004448891,0
-2018-09-15,0,0,0,0,0,3,Fulham,0,259892,0,Marcus Bettinelli,2018,0,90,GK,9239,0,Manchester City,0,0
-2018-09-01,0,0,0,0.08028779923915863,0,2,Fulham,0,259503,0,Marcus Bettinelli,2018,2,90,GK,9233,0,Brighton,0.08028779923915863,0
-2018-08-26,0,0,0,0.2242320030927658,0,4,Burnley,0,259268,0,Marcus Bettinelli,2018,2,90,GK,9220,0,Fulham,0.2242320030927658,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-10-20,0.0,0,0,0.019440000876784325,4,Fulham,276409,0,Marcus Bettinelli,2018,2,90,GK,9282,0.0,0.019440000876784325,0,Cardiff,0.0,0
+2018-10-07,0.0,0,0,0.01751979999244213,1,Arsenal,276176,0,Marcus Bettinelli,2018,5,90,GK,9274,0.0,0.01751979999244213,0,Fulham,0.0,0
+2018-09-29,0.0,0,0,0.0,3,Fulham,260441,0,Marcus Bettinelli,2018,0,90,GK,9262,0.0,0.0,0,Everton,0.0,0
+2018-09-22,0.0,0,0,0.04747710004448891,1,Watford,260180,0,Marcus Bettinelli,2018,1,90,GK,9247,0.0,0.04747710004448891,0,Fulham,0.0,0
+2018-09-15,0.0,0,0,0.0,3,Fulham,259892,0,Marcus Bettinelli,2018,0,90,GK,9239,0.0,0.0,0,Manchester City,0.0,0
+2018-09-01,0.0,0,0,0.08028779923915863,2,Fulham,259503,0,Marcus Bettinelli,2018,2,90,GK,9233,0.0,0.08028779923915863,0,Brighton,0.0,0
+2018-08-26,0.0,0,0,0.2242320030927658,4,Burnley,259268,0,Marcus Bettinelli,2018,2,90,GK,9220,0.0,0.2242320030927658,0,Fulham,0.0,0

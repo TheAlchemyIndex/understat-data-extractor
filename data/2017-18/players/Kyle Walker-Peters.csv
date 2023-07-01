@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-13,0,2,0,1.3984299898147583,1.2877399921417236,5,Leicester,0,240091,2,Kyle Walker-Peters,2017,4,90,DR,7490,0,Tottenham,0.1106949970126152,0
-2017-09-30,0,0,0,0,0,0,Tottenham,0,178073,0,Kyle Walker-Peters,2017,4,7,Sub,7179,0,Huddersfield,0,0
-2017-08-13,0,1,0,0.14631299674510956,0.10608399659395218,0,Tottenham,0,175971,0,Kyle Walker-Peters,2017,2,90,DR,7127,0,Newcastle United,0.14631299674510956,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-13,0.0,2,0,1.3984299898147583,5,Leicester,240091,2,Kyle Walker-Peters,2017,4,90,DR,7490,1.2877399921417236,0.1106949970126152,0,Tottenham,0.0,0
+2017-09-30,0.0,0,0,0.0,0,Tottenham,178073,0,Kyle Walker-Peters,2017,4,7,Sub,7179,0.0,0.0,0,Huddersfield,0.0,0
+2017-08-13,0.0,1,0,0.14631299674510956,0,Tottenham,175971,0,Kyle Walker-Peters,2017,2,90,DR,7127,0.10608399659395218,0.14631299674510956,0,Newcastle United,0.0,0

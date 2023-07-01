@@ -1,11 +1,11 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-11-03,0,0,0,0,0,2,Tottenham,0,276996,0,Mousa Dembélé,2018,3,6,MC,9304,0,Wolverhampton Wanderers,0,0
-2018-10-29,0,0,0,0,0,0,Manchester City,0,276787,0,Mousa Dembélé,2018,1,77,DMC,9296,0,Tottenham,0,0
-2018-10-20,0,0,0,0.14455200731754303,0,0,Tottenham,0,276338,0,Mousa Dembélé,2018,1,11,Sub,9279,0,West Ham,0.14455200731754303,0
-2018-09-29,0,0,0,0,0,0,Tottenham,0,260475,0,Mousa Dembélé,2018,2,51,MC,9261,0,Huddersfield,0,0
-2018-09-22,0,0,0,0.24836300313472748,0,1,Tottenham,0,260090,0,Mousa Dembélé,2018,2,90,DMC,9254,0,Brighton,0.24836300313472748,0
-2018-09-15,0,0,0,0.0709569975733757,0,1,Liverpool,0,259965,0,Mousa Dembélé,2018,2,61,DMC,9237,0,Tottenham,0.0709569975733757,0
-2018-09-02,0,0,0,0.06373380124568939,0,2,Tottenham,0,259730,0,Mousa Dembélé,2018,1,87,DMC,9236,0,Watford,0.06373380124568939,0
-2018-08-27,0,0,0,0.20868800580501556,0,0,Tottenham,0,259371,0,Mousa Dembélé,2018,3,90,DMC,9226,0,Manchester United,0.20868800580501556,0
-2018-08-18,0,0,0,1.2249399423599243,0,3,Fulham,0,259169,0,Mousa Dembélé,2018,1,25,Sub,9209,0,Tottenham,1.2249399423599243,0
-2018-08-11,0.030214399099349976,0,0,0.030214399099349976,0,1,Tottenham,0.030214399099349976,258846,0,Mousa Dembélé,2018,2,20,Sub,9198,1,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-11-03,0.0,0,0,0.0,2,Tottenham,276996,0,Mousa Dembélé,2018,3,6,MC,9304,0.0,0.0,0,Wolverhampton Wanderers,0.0,0
+2018-10-29,0.0,0,0,0.0,0,Manchester City,276787,0,Mousa Dembélé,2018,1,77,DMC,9296,0.0,0.0,0,Tottenham,0.0,0
+2018-10-20,0.0,0,0,0.14455200731754303,0,Tottenham,276338,0,Mousa Dembélé,2018,1,11,Sub,9279,0.0,0.14455200731754303,0,West Ham,0.0,0
+2018-09-29,0.0,0,0,0.0,0,Tottenham,260475,0,Mousa Dembélé,2018,2,51,MC,9261,0.0,0.0,0,Huddersfield,0.0,0
+2018-09-22,0.0,0,0,0.24836300313472748,1,Tottenham,260090,0,Mousa Dembélé,2018,2,90,DMC,9254,0.0,0.24836300313472748,0,Brighton,0.0,0
+2018-09-15,0.0,0,0,0.0709569975733757,1,Liverpool,259965,0,Mousa Dembélé,2018,2,61,DMC,9237,0.0,0.0709569975733757,0,Tottenham,0.0,0
+2018-09-02,0.0,0,0,0.06373380124568939,2,Tottenham,259730,0,Mousa Dembélé,2018,1,87,DMC,9236,0.0,0.06373380124568939,0,Watford,0.0,0
+2018-08-27,0.0,0,0,0.20868800580501556,0,Tottenham,259371,0,Mousa Dembélé,2018,3,90,DMC,9226,0.0,0.20868800580501556,0,Manchester United,0.0,0
+2018-08-18,0.0,0,0,1.2249399423599243,3,Fulham,259169,0,Mousa Dembélé,2018,1,25,Sub,9209,0.0,1.2249399423599243,0,Tottenham,0.0,0
+2018-08-11,0.030214399099349976,0,0,0.030214399099349976,1,Tottenham,258846,0,Mousa Dembélé,2018,2,20,Sub,9198,0.0,0.0,1,Newcastle United,0.030214399099349976,0

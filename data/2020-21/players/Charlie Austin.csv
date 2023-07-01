@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2021-01-02,0.3591209948062897,0,0,0.3591209948062897,0,0,Arsenal,0.3591209948062897,439291,0,Charlie Austin,2020,4,42,Sub,14600,2,West Bromwich Albion,0,0
-2020-12-27,0,0,0,0,0,1,West Bromwich Albion,0,438293,0,Charlie Austin,2020,1,11,Sub,14580,0,Liverpool,0,0
-2020-12-20,0,0,0,0,0,0,Aston Villa,0,436976,0,Charlie Austin,2020,3,11,Sub,14574,0,West Bromwich Albion,0,0
-2020-12-15,0,0,0,0,0,1,West Bromwich Albion,0,434465,0,Charlie Austin,2020,1,19,Sub,14564,0,Manchester City,0,0
-2020-12-12,0.05384200066328049,0,0,0.05384200066328049,0,2,West Bromwich Albion,0.05384200066328049,433048,0,Charlie Austin,2020,1,43,Sub,14550,1,Newcastle United,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2021-01-02,0.3591209948062897,0,0,0.3591209948062897,0,Arsenal,439291,0,Charlie Austin,2020,4,42,Sub,14600,0.0,0.0,2,West Bromwich Albion,0.3591209948062897,0
+2020-12-27,0.0,0,0,0.0,1,West Bromwich Albion,438293,0,Charlie Austin,2020,1,11,Sub,14580,0.0,0.0,0,Liverpool,0.0,0
+2020-12-20,0.0,0,0,0.0,0,Aston Villa,436976,0,Charlie Austin,2020,3,11,Sub,14574,0.0,0.0,0,West Bromwich Albion,0.0,0
+2020-12-15,0.0,0,0,0.0,1,West Bromwich Albion,434465,0,Charlie Austin,2020,1,19,Sub,14564,0.0,0.0,0,Manchester City,0.0,0
+2020-12-12,0.05384200066328049,0,0,0.05384200066328049,2,West Bromwich Albion,433048,0,Charlie Austin,2020,1,43,Sub,14550,0.0,0.0,1,Newcastle United,0.05384200066328049,0

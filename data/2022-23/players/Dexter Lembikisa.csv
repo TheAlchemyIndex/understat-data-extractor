@@ -1,2 +1,2 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-11-12,0,0,0,0.014924800023436546,0,0,Arsenal,0,564792,0,Dexter Lembikisa,2022,2,20,Sub,18361,0,Wolverhampton Wanderers,0.014924800023436546,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-11-12,0.0,0,0,0.014924800023436546,0,Arsenal,564792,0,Dexter Lembikisa,2022,2,20,Sub,18361,0.0,0.014924800023436546,0,Wolverhampton Wanderers,0.0,0

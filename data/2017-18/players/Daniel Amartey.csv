@@ -1,9 +1,9 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-03-03,0,0,0,0.028435399755835533,0,1,Bournemouth,0,220913,0,Daniel Amartey,2017,1,19,DR,7402,0,Leicester,0.028435399755835533,0
-2018-01-31,0,0,0,0,0,2,Leicester,0,215447,0,Daniel Amartey,2017,1,76,DR,7365,0,Everton,0,0
-2018-01-20,0,0,0,0.11107199639081955,0,2,Watford,0,209142,0,Daniel Amartey,2017,0,90,DR,7353,0,Leicester,0.11107199639081955,0
-2018-01-13,0,0,0,0,0,0,Leicester,0,207643,0,Daniel Amartey,2017,0,90,DR,7340,0,Chelsea,0,0
-2018-01-01,0,0,0,0.08282160013914108,0,3,Huddersfield,0,206436,0,Daniel Amartey,2017,0,90,DR,7334,0,Leicester,0.08282160013914108,0
-2017-12-30,0,0,0,0.04837359860539436,0,2,Leicester,0,206120,0,Daniel Amartey,2017,1,90,DR,7323,0,Liverpool,0.04837359860539436,0
-2017-12-23,0,0,0,0,0,2,Manchester United,0,203040,0,Daniel Amartey,2017,2,16,Sub,7302,0,Leicester,0,0
-2017-08-11,0,0,0,0,0,4,Leicester,0,175816,0,Daniel Amartey,2017,3,16,Sub,7119,0,Arsenal,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-03-03,0.0,0,0,0.028435399755835533,1,Bournemouth,220913,0,Daniel Amartey,2017,1,19,DR,7402,0.0,0.028435399755835533,0,Leicester,0.0,0
+2018-01-31,0.0,0,0,0.0,2,Leicester,215447,0,Daniel Amartey,2017,1,76,DR,7365,0.0,0.0,0,Everton,0.0,0
+2018-01-20,0.0,0,0,0.11107199639081955,2,Watford,209142,0,Daniel Amartey,2017,0,90,DR,7353,0.0,0.11107199639081955,0,Leicester,0.0,0
+2018-01-13,0.0,0,0,0.0,0,Leicester,207643,0,Daniel Amartey,2017,0,90,DR,7340,0.0,0.0,0,Chelsea,0.0,0
+2018-01-01,0.0,0,0,0.08282160013914108,3,Huddersfield,206436,0,Daniel Amartey,2017,0,90,DR,7334,0.0,0.08282160013914108,0,Leicester,0.0,0
+2017-12-30,0.0,0,0,0.04837359860539436,2,Leicester,206120,0,Daniel Amartey,2017,1,90,DR,7323,0.0,0.04837359860539436,0,Liverpool,0.0,0
+2017-12-23,0.0,0,0,0.0,2,Manchester United,203040,0,Daniel Amartey,2017,2,16,Sub,7302,0.0,0.0,0,Leicester,0.0,0
+2017-08-11,0.0,0,0,0.0,4,Leicester,175816,0,Daniel Amartey,2017,3,16,Sub,7119,0.0,0.0,0,Arsenal,0.0,0

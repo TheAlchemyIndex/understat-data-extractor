@@ -1,8 +1,8 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2020-11-08,0,0,0,0,0,1,Liverpool,0,427247,0,Joseph Gomez,2020,1,90,DC,14511,0,Manchester City,0,0
-2020-10-31,0,0,0,0.4625290036201477,0,2,West Ham,0,424644,0,Joseph Gomez,2020,1,90,DC,14499,0,Liverpool,0.4625290036201477,0
-2020-10-24,0,0,0,0.6176789999008179,0,2,Sheffield United,0,423214,0,Joseph Gomez,2020,1,90,DC,14490,0,Liverpool,0.6176789999008179,0
-2020-10-17,0,0,0,0.3684520125389099,0,2,Liverpool,0,420877,0,Joseph Gomez,2020,2,80,Sub,14477,0,Everton,0.3684520125389099,0
-2020-10-04,0,0,0,0,0,7,Liverpool,0,420651,0,Joseph Gomez,2020,2,64,DC,14466,0,Aston Villa,0,0
-2020-09-28,0,1,0,0.41131898760795593,0.06542930006980896,3,Arsenal,0,418695,0,Joseph Gomez,2020,1,90,DC,14115,0,Liverpool,0.34588998556137085,0
-2020-09-12,0,0,0,0.22543999552726746,0,4,Leeds,0,414676,0,Joseph Gomez,2020,3,90,DC,14090,0,Liverpool,0.22543999552726746,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2020-11-08,0.0,0,0,0.0,1,Liverpool,427247,0,Joseph Gomez,2020,1,90,DC,14511,0.0,0.0,0,Manchester City,0.0,0
+2020-10-31,0.0,0,0,0.4625290036201477,2,West Ham,424644,0,Joseph Gomez,2020,1,90,DC,14499,0.0,0.4625290036201477,0,Liverpool,0.0,0
+2020-10-24,0.0,0,0,0.6176789999008179,2,Sheffield United,423214,0,Joseph Gomez,2020,1,90,DC,14490,0.0,0.6176789999008179,0,Liverpool,0.0,0
+2020-10-17,0.0,0,0,0.3684520125389099,2,Liverpool,420877,0,Joseph Gomez,2020,2,80,Sub,14477,0.0,0.3684520125389099,0,Everton,0.0,0
+2020-10-04,0.0,0,0,0.0,7,Liverpool,420651,0,Joseph Gomez,2020,2,64,DC,14466,0.0,0.0,0,Aston Villa,0.0,0
+2020-09-28,0.0,1,0,0.41131898760795593,3,Arsenal,418695,0,Joseph Gomez,2020,1,90,DC,14115,0.06542930006980896,0.34588998556137085,0,Liverpool,0.0,0
+2020-09-12,0.0,0,0,0.22543999552726746,4,Leeds,414676,0,Joseph Gomez,2020,3,90,DC,14090,0.0,0.22543999552726746,0,Liverpool,0.0,0

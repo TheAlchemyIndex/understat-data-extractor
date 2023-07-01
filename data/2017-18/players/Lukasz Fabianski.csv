@@ -1,39 +1,39 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-13,0,0,0,0,0,1,Stoke,0,240063,0,Lukasz Fabianski,2017,2,90,GK,7491,0,Swansea,0,0
-2018-05-08,0,0,0,0,0,0,Southampton,0,238621,0,Lukasz Fabianski,2017,1,90,GK,7426,0,Swansea,0,0
-2018-05-05,0,0,0,0,0,1,Swansea,0,237609,0,Lukasz Fabianski,2017,0,90,GK,7488,0,Bournemouth,0,0
-2018-04-28,0,0,0,0.018554899841547012,0,0,Chelsea,0,235906,0,Lukasz Fabianski,2017,1,90,GK,7476,0,Swansea,0.018554899841547012,0
-2018-04-22,0,0,0,0,0,5,Swansea,0,235055,0,Lukasz Fabianski,2017,0,90,GK,7465,0,Manchester City,0,0
-2018-04-14,0,0,0,0,0,1,Everton,0,232093,0,Lukasz Fabianski,2017,1,90,GK,7456,0,Swansea,0,0
-2018-04-07,0,0,0,0,0,1,Swansea,0,230497,0,Lukasz Fabianski,2017,1,90,GK,7448,0,West Bromwich Albion,0,0
-2018-03-31,0,0,0,0,0,2,Swansea,0,226875,0,Lukasz Fabianski,2017,0,90,GK,7435,0,Manchester United,0,0
-2018-03-10,0,0,0,0,0,0,Swansea,0,222387,0,Lukasz Fabianski,2017,0,90,GK,7413,0,Huddersfield,0,0
-2018-03-03,0,0,0,0,0,4,West Ham,0,220967,0,Lukasz Fabianski,2017,1,90,GK,7406,0,Swansea,0,0
-2018-02-24,0,1,0,0.018446799367666245,0.018446799367666245,4,Swansea,0,219220,0,Lukasz Fabianski,2017,1,90,GK,7391,0,Brighton,0,0
-2018-02-10,0,0,0,0.12161300331354141,0,1,Burnley,0,215242,0,Lukasz Fabianski,2017,0,90,GK,7386,0,Swansea,0.12161300331354141,0
-2018-02-03,0,0,0,0,0,1,Swansea,0,214924,0,Lukasz Fabianski,2017,1,90,GK,7374,0,Leicester,0,0
-2018-01-30,0,0,0,0,0,3,Arsenal,0,215353,0,Lukasz Fabianski,2017,1,90,GK,7361,0,Swansea,0,0
-2018-01-22,0,0,0,0.06307090073823929,0,1,Liverpool,0,210191,0,Lukasz Fabianski,2017,0,90,GK,7357,0,Swansea,0.06307090073823929,0
-2018-01-13,0,0,0,0.04487669840455055,0,1,Swansea,0,207719,0,Lukasz Fabianski,2017,1,90,GK,7345,0,Newcastle United,0.04487669840455055,0
-2018-01-02,0,0,0,0.07601170241832733,0,0,Tottenham,0,206573,0,Lukasz Fabianski,2017,2,90,GK,7338,0,Swansea,0.07601170241832733,0
-2017-12-30,0,0,0,0,0,1,Swansea,0,206173,0,Lukasz Fabianski,2017,2,90,GK,7327,0,Watford,0,0
-2017-12-26,0,0,0,0.08939170092344284,0,5,Swansea,0,205759,0,Lukasz Fabianski,2017,0,90,GK,7313,0,Liverpool,0.08939170092344284,0
-2017-12-23,0,0,0,0,0,1,Crystal Palace,0,202559,0,Lukasz Fabianski,2017,1,90,GK,7299,0,Swansea,0,0
-2017-12-18,0,0,0,0.017737900838255882,0,3,Swansea,0,203239,0,Lukasz Fabianski,2017,1,90,GK,7293,0,Everton,0.017737900838255882,0
-2017-12-13,0,0,0,0,0,0,Manchester City,0,205387,0,Lukasz Fabianski,2017,4,90,GK,7281,0,Swansea,0,0
-2017-12-09,0,0,0,0,0,1,West Bromwich Albion,0,198958,0,Lukasz Fabianski,2017,0,90,GK,7271,0,Swansea,0,0
-2017-12-02,0,0,0,0.015050400048494339,0,2,Swansea,0,178696,0,Lukasz Fabianski,2017,1,90,GK,7263,0,Stoke,0.015050400048494339,0
-2017-11-29,0,0,0,0,0,1,Swansea,0,179135,0,Lukasz Fabianski,2017,0,90,GK,7255,0,Chelsea,0,0
-2017-11-25,0,0,0,0,0,0,Bournemouth,0,179671,0,Lukasz Fabianski,2017,0,90,GK,7240,0,Swansea,0,0
-2017-11-18,0,0,0,0.008526080287992954,0,2,Swansea,0,178559,0,Lukasz Fabianski,2017,0,90,GK,7233,0,Burnley,0.008526080287992954,0
-2017-11-04,0,0,0,0,0,0,Brighton,0,179311,0,Lukasz Fabianski,2017,1,90,GK,7225,0,Swansea,0,0
-2017-10-28,0,0,0,0,0,2,Swansea,0,177486,0,Lukasz Fabianski,2017,1,90,GK,7209,0,Arsenal,0,0
-2017-10-21,0,0,0,0.07078409940004349,0,1,Leicester,0,177391,0,Lukasz Fabianski,2017,2,90,GK,7206,0,Swansea,0.07078409940004349,0
-2017-10-14,0,0,0,0,0,2,Huddersfield,0,178493,0,Lukasz Fabianski,2017,0,90,GK,7196,0,Swansea,0,0
-2017-09-30,0,0,0,0.01966479979455471,0,1,Swansea,0,178284,0,Lukasz Fabianski,2017,0,90,GK,7183,0,West Ham,0.01966479979455471,0
-2017-09-23,0,0,0,0,0,1,Watford,0,177718,0,Lukasz Fabianski,2017,2,90,GK,7171,0,Swansea,0,0
-2017-09-16,0,0,0,0,0,0,Swansea,0,176578,0,Lukasz Fabianski,2017,0,90,GK,7166,0,Tottenham,0,0
-2017-09-10,0,0,0,0,0,0,Newcastle United,0,177282,0,Lukasz Fabianski,2017,1,90,GK,7157,0,Swansea,0,0
-2017-08-26,0,0,0,0,0,0,Swansea,0,177074,0,Lukasz Fabianski,2017,2,90,GK,7141,0,Crystal Palace,0,0
-2017-08-19,0,0,0,0,0,0,Manchester United,0,176675,0,Lukasz Fabianski,2017,4,90,GK,7129,0,Swansea,0,0
-2017-08-12,0,0,0,0,0,0,Swansea,0,175998,0,Lukasz Fabianski,2017,0,90,GK,7122,0,Southampton,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-13,0.0,0,0,0.0,1,Stoke,240063,0,Lukasz Fabianski,2017,2,90,GK,7491,0.0,0.0,0,Swansea,0.0,0
+2018-05-08,0.0,0,0,0.0,0,Southampton,238621,0,Lukasz Fabianski,2017,1,90,GK,7426,0.0,0.0,0,Swansea,0.0,0
+2018-05-05,0.0,0,0,0.0,1,Swansea,237609,0,Lukasz Fabianski,2017,0,90,GK,7488,0.0,0.0,0,Bournemouth,0.0,0
+2018-04-28,0.0,0,0,0.018554899841547012,0,Chelsea,235906,0,Lukasz Fabianski,2017,1,90,GK,7476,0.0,0.018554899841547012,0,Swansea,0.0,0
+2018-04-22,0.0,0,0,0.0,5,Swansea,235055,0,Lukasz Fabianski,2017,0,90,GK,7465,0.0,0.0,0,Manchester City,0.0,0
+2018-04-14,0.0,0,0,0.0,1,Everton,232093,0,Lukasz Fabianski,2017,1,90,GK,7456,0.0,0.0,0,Swansea,0.0,0
+2018-04-07,0.0,0,0,0.0,1,Swansea,230497,0,Lukasz Fabianski,2017,1,90,GK,7448,0.0,0.0,0,West Bromwich Albion,0.0,0
+2018-03-31,0.0,0,0,0.0,2,Swansea,226875,0,Lukasz Fabianski,2017,0,90,GK,7435,0.0,0.0,0,Manchester United,0.0,0
+2018-03-10,0.0,0,0,0.0,0,Swansea,222387,0,Lukasz Fabianski,2017,0,90,GK,7413,0.0,0.0,0,Huddersfield,0.0,0
+2018-03-03,0.0,0,0,0.0,4,West Ham,220967,0,Lukasz Fabianski,2017,1,90,GK,7406,0.0,0.0,0,Swansea,0.0,0
+2018-02-24,0.0,1,0,0.018446799367666245,4,Swansea,219220,0,Lukasz Fabianski,2017,1,90,GK,7391,0.018446799367666245,0.0,0,Brighton,0.0,0
+2018-02-10,0.0,0,0,0.12161300331354141,1,Burnley,215242,0,Lukasz Fabianski,2017,0,90,GK,7386,0.0,0.12161300331354141,0,Swansea,0.0,0
+2018-02-03,0.0,0,0,0.0,1,Swansea,214924,0,Lukasz Fabianski,2017,1,90,GK,7374,0.0,0.0,0,Leicester,0.0,0
+2018-01-30,0.0,0,0,0.0,3,Arsenal,215353,0,Lukasz Fabianski,2017,1,90,GK,7361,0.0,0.0,0,Swansea,0.0,0
+2018-01-22,0.0,0,0,0.06307090073823929,1,Liverpool,210191,0,Lukasz Fabianski,2017,0,90,GK,7357,0.0,0.06307090073823929,0,Swansea,0.0,0
+2018-01-13,0.0,0,0,0.04487669840455055,1,Swansea,207719,0,Lukasz Fabianski,2017,1,90,GK,7345,0.0,0.04487669840455055,0,Newcastle United,0.0,0
+2018-01-02,0.0,0,0,0.07601170241832733,0,Tottenham,206573,0,Lukasz Fabianski,2017,2,90,GK,7338,0.0,0.07601170241832733,0,Swansea,0.0,0
+2017-12-30,0.0,0,0,0.0,1,Swansea,206173,0,Lukasz Fabianski,2017,2,90,GK,7327,0.0,0.0,0,Watford,0.0,0
+2017-12-26,0.0,0,0,0.08939170092344284,5,Swansea,205759,0,Lukasz Fabianski,2017,0,90,GK,7313,0.0,0.08939170092344284,0,Liverpool,0.0,0
+2017-12-23,0.0,0,0,0.0,1,Crystal Palace,202559,0,Lukasz Fabianski,2017,1,90,GK,7299,0.0,0.0,0,Swansea,0.0,0
+2017-12-18,0.0,0,0,0.017737900838255882,3,Swansea,203239,0,Lukasz Fabianski,2017,1,90,GK,7293,0.0,0.017737900838255882,0,Everton,0.0,0
+2017-12-13,0.0,0,0,0.0,0,Manchester City,205387,0,Lukasz Fabianski,2017,4,90,GK,7281,0.0,0.0,0,Swansea,0.0,0
+2017-12-09,0.0,0,0,0.0,1,West Bromwich Albion,198958,0,Lukasz Fabianski,2017,0,90,GK,7271,0.0,0.0,0,Swansea,0.0,0
+2017-12-02,0.0,0,0,0.015050400048494339,2,Swansea,178696,0,Lukasz Fabianski,2017,1,90,GK,7263,0.0,0.015050400048494339,0,Stoke,0.0,0
+2017-11-29,0.0,0,0,0.0,1,Swansea,179135,0,Lukasz Fabianski,2017,0,90,GK,7255,0.0,0.0,0,Chelsea,0.0,0
+2017-11-25,0.0,0,0,0.0,0,Bournemouth,179671,0,Lukasz Fabianski,2017,0,90,GK,7240,0.0,0.0,0,Swansea,0.0,0
+2017-11-18,0.0,0,0,0.008526080287992954,2,Swansea,178559,0,Lukasz Fabianski,2017,0,90,GK,7233,0.0,0.008526080287992954,0,Burnley,0.0,0
+2017-11-04,0.0,0,0,0.0,0,Brighton,179311,0,Lukasz Fabianski,2017,1,90,GK,7225,0.0,0.0,0,Swansea,0.0,0
+2017-10-28,0.0,0,0,0.0,2,Swansea,177486,0,Lukasz Fabianski,2017,1,90,GK,7209,0.0,0.0,0,Arsenal,0.0,0
+2017-10-21,0.0,0,0,0.07078409940004349,1,Leicester,177391,0,Lukasz Fabianski,2017,2,90,GK,7206,0.0,0.07078409940004349,0,Swansea,0.0,0
+2017-10-14,0.0,0,0,0.0,2,Huddersfield,178493,0,Lukasz Fabianski,2017,0,90,GK,7196,0.0,0.0,0,Swansea,0.0,0
+2017-09-30,0.0,0,0,0.01966479979455471,1,Swansea,178284,0,Lukasz Fabianski,2017,0,90,GK,7183,0.0,0.01966479979455471,0,West Ham,0.0,0
+2017-09-23,0.0,0,0,0.0,1,Watford,177718,0,Lukasz Fabianski,2017,2,90,GK,7171,0.0,0.0,0,Swansea,0.0,0
+2017-09-16,0.0,0,0,0.0,0,Swansea,176578,0,Lukasz Fabianski,2017,0,90,GK,7166,0.0,0.0,0,Tottenham,0.0,0
+2017-09-10,0.0,0,0,0.0,0,Newcastle United,177282,0,Lukasz Fabianski,2017,1,90,GK,7157,0.0,0.0,0,Swansea,0.0,0
+2017-08-26,0.0,0,0,0.0,0,Swansea,177074,0,Lukasz Fabianski,2017,2,90,GK,7141,0.0,0.0,0,Crystal Palace,0.0,0
+2017-08-19,0.0,0,0,0.0,0,Manchester United,176675,0,Lukasz Fabianski,2017,4,90,GK,7129,0.0,0.0,0,Swansea,0.0,0
+2017-08-12,0.0,0,0,0.0,0,Swansea,175998,0,Lukasz Fabianski,2017,0,90,GK,7122,0.0,0.0,0,Southampton,0.0,0

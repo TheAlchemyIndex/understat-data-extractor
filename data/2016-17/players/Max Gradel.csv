@@ -1,12 +1,12 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-06,0.14297600090503693,1,0,0.2810080051422119,0.138032004237175,2,Stoke,0.14297600090503693,134744,0,Max Gradel,2016,2,15,Sub,3491,2,Bournemouth,0,0
-2017-04-29,0,0,0,0,0,0,Bournemouth,0,134536,0,Max Gradel,2016,1,1,Sub,3486,0,Sunderland,0,0
-2017-04-08,0,0,0,0,0,1,Chelsea,0,133041,0,Max Gradel,2016,3,4,Sub,3450,0,Bournemouth,0,0
-2017-04-05,0,0,0,0,0,2,Bournemouth,0,132944,0,Max Gradel,2016,2,4,Sub,3449,0,Liverpool,0,0
-2017-03-18,0,0,0,0,0,2,Swansea,0,133069,0,Max Gradel,2016,0,1,Sub,3429,0,Bournemouth,0,0
-2017-03-04,0,0,0,0,0,1,Bournemouth,0,132919,0,Max Gradel,2016,1,1,Sub,3402,0,Manchester United,0,0
-2016-10-22,0.08696330338716507,0,0,0.08696330338716507,0,0,Tottenham,0.08696330338716507,127031,0,Max Gradel,2016,0,28,Sub,541,2,Bournemouth,0,0
-2016-09-24,0,0,0,0,0,1,Everton,0,126563,0,Max Gradel,2016,0,17,Sub,517,0,Bournemouth,0,0
-2016-09-17,0,0,0,0,0,4,Bournemouth,0,126409,0,Max Gradel,2016,0,15,Sub,504,0,Manchester City,0,0
-2016-09-10,0,0,0,0.030483800917863846,0,1,West Bromwich Albion,0,126008,0,Max Gradel,2016,0,14,Sub,495,0,Bournemouth,0.030483800917863846,0
-2016-08-14,0.05808490142226219,0,0,0.060668498277664185,0,1,Manchester United,0.05808490142226219,124907,0,Max Gradel,2016,3,7,Sub,468,1,Bournemouth,0.060668498277664185,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-06,0.14297600090503693,1,0,0.2810080051422119,2,Stoke,134744,0,Max Gradel,2016,2,15,Sub,3491,0.138032004237175,0.0,2,Bournemouth,0.14297600090503693,0
+2017-04-29,0.0,0,0,0.0,0,Bournemouth,134536,0,Max Gradel,2016,1,1,Sub,3486,0.0,0.0,0,Sunderland,0.0,0
+2017-04-08,0.0,0,0,0.0,1,Chelsea,133041,0,Max Gradel,2016,3,4,Sub,3450,0.0,0.0,0,Bournemouth,0.0,0
+2017-04-05,0.0,0,0,0.0,2,Bournemouth,132944,0,Max Gradel,2016,2,4,Sub,3449,0.0,0.0,0,Liverpool,0.0,0
+2017-03-18,0.0,0,0,0.0,2,Swansea,133069,0,Max Gradel,2016,0,1,Sub,3429,0.0,0.0,0,Bournemouth,0.0,0
+2017-03-04,0.0,0,0,0.0,1,Bournemouth,132919,0,Max Gradel,2016,1,1,Sub,3402,0.0,0.0,0,Manchester United,0.0,0
+2016-10-22,0.08696330338716507,0,0,0.08696330338716507,0,Tottenham,127031,0,Max Gradel,2016,0,28,Sub,541,0.0,0.0,2,Bournemouth,0.08696330338716507,0
+2016-09-24,0.0,0,0,0.0,1,Everton,126563,0,Max Gradel,2016,0,17,Sub,517,0.0,0.0,0,Bournemouth,0.0,0
+2016-09-17,0.0,0,0,0.0,4,Bournemouth,126409,0,Max Gradel,2016,0,15,Sub,504,0.0,0.0,0,Manchester City,0.0,0
+2016-09-10,0.0,0,0,0.030483800917863846,1,West Bromwich Albion,126008,0,Max Gradel,2016,0,14,Sub,495,0.0,0.030483800917863846,0,Bournemouth,0.0,0
+2016-08-14,0.05808490142226219,0,0,0.060668498277664185,1,Manchester United,124907,0,Max Gradel,2016,3,7,Sub,468,0.0,0.060668498277664185,1,Bournemouth,0.05808490142226219,0

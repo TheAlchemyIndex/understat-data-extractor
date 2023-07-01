@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-14,0,0,0,0,0,0,Liverpool,0,134126,0,Ben Woodburn,2016,4,1,Sub,3509,0,West Ham,0,0
-2017-04-08,0,0,0,0,0,1,Liverpool,0,133597,0,Ben Woodburn,2016,2,49,AMC,3451,0,Stoke,0,0
-2017-03-12,0.07473470270633698,0,0,0.08110760152339935,0,2,Burnley,0.07473470270633698,125453,0,Ben Woodburn,2016,1,28,Sub,3419,2,Liverpool,0.018910599872469902,0
-2017-02-27,0,0,0,0,0,3,Liverpool,0,131791,0,Ben Woodburn,2016,1,4,Sub,3399,0,Leicester,0,0
-2016-11-26,0,0,0,0,0,2,Sunderland,0,128082,0,Ben Woodburn,2016,0,1,Sub,2710,0,Liverpool,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-14,0.0,0,0,0.0,0,Liverpool,134126,0,Ben Woodburn,2016,4,1,Sub,3509,0.0,0.0,0,West Ham,0.0,0
+2017-04-08,0.0,0,0,0.0,1,Liverpool,133597,0,Ben Woodburn,2016,2,49,AMC,3451,0.0,0.0,0,Stoke,0.0,0
+2017-03-12,0.07473470270633698,0,0,0.08110760152339935,2,Burnley,125453,0,Ben Woodburn,2016,1,28,Sub,3419,0.0,0.018910599872469902,2,Liverpool,0.07473470270633698,0
+2017-02-27,0.0,0,0,0.0,3,Liverpool,131791,0,Ben Woodburn,2016,1,4,Sub,3399,0.0,0.0,0,Leicester,0.0,0
+2016-11-26,0.0,0,0,0.0,2,Sunderland,128082,0,Ben Woodburn,2016,0,1,Sub,2710,0.0,0.0,0,Liverpool,0.0,0

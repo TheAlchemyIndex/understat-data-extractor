@@ -1,10 +1,10 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-05-19,0,0,0,0,0,3,Crystal Palace,0,536788,0,Jack Butland,2021,2,90,GK,16704,0,Everton,0,0
-2022-05-15,0,0,0,0,0,1,Crystal Palace,0,536122,0,Jack Butland,2021,1,90,GK,16745,0,Aston Villa,0,0
-2022-05-07,0,0,0,0.09241700172424316,0,1,Watford,0,532527,0,Jack Butland,2021,0,90,GK,16730,0,Crystal Palace,0.09241700172424316,0
-2022-02-26,0,0,0,0.6073629856109619,0,1,Burnley,0,516020,0,Jack Butland,2021,1,90,GK,16640,0,Crystal Palace,0.6073629856109619,0
-2022-02-23,0,0,0,0,0,1,Crystal Palace,0,515382,0,Jack Butland,2021,4,90,GK,16553,0,Watford,0,0
-2022-02-19,0,0,0,0,0,0,Chelsea,0,514217,0,Jack Butland,2021,1,41,Sub,16629,0,Crystal Palace,0,0
-2022-01-14,0,0,0,0.4677479863166809,0,1,Crystal Palace,0,507831,0,Jack Butland,2021,1,90,GK,16587,0,Brighton,0.4677479863166809,0
-2021-12-26,0,0,0,0,0,3,Crystal Palace,0,505051,0,Jack Butland,2021,0,90,GK,16563,0,Tottenham,0,0
-2021-12-15,0,0,0,0,0,2,Southampton,0,503245,0,Jack Butland,2021,2,90,GK,16542,0,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-05-19,0.0,0,0,0.0,3,Crystal Palace,536788,0,Jack Butland,2021,2,90,GK,16704,0.0,0.0,0,Everton,0.0,0
+2022-05-15,0.0,0,0,0.0,1,Crystal Palace,536122,0,Jack Butland,2021,1,90,GK,16745,0.0,0.0,0,Aston Villa,0.0,0
+2022-05-07,0.0,0,0,0.09241700172424316,1,Watford,532527,0,Jack Butland,2021,0,90,GK,16730,0.0,0.09241700172424316,0,Crystal Palace,0.0,0
+2022-02-26,0.0,0,0,0.6073629856109619,1,Burnley,516020,0,Jack Butland,2021,1,90,GK,16640,0.0,0.6073629856109619,0,Crystal Palace,0.0,0
+2022-02-23,0.0,0,0,0.0,1,Crystal Palace,515382,0,Jack Butland,2021,4,90,GK,16553,0.0,0.0,0,Watford,0.0,0
+2022-02-19,0.0,0,0,0.0,0,Chelsea,514217,0,Jack Butland,2021,1,41,Sub,16629,0.0,0.0,0,Crystal Palace,0.0,0
+2022-01-14,0.0,0,0,0.4677479863166809,1,Crystal Palace,507831,0,Jack Butland,2021,1,90,GK,16587,0.0,0.4677479863166809,0,Brighton,0.0,0
+2021-12-26,0.0,0,0,0.0,3,Crystal Palace,505051,0,Jack Butland,2021,0,90,GK,16563,0.0,0.0,0,Tottenham,0.0,0
+2021-12-15,0.0,0,0,0.0,2,Southampton,503245,0,Jack Butland,2021,2,90,GK,16542,0.0,0.0,0,Crystal Palace,0.0,0

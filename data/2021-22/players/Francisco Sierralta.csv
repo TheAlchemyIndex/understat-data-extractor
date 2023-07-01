@@ -1,6 +1,6 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-01-01,0,0,0,0,0,0,Tottenham,0,505481,0,Francisco Sierralta,2021,1,90,DC,16585,0,Watford,0,0
-2021-12-28,0.03239230066537857,0,0,0,0,1,West Ham,0.03239230066537857,505287,0,Francisco Sierralta,2021,4,90,DC,16569,1,Watford,0,0
-2021-10-02,0,0,0,0.015048399567604065,0,1,Watford,0,486450,0,Francisco Sierralta,2021,0,70,DC,16440,0,Leeds,0.015048399567604065,0
-2021-09-11,0,0,0,0.10449700057506561,0,0,Wolverhampton Wanderers,0,480295,0,Francisco Sierralta,2021,2,90,DC,16412,0,Watford,0.10449700057506561,0
-2021-08-29,0,0,0,0.17726600170135498,0,1,Watford,0,479406,0,Francisco Sierralta,2021,0,90,DC,16404,0,Tottenham,0.17726600170135498,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-01-01,0.0,0,0,0.0,0,Tottenham,505481,0,Francisco Sierralta,2021,1,90,DC,16585,0.0,0.0,0,Watford,0.0,0
+2021-12-28,0.03239230066537857,0,0,0.0,1,West Ham,505287,0,Francisco Sierralta,2021,4,90,DC,16569,0.0,0.0,1,Watford,0.03239230066537857,0
+2021-10-02,0.0,0,0,0.015048399567604065,1,Watford,486450,0,Francisco Sierralta,2021,0,70,DC,16440,0.0,0.015048399567604065,0,Leeds,0.0,0
+2021-09-11,0.0,0,0,0.10449700057506561,0,Wolverhampton Wanderers,480295,0,Francisco Sierralta,2021,2,90,DC,16412,0.0,0.10449700057506561,0,Watford,0.0,0
+2021-08-29,0.0,0,0,0.17726600170135498,1,Watford,479406,0,Francisco Sierralta,2021,0,90,DC,16404,0.0,0.17726600170135498,0,Tottenham,0.0,0

@@ -1,10 +1,10 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2018-05-13,0.13602900505065918,0,0,0.13602900505065918,0,1,Bournemouth,0.13602900505065918,240157,0,Nahki Wells,2017,2,9,Sub,7492,1,Burnley,0,0
-2018-05-06,0,0,0,0,0,5,Burnley,0,238373,0,Nahki Wells,2017,0,1,Sub,7487,0,Arsenal,0,0
-2018-04-19,0,0,0,0,0,1,Chelsea,0,233858,0,Nahki Wells,2017,2,2,Sub,7420,0,Burnley,0,0
-2018-02-10,0.02652139961719513,0,0,0.02652139961719513,0,1,Burnley,0.02652139961719513,215267,0,Nahki Wells,2017,0,8,Sub,7386,1,Swansea,0,0
-2018-01-20,0,0,0,0,0,0,Manchester United,0,209179,0,Nahki Wells,2017,1,1,Sub,7351,0,Burnley,0,0
-2018-01-13,0,0,0,0.021846899762749672,0,1,Burnley,0,207678,0,Nahki Wells,2017,0,4,Sub,7341,0,Crystal Palace,0.021846899762749672,0
-2018-01-01,0,0,0,0,0,1,Liverpool,0,206419,0,Nahki Wells,2017,2,3,Sub,7332,0,Burnley,0,0
-2017-12-30,0.5061600208282471,0,0,0.5061600208282471,0,0,Burnley,0.5061600208282471,206103,0,Nahki Wells,2017,0,8,Sub,7322,1,Huddersfield,0,0
-2017-12-23,0,0,0,0,0,0,Tottenham,0,202956,0,Nahki Wells,2017,3,1,Sub,7304,0,Burnley,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2018-05-13,0.13602900505065918,0,0,0.13602900505065918,1,Bournemouth,240157,0,Nahki Wells,2017,2,9,Sub,7492,0.0,0.0,1,Burnley,0.13602900505065918,0
+2018-05-06,0.0,0,0,0.0,5,Burnley,238373,0,Nahki Wells,2017,0,1,Sub,7487,0.0,0.0,0,Arsenal,0.0,0
+2018-04-19,0.0,0,0,0.0,1,Chelsea,233858,0,Nahki Wells,2017,2,2,Sub,7420,0.0,0.0,0,Burnley,0.0,0
+2018-02-10,0.02652139961719513,0,0,0.02652139961719513,1,Burnley,215267,0,Nahki Wells,2017,0,8,Sub,7386,0.0,0.0,1,Swansea,0.02652139961719513,0
+2018-01-20,0.0,0,0,0.0,0,Manchester United,209179,0,Nahki Wells,2017,1,1,Sub,7351,0.0,0.0,0,Burnley,0.0,0
+2018-01-13,0.0,0,0,0.021846899762749672,1,Burnley,207678,0,Nahki Wells,2017,0,4,Sub,7341,0.0,0.021846899762749672,0,Crystal Palace,0.0,0
+2018-01-01,0.0,0,0,0.0,1,Liverpool,206419,0,Nahki Wells,2017,2,3,Sub,7332,0.0,0.0,0,Burnley,0.0,0
+2017-12-30,0.5061600208282471,0,0,0.5061600208282471,0,Burnley,206103,0,Nahki Wells,2017,0,8,Sub,7322,0.0,0.0,1,Huddersfield,0.5061600208282471,0
+2017-12-23,0.0,0,0,0.0,0,Tottenham,202956,0,Nahki Wells,2017,3,1,Sub,7304,0.0,0.0,0,Burnley,0.0,0

@@ -1,4 +1,4 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2022-12-26,0,0,0,0.08782369643449783,0,0,Fulham,0,565596,0,Luke Harris,2022,3,3,Sub,18366,0,Crystal Palace,0.08782369643449783,0
-2022-11-05,0,0,0,0,0,2,Fulham,0,561909,0,Luke Harris,2022,1,1,Sub,18346,0,Manchester City,0,0
-2022-10-20,0,0,0,0,0,3,Aston Villa,0,557748,0,Luke Harris,2022,0,2,Sub,18316,0,Fulham,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2022-12-26,0.0,0,0,0.08782369643449783,0,Fulham,565596,0,Luke Harris,2022,3,3,Sub,18366,0.0,0.08782369643449783,0,Crystal Palace,0.0,0
+2022-11-05,0.0,0,0,0.0,2,Fulham,561909,0,Luke Harris,2022,1,1,Sub,18346,0.0,0.0,0,Manchester City,0.0,0
+2022-10-20,0.0,0,0,0.0,3,Aston Villa,557748,0,Luke Harris,2022,0,2,Sub,18316,0.0,0.0,0,Fulham,0.0,0

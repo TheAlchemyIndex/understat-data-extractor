@@ -1,30 +1,30 @@
-date,npxG,key_passes,npg,xGChain,xA,h_goals,a_team,xG,roster_id,assists,name,season,a_goals,time,position,id,shots,h_team,xGBuildup,goals
-2017-05-21,0,0,0,0.08210570365190506,0,2,Crystal Palace,0,125316,0,Wayne Hennessey,2016,0,90,GK,3516,0,Manchester United,0.08210570365190506,0
-2017-05-14,0,1,0,0,0.021022699773311615,4,Hull,0,135229,0,Wayne Hennessey,2016,0,90,GK,3501,0,Crystal Palace,0,0
-2017-05-06,0,0,0,0.11614099889993668,0,5,Crystal Palace,0,135075,0,Wayne Hennessey,2016,0,90,GK,3497,0,Manchester City,0.11614099889993668,0
-2017-04-29,0,0,0,0,0,0,Burnley,0,134348,0,Wayne Hennessey,2016,2,90,GK,3480,0,Crystal Palace,0,0
-2017-04-26,0,0,0,0.04106530174612999,0,0,Tottenham,0,132479,0,Wayne Hennessey,2016,1,90,GK,3415,0,Crystal Palace,0.04106530174612999,0
-2017-04-23,0,0,0,0.44722500443458557,0,1,Crystal Palace,0,134252,0,Wayne Hennessey,2016,2,90,GK,3476,0,Liverpool,0.44722500443458557,0
-2017-04-15,0,0,0,0,0,2,Leicester,0,134127,0,Wayne Hennessey,2016,2,90,GK,3468,0,Crystal Palace,0,0
-2017-04-10,0,1,0,0.5284479856491089,0.027925599366426468,3,Arsenal,0,133135,0,Wayne Hennessey,2016,0,90,GK,3459,0,Crystal Palace,0.5284479856491089,0
-2017-04-05,0,0,0,0.07776139676570892,0,3,Crystal Palace,0,132825,0,Wayne Hennessey,2016,1,90,GK,3447,0,Southampton,0.07776139676570892,0
-2017-04-01,0,0,0,0,0,1,Crystal Palace,0,132521,0,Wayne Hennessey,2016,2,90,GK,3432,0,Chelsea,0,0
-2017-03-18,0,0,0,0,0,1,Watford,0,133163,0,Wayne Hennessey,2016,0,90,GK,3428,0,Crystal Palace,0,0
-2017-03-04,0,0,0,0,0,0,Crystal Palace,0,133560,0,Wayne Hennessey,2016,2,90,GK,3408,0,West Bromwich Albion,0,0
-2017-02-25,0,1,0,0.08783359825611115,0.041095998138189316,1,Middlesbrough,0,131512,0,Wayne Hennessey,2016,0,90,GK,3392,0,Crystal Palace,0.04673760011792183,0
-2017-02-11,0,0,0,0,0,1,Crystal Palace,0,131055,0,Wayne Hennessey,2016,0,90,GK,3383,0,Stoke,0,0
-2017-02-04,0,0,0,0.01882000081241131,0,0,Sunderland,0,129391,0,Wayne Hennessey,2016,4,90,GK,3371,0,Crystal Palace,0.01882000081241131,0
-2017-01-31,0,0,0,0.0409465990960598,0,0,Crystal Palace,0,132138,0,Wayne Hennessey,2016,2,90,GK,3361,0,Bournemouth,0.0409465990960598,0
-2017-01-21,0,0,0,0.1330289989709854,0,0,Everton,0,131540,0,Wayne Hennessey,2016,1,90,GK,3353,0,Crystal Palace,0.1330289989709854,0
-2017-01-14,0,0,0,0.012702999636530876,0,3,Crystal Palace,0,131192,0,Wayne Hennessey,2016,0,90,GK,3346,0,West Ham,0.012702999636530876,0
-2017-01-04,0,0,0,0.03578139841556549,0,1,Swansea,0,131206,0,Wayne Hennessey,2016,2,90,GK,3337,0,Crystal Palace,0.03578139841556549,0
-2017-01-01,0,0,0,0,0,2,Crystal Palace,0,130012,0,Wayne Hennessey,2016,0,90,GK,3329,0,Arsenal,0,0
-2016-12-26,0,0,0,0,0,1,Crystal Palace,0,129903,0,Wayne Hennessey,2016,1,90,GK,3145,0,Watford,0,0
-2016-12-17,0,0,0,0,0,0,Chelsea,0,131652,0,Wayne Hennessey,2016,1,90,GK,3135,0,Crystal Palace,0,0
-2016-12-15,0,0,0,0,0,1,Manchester United,0,131013,0,Wayne Hennessey,2016,2,90,GK,3130,0,Crystal Palace,0,0
-2016-12-10,0,0,0,0,0,3,Crystal Palace,0,129819,0,Wayne Hennessey,2016,3,90,GK,3116,0,Hull,0,0
-2016-12-03,0,0,0,0,0,3,Southampton,0,128398,0,Wayne Hennessey,2016,0,90,GK,3106,0,Crystal Palace,0,0
-2016-11-26,0,0,0,0,0,5,Crystal Palace,0,128249,0,Wayne Hennessey,2016,4,90,GK,2709,0,Swansea,0,0
-2016-11-19,0,0,0,0,0,1,Manchester City,0,128263,0,Wayne Hennessey,2016,2,90,GK,2703,0,Crystal Palace,0,0
-2016-08-20,0,0,0,0,0,1,Crystal Palace,0,125591,0,Wayne Hennessey,2016,0,90,GK,475,0,Tottenham,0,0
-2016-08-13,0,0,0,0,0,0,West Bromwich Albion,0,124977,0,Wayne Hennessey,2016,1,90,GK,462,0,Crystal Palace,0,0
+date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2017-05-21,0.0,0,0,0.08210570365190506,2,Crystal Palace,125316,0,Wayne Hennessey,2016,0,90,GK,3516,0.0,0.08210570365190506,0,Manchester United,0.0,0
+2017-05-14,0.0,1,0,0.0,4,Hull,135229,0,Wayne Hennessey,2016,0,90,GK,3501,0.021022699773311615,0.0,0,Crystal Palace,0.0,0
+2017-05-06,0.0,0,0,0.11614099889993668,5,Crystal Palace,135075,0,Wayne Hennessey,2016,0,90,GK,3497,0.0,0.11614099889993668,0,Manchester City,0.0,0
+2017-04-29,0.0,0,0,0.0,0,Burnley,134348,0,Wayne Hennessey,2016,2,90,GK,3480,0.0,0.0,0,Crystal Palace,0.0,0
+2017-04-26,0.0,0,0,0.04106530174612999,0,Tottenham,132479,0,Wayne Hennessey,2016,1,90,GK,3415,0.0,0.04106530174612999,0,Crystal Palace,0.0,0
+2017-04-23,0.0,0,0,0.44722500443458557,1,Crystal Palace,134252,0,Wayne Hennessey,2016,2,90,GK,3476,0.0,0.44722500443458557,0,Liverpool,0.0,0
+2017-04-15,0.0,0,0,0.0,2,Leicester,134127,0,Wayne Hennessey,2016,2,90,GK,3468,0.0,0.0,0,Crystal Palace,0.0,0
+2017-04-10,0.0,1,0,0.5284479856491089,3,Arsenal,133135,0,Wayne Hennessey,2016,0,90,GK,3459,0.027925599366426468,0.5284479856491089,0,Crystal Palace,0.0,0
+2017-04-05,0.0,0,0,0.07776139676570892,3,Crystal Palace,132825,0,Wayne Hennessey,2016,1,90,GK,3447,0.0,0.07776139676570892,0,Southampton,0.0,0
+2017-04-01,0.0,0,0,0.0,1,Crystal Palace,132521,0,Wayne Hennessey,2016,2,90,GK,3432,0.0,0.0,0,Chelsea,0.0,0
+2017-03-18,0.0,0,0,0.0,1,Watford,133163,0,Wayne Hennessey,2016,0,90,GK,3428,0.0,0.0,0,Crystal Palace,0.0,0
+2017-03-04,0.0,0,0,0.0,0,Crystal Palace,133560,0,Wayne Hennessey,2016,2,90,GK,3408,0.0,0.0,0,West Bromwich Albion,0.0,0
+2017-02-25,0.0,1,0,0.08783359825611115,1,Middlesbrough,131512,0,Wayne Hennessey,2016,0,90,GK,3392,0.041095998138189316,0.04673760011792183,0,Crystal Palace,0.0,0
+2017-02-11,0.0,0,0,0.0,1,Crystal Palace,131055,0,Wayne Hennessey,2016,0,90,GK,3383,0.0,0.0,0,Stoke,0.0,0
+2017-02-04,0.0,0,0,0.01882000081241131,0,Sunderland,129391,0,Wayne Hennessey,2016,4,90,GK,3371,0.0,0.01882000081241131,0,Crystal Palace,0.0,0
+2017-01-31,0.0,0,0,0.0409465990960598,0,Crystal Palace,132138,0,Wayne Hennessey,2016,2,90,GK,3361,0.0,0.0409465990960598,0,Bournemouth,0.0,0
+2017-01-21,0.0,0,0,0.1330289989709854,0,Everton,131540,0,Wayne Hennessey,2016,1,90,GK,3353,0.0,0.1330289989709854,0,Crystal Palace,0.0,0
+2017-01-14,0.0,0,0,0.012702999636530876,3,Crystal Palace,131192,0,Wayne Hennessey,2016,0,90,GK,3346,0.0,0.012702999636530876,0,West Ham,0.0,0
+2017-01-04,0.0,0,0,0.03578139841556549,1,Swansea,131206,0,Wayne Hennessey,2016,2,90,GK,3337,0.0,0.03578139841556549,0,Crystal Palace,0.0,0
+2017-01-01,0.0,0,0,0.0,2,Crystal Palace,130012,0,Wayne Hennessey,2016,0,90,GK,3329,0.0,0.0,0,Arsenal,0.0,0
+2016-12-26,0.0,0,0,0.0,1,Crystal Palace,129903,0,Wayne Hennessey,2016,1,90,GK,3145,0.0,0.0,0,Watford,0.0,0
+2016-12-17,0.0,0,0,0.0,0,Chelsea,131652,0,Wayne Hennessey,2016,1,90,GK,3135,0.0,0.0,0,Crystal Palace,0.0,0
+2016-12-15,0.0,0,0,0.0,1,Manchester United,131013,0,Wayne Hennessey,2016,2,90,GK,3130,0.0,0.0,0,Crystal Palace,0.0,0
+2016-12-10,0.0,0,0,0.0,3,Crystal Palace,129819,0,Wayne Hennessey,2016,3,90,GK,3116,0.0,0.0,0,Hull,0.0,0
+2016-12-03,0.0,0,0,0.0,3,Southampton,128398,0,Wayne Hennessey,2016,0,90,GK,3106,0.0,0.0,0,Crystal Palace,0.0,0
+2016-11-26,0.0,0,0,0.0,5,Crystal Palace,128249,0,Wayne Hennessey,2016,4,90,GK,2709,0.0,0.0,0,Swansea,0.0,0
+2016-11-19,0.0,0,0,0.0,1,Manchester City,128263,0,Wayne Hennessey,2016,2,90,GK,2703,0.0,0.0,0,Crystal Palace,0.0,0
+2016-08-20,0.0,0,0,0.0,1,Crystal Palace,125591,0,Wayne Hennessey,2016,0,90,GK,475,0.0,0.0,0,Tottenham,0.0,0
+2016-08-13,0.0,0,0,0.0,0,West Bromwich Albion,124977,0,Wayne Hennessey,2016,1,90,GK,462,0.0,0.0,0,Crystal Palace,0.0,0
