@@ -90,6 +90,24 @@ public class UnderstatExtractor {
             JSONObject matchData = jsonArray.getJSONObject(i);
             matchData.put("team", teamName);
             matchData.put("season", season);
+
+            String dateValue = matchData.getString("date");
+            String teamValue = matchData.getString("team");
+
+            // Temporary fix for incorrect data in 2016-17 season
+            switch (dateValue) {
+                case "2017-01-04 00:00:00":
+                    if (teamValue.equals("Crystal Palace") || teamValue.equals("Stoke") || teamValue.equals("Swansea") || teamValue.equals("Watford")) {
+                        matchData.put("date", "2017-01-03 00:00:00");
+                    }
+                    break;
+
+                case "2017-01-05 00:00:00":
+                    if (teamValue.equals("Chelsea") || teamValue.equals("Spurs")) {
+                        matchData.put("date", "2017-01-04 00:00:00");
+                    }
+                    break;
+            }
         }
         return jsonArray;
     }
