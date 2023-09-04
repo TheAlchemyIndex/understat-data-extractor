@@ -1,3 +1,5 @@
 date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-09-03,0.0,2,0,0.6751933693885803,3,Manchester United,609645,0,Ben White,2023,1,90,DR,21934,0.5269850492477417,0.1482083648443222,0,Arsenal,0.0,0
+2023-08-26,0.0,2,0,0.9988599419593811,2,Fulham,606920,0,Ben White,2023,2,90,DC,22297,0.10497311502695084,0.9483943581581116,0,Arsenal,0.0,0
 2023-08-21,0.0,0,0,0.5514682531356812,0,Arsenal,606385,0,Ben White,2023,1,90,DC,22294,0.0,0.5514682531356812,0,Crystal Palace,0.0,0
 2023-08-12,0.0,0,0,0.19819097220897675,2,Nottingham Forest,603699,0,Ben White,2023,1,90,DC,22276,0.0,0.19819097220897675,0,Arsenal,0.0,0

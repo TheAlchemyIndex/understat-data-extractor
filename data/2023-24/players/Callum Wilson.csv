@@ -1,3 +1,5 @@
 date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
+2023-09-02,0.31213393807411194,0,1,0.41517436504364014,3,Newcastle United,608893,0,Callum Wilson,2023,1,30,Sub,21931,0.0,0.1030404269695282,1,Brighton,0.31213393807411194,1
+2023-08-27,0.11357513815164566,0,0,0.11357513815164566,1,Liverpool,607692,0,Callum Wilson,2023,2,14,Sub,22304,0.0,0.0,2,Newcastle United,0.11357513815164566,0
 2023-08-19,0.0,1,0,0.015900330618023872,1,Newcastle United,605576,0,Callum Wilson,2023,0,21,Sub,22291,0.015900330618023872,0.0,0,Manchester City,0.0,0
 2023-08-12,1.220109462738037,0,1,1.220109462738037,5,Aston Villa,603916,0,Callum Wilson,2023,1,11,Sub,22281,0.0,0.0,4,Newcastle United,1.220109462738037,1
