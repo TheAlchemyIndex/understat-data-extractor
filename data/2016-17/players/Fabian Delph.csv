@@ -1,8 +1,0 @@
-date,x_g,key_passes,npg,x_g_chain,h_goals,a_team,roster_id,assists,name,season,a_goals,time,position,id,x_a,x_g_buildup,shots,h_team,npx_g,goals
-2017-04-08,0.19558699429035187,1,1,0.7462170124053955,3,Hull,133361,0,Fabian Delph,2016,1,90,DMC,3457,0.023701900616288185,0.5269280076026917,4,Manchester City,0.19558699429035187,1
-2017-04-05,0.030691999942064285,1,0,0.2592099905014038,2,Manchester City,132722,0,Fabian Delph,2016,1,90,DMC,3448,0.33733099699020386,0.24249200522899628,2,Chelsea,0.030691999942064285,0
-2017-03-05,0.0,0,0,0.1402990072965622,0,Manchester City,133134,0,Fabian Delph,2016,2,1,Sub,3404,0.0,0.1402990072965622,0,Sunderland,0.0,0
-2017-02-01,0.0,0,0,0.0,0,Manchester City,132312,0,Fabian Delph,2016,4,8,Sub,3367,0.0,0.0,0,West Ham,0.0,0
-2017-01-21,0.0,0,0,0.0,2,Tottenham,131721,0,Fabian Delph,2016,2,1,Sub,3356,0.0,0.0,0,Manchester City,0.0,0
-2016-08-20,0.0,0,0,0.40359899401664734,1,Manchester City,125522,0,Fabian Delph,2016,4,1,Sub,472,0.0,0.40359899401664734,0,Stoke,0.0,0
-2016-08-13,0.0,0,0,0.0,2,Sunderland,125069,0,Fabian Delph,2016,1,25,Sub,467,0.0,0.0,0,Manchester City,0.0,0
