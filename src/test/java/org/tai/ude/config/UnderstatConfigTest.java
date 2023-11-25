@@ -16,8 +16,8 @@ public class UnderstatConfigTest {
     public void givenValidProperties_fplConfig_thenReturnValidConfig() {
         CONFIG = new UnderstatConfig("src/test/resources/config/test_config.properties");
 
-        assertEquals(EXPECTED_MAIN_SEASON, CONFIG.getMainSeason());
-        assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBaseFilePath());
+        assertEquals(EXPECTED_MAIN_SEASON, CONFIG.getSeason());
+        assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getFolderPath());
         assertEquals(EXPECTED_MAIN_URL, CONFIG.getMainUrl());
         assertEquals(EXPECTED_PLAYER_URL, CONFIG.getPlayerUrl());
     }

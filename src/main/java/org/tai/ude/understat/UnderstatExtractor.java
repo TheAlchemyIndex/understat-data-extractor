@@ -8,7 +8,6 @@ import org.tai.ude.understat.util.HexToJsonConverter;
 import org.tai.ude.understat.util.PlayerNameFormatter;
 import org.tai.ude.understat.util.TeamNameFormatter;
 import org.tai.ude.understat.util.WebScraper;
-import org.tai.ude.util.constants.FileNames;
 import org.tai.ude.writers.FileWriter;
 
 public class UnderstatExtractor {
@@ -21,16 +20,18 @@ public class UnderstatExtractor {
     private final String mainUrl;
     private final String playerUrl;
     private final FileWriter fileWriter;
+    private final String league;
 
-    public UnderstatExtractor(String season, String mainUrl, String playerUrl, FileWriter fileWriter) {
-        this.fileWriter = fileWriter;
+    public UnderstatExtractor(String season, String mainUrl, String playerUrl, FileWriter fileWriter, String league) {
+        this.season = season;
         this.mainUrl = mainUrl;
         this.playerUrl = playerUrl;
-        this.season = season;
+        this.fileWriter = fileWriter;
+        this.league = league;
     }
 
     public void getTeamData() {
-        String targetElements = scrapeDataFromUrl(this.mainUrl, TEAMS_DATA_VAR);
+        String targetElements = scrapeDataFromUrl(String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4)), TEAMS_DATA_VAR);
         JSONObject teamData = HexToJsonConverter.toJsonObject(targetElements);
         teamData.keySet().forEach(teamKey -> {
             JSONObject individualTeamData = teamData.getJSONObject(teamKey);
@@ -38,13 +39,13 @@ public class UnderstatExtractor {
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
             JSONArray matchDataWithTeamName = addTeamNameAndSeasonToJsonArray(teamHistory, teamName, this.season);
             JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(matchDataWithTeamName);
-            writeDataToFile(xGColumnsToSnakecase, String.format("%s%s.csv", FileNames.UNDERSTAT_TEAMS_FILENAME, teamName));
+            writeDataToFile(xGColumnsToSnakecase, String.format("teams/season=%s/league=%s/%s.csv", this.season, this.league, teamName));
             LOGGER.info("Team data extraction from {} complete.", this.mainUrl);
         });
     }
 
     public void getPlayerData() {
-        String targetElements = scrapeDataFromUrl(this.mainUrl, PLAYERS_DATA_VAR);
+        String targetElements = scrapeDataFromUrl(String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4)), PLAYERS_DATA_VAR);
         JSONArray playerData = HexToJsonConverter.toJsonArray(targetElements);
         for (int i = 0; i < playerData.length(); i++) {
             JSONObject playerInfo = playerData.getJSONObject(i);
@@ -55,7 +56,7 @@ public class UnderstatExtractor {
             JSONArray currentSeasonData = filterCurrentSeason(playerMatchData);
             JSONArray playerMatchDataWithName = addPlayerNameToJsonArray(currentSeasonData, playerName);
             JSONArray playerXGColumnsToSnakecase = playerXGColumnsToSnakecase(playerMatchDataWithName);
-            writeDataToFile(playerXGColumnsToSnakecase, String.format("%s%s.csv", FileNames.UNDERSTAT_PLAYERS_FILENAME, playerName));
+            writeDataToFile(playerXGColumnsToSnakecase, String.format("players/season=%s/league=%s/%s.csv", this.season, this.league, playerName));
             LOGGER.info("Player data extraction from {} complete.", this.mainUrl);
         }
     }
@@ -173,7 +174,6 @@ public class UnderstatExtractor {
     }
 
     private void writeDataToFile(JSONArray data, String filename) {
-        String filepath = String.format("%s/%s", this.season, filename);
-        fileWriter.write(data, filepath);
+        fileWriter.write(data, filename);
     }
 }

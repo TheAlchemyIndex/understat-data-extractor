@@ -9,8 +9,8 @@ import java.util.Properties;
 
 public class UnderstatConfig {
     private static final Logger LOGGER = LogManager.getLogger(UnderstatConfig.class);
-    private final String mainSeason;
-    private final String baseFilePath;
+    private final String season;
+    private final String folderPath;
     private final String mainUrl;
     private final String playerUrl;
 
@@ -20,8 +20,8 @@ public class UnderstatConfig {
             Properties prop = new Properties();
             prop.load(propsInput);
 
-            this.mainSeason = prop.getProperty("MAIN_SEASON");
-            this.baseFilePath = prop.getProperty("BASE_FILEPATH");
+            this.season = prop.getProperty("SEASON");
+            this.folderPath = prop.getProperty("FOLDER_PATH");
             this.mainUrl = prop.getProperty("MAIN_URL");
             this.playerUrl = prop.getProperty("PLAYER_URL");
             validateSeasonParameters();
@@ -34,16 +34,16 @@ public class UnderstatConfig {
         }
     }
 
-    public String getMainSeason() {
-        return this.mainSeason;
+    public String getSeason() {
+        return this.season;
     }
 
-    public String getBaseFilePath() {
-        return this.baseFilePath;
+    public String getFolderPath() {
+        return this.folderPath;
     }
 
     public String getMainUrl() {
-        return String.format("%s%s", this.mainUrl, this.mainSeason.substring(0, 4));
+        return this.mainUrl;
     }
 
     public String getPlayerUrl() {
@@ -51,8 +51,8 @@ public class UnderstatConfig {
     }
 
     private void validateSeasonParameters() throws IllegalArgumentException {
-        if (!this.mainSeason.matches("\\d{4}-\\d{2}")) {
-            throw new IllegalArgumentException("Main season must match the following format - 2022-23");
+        if (!this.season.matches("\\d{4}-\\d{2}")) {
+            throw new IllegalArgumentException("season must match the following format - 2022-23");
         }
     }
 }
