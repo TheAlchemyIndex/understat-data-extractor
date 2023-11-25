@@ -10,9 +10,6 @@ import java.util.Properties;
 public class UnderstatConfig {
     private static final Logger LOGGER = LogManager.getLogger(UnderstatConfig.class);
     private final String mainSeason;
-    private final int startingSeasonStart;
-    private final int startingSeasonEnd;
-    private final int finalSeasonEnd;
     private final String baseFilePath;
     private final String mainUrl;
     private final String playerUrl;
@@ -24,9 +21,6 @@ public class UnderstatConfig {
             prop.load(propsInput);
 
             this.mainSeason = prop.getProperty("MAIN_SEASON");
-            this.startingSeasonStart = Integer.parseInt(prop.getProperty("STARTING_SEASON_START"));
-            this.startingSeasonEnd = Integer.parseInt(prop.getProperty("STARTING_SEASON_END"));
-            this.finalSeasonEnd = Integer.parseInt(prop.getProperty("FINAL_SEASON_END"));
             this.baseFilePath = prop.getProperty("BASE_FILEPATH");
             this.mainUrl = prop.getProperty("MAIN_URL");
             this.playerUrl = prop.getProperty("PLAYER_URL");
@@ -44,18 +38,6 @@ public class UnderstatConfig {
         return this.mainSeason;
     }
 
-    public int getStartingSeasonStart() {
-        return this.startingSeasonStart;
-    }
-
-    public int getStartingSeasonEnd() {
-        return convertYearTo2Digits(this.startingSeasonEnd);
-    }
-
-    public int getFinalSeasonEnd() {
-        return convertYearTo2Digits(this.finalSeasonEnd);
-    }
-
     public String getBaseFilePath() {
         return this.baseFilePath;
     }
@@ -71,20 +53,6 @@ public class UnderstatConfig {
     private void validateSeasonParameters() throws IllegalArgumentException {
         if (!this.mainSeason.matches("\\d{4}-\\d{2}")) {
             throw new IllegalArgumentException("Main season must match the following format - 2022-23");
-        } else if (this.startingSeasonStart < 2016) {
-            throw new IllegalArgumentException("Value for startingSeasonStart can not be less than 2016");
-        } else if (this.startingSeasonEnd <= this.startingSeasonStart) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be less than or equal to startingSeasonStart");
-        } else if ((this.startingSeasonEnd - this.startingSeasonStart) > 1) {
-            throw new IllegalArgumentException("Value for startingSeasonEnd can not be more than 1 year greater than startingSeasonStart");
-        } else if (this.finalSeasonEnd <= this.startingSeasonStart) {
-            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than or equal to startingSeasonStart");
-        } else if (this.finalSeasonEnd < this.startingSeasonEnd) {
-            throw new IllegalArgumentException("Value for finalSeasonEnd can not be less than startingSeasonEnd");
         }
-    }
-
-    private static int convertYearTo2Digits(int year) {
-        return Integer.parseInt(Integer.toString(year).substring(2));
     }
 }
