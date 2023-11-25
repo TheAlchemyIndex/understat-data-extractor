@@ -37,9 +37,8 @@ public class UnderstatExtractor {
             JSONObject individualTeamData = teamData.getJSONObject(teamKey);
             String teamName = TeamNameFormatter.formatName(individualTeamData.getString("title"));
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
-            JSONArray matchDataWithTeamName = addTeamNameAndSeasonToJsonArray(teamHistory, teamName, this.season);
-            JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(matchDataWithTeamName);
-            writeDataToFile(xGColumnsToSnakecase, String.format("teams/season=%s/league=%s/%s.csv", this.season, this.league, teamName));
+            JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(teamHistory);
+            writeDataToFile(xGColumnsToSnakecase, String.format("teams/season=%s/league=%s/team=%s/team_data.csv", this.season, this.league, teamName));
             LOGGER.info("Team data extraction from {} complete.", this.mainUrl);
         });
     }
