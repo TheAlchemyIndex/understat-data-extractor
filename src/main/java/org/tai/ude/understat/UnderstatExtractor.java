@@ -9,9 +9,8 @@ import org.tai.ude.understat.util.PlayerNameFormatter;
 import org.tai.ude.understat.util.TeamNameFormatter;
 import org.tai.ude.understat.util.WebScraper;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
+import java.util.zip.GZIPOutputStream;
 
 public class UnderstatExtractor {
     private static final Logger LOGGER = LogManager.getLogger(UnderstatExtractor.class);
@@ -20,17 +19,17 @@ public class UnderstatExtractor {
     private static final String MATCHES_DATA_VAR = "var matchesData";
 
     private final String season;
-    private final String mainUrl;
+    private final String bucket;
     private final String playerUrl;
     private final String league;
     private final String seasonLeagueUrl;
 
-    public UnderstatExtractor(String season, String mainUrl, String playerUrl, String league) {
+    public UnderstatExtractor(String season, String bucket, String mainUrl, String playerUrl, String league) {
         this.season = season;
-        this.mainUrl = mainUrl;
+        this.bucket = bucket;
         this.playerUrl = playerUrl;
         this.league = league;
-        this.seasonLeagueUrl = String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4));
+        this.seasonLeagueUrl = String.format("%s/%s/%s", mainUrl, this.league, this.season.substring(0, 4));
     }
 
     public void getTeamData() {
@@ -42,17 +41,10 @@ public class UnderstatExtractor {
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
             JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(teamHistory);
 
-            String writeLocation = String.format("C:/sports-data-pipeline-dev/raw-ingress/understat/teams/season=%s/league=%s/team=%s", this.season, this.league, teamName);
+            String writeLocation = String.format("%s/raw-ingress/understat/teams/season=%s/league=%s/team=%s",
+                    this.bucket, this.season, this.league, teamName);
             createDirectory(writeLocation);
-
-            try (FileWriter file = new FileWriter(String.format("%s/team_data.json", writeLocation))) {
-                file.write(xGColumnsToSnakecase.toString());
-                file.flush();
-                file.close();
-                LOGGER.info("Team data extraction for {} from {} complete.", teamName, this.seasonLeagueUrl);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            writeJSONArrayToGzippedFile(xGColumnsToSnakecase, String.format("%s/team_data.json.gz", writeLocation));
         });
     }
 
@@ -69,17 +61,11 @@ public class UnderstatExtractor {
             JSONArray playerMatchDataWithName = addPlayerNameToJsonArray(currentSeasonData, playerName);
             JSONArray playerXGColumnsToSnakecase = playerXGColumnsToSnakecase(playerMatchDataWithName);
 
-            String writeLocation = String.format("C:/sports-data-pipeline-dev/raw-ingress/understat/players/season=%s/league=%s/name=%s", this.season, this.league, playerName);
+            String writeLocation = String.format("%s/raw-ingress/understat/players/season=%s/league=%s/name=%s",
+                    this.bucket, this.season, this.league, playerName);
             createDirectory(writeLocation);
-
-            try (FileWriter file = new FileWriter(String.format("%s/player_data.json", writeLocation))) {
-                file.write(playerXGColumnsToSnakecase.toString());
-                file.flush();
-                file.close();
-                LOGGER.info("Player data extraction for {} from {} complete.", playerName, this.seasonLeagueUrl);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            writeJSONArrayToGzippedFile(playerXGColumnsToSnakecase, String.format("%s/player_data.json.gz",
+                    writeLocation));
         }
     }
 
@@ -87,6 +73,17 @@ public class UnderstatExtractor {
         File directory = new File(writeLocation);
         if (!directory.exists()) {
             directory.mkdirs();
+        }
+    }
+
+    private static void writeJSONArrayToGzippedFile(JSONArray jsonArray, String filePath) {
+        try (OutputStream fileStream = new FileOutputStream(filePath);
+             OutputStream gzipStream = new GZIPOutputStream(fileStream)) {
+            String jsonString = jsonArray.toString();
+            gzipStream.write(jsonString.getBytes("UTF-8"));
+            LOGGER.info("Write to {} complete.", filePath);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
     }
 
@@ -127,7 +124,8 @@ public class UnderstatExtractor {
             // Temporary fix for incorrect data in 2016-17 season
             switch (dateValue) {
                 case "2017-01-04 00:00:00":
-                    if (teamValue.equals("Crystal Palace") || teamValue.equals("Stoke") || teamValue.equals("Swansea") || teamValue.equals("Watford")) {
+                    if (teamValue.equals("Crystal Palace") || teamValue.equals("Stoke")
+                            || teamValue.equals("Swansea") || teamValue.equals("Watford")) {
                         matchData.put("date", "2017-01-03 00:00:00");
                     }
                     break;

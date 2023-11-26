@@ -20,7 +20,7 @@ public class Main {
         ArrayList<String> targetLeagues = new ArrayList<>(Arrays.asList("EPL", "La_liga", "Bundesliga", "Serie_A", "Ligue_1"));
 
         for (String league : targetLeagues) {
-            UnderstatExtractor understatExtractor = new UnderstatExtractor(season, mainUrl, playerUrl, league);
+            UnderstatExtractor understatExtractor = new UnderstatExtractor(season, bucket, mainUrl, playerUrl, league);
             understatExtractor.getTeamData();
             understatExtractor.getPlayerData();
         }
