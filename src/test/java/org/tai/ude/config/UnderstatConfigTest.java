@@ -17,7 +17,7 @@ public class UnderstatConfigTest {
         CONFIG = new UnderstatConfig("src/test/resources/config/test_config.properties");
 
         assertEquals(EXPECTED_MAIN_SEASON, CONFIG.getSeason());
-        assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getFolderPath());
+        assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBucket());
         assertEquals(EXPECTED_MAIN_URL, CONFIG.getMainUrl());
         assertEquals(EXPECTED_PLAYER_URL, CONFIG.getPlayerUrl());
     }

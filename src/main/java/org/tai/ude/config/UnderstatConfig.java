@@ -10,7 +10,7 @@ import java.util.Properties;
 public class UnderstatConfig {
     private static final Logger LOGGER = LogManager.getLogger(UnderstatConfig.class);
     private final String season;
-    private final String folderPath;
+    private final String bucket;
     private final String mainUrl;
     private final String playerUrl;
 
@@ -21,7 +21,7 @@ public class UnderstatConfig {
             prop.load(propsInput);
 
             this.season = prop.getProperty("SEASON");
-            this.folderPath = prop.getProperty("FOLDER_PATH");
+            this.bucket = prop.getProperty("BUCKET");
             this.mainUrl = prop.getProperty("MAIN_URL");
             this.playerUrl = prop.getProperty("PLAYER_URL");
             validateSeasonParameters();
@@ -38,8 +38,8 @@ public class UnderstatConfig {
         return this.season;
     }
 
-    public String getFolderPath() {
-        return this.folderPath;
+    public String getBucket() {
+        return this.bucket;
     }
 
     public String getMainUrl() {

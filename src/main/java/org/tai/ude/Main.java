@@ -13,11 +13,11 @@ public class Main {
         // TODO Do file path better
         UnderstatConfig config = new UnderstatConfig("src/main/resources/config.properties");
         final String season = config.getSeason();
-        final String folderPath = config.getFolderPath();
+        final String bucket = config.getBucket();
         final String mainUrl = config.getMainUrl();
         final String playerUrl = config.getPlayerUrl();
 
-        FileWriter fileWriter = new FileWriter(folderPath);
+        FileWriter fileWriter = new FileWriter(bucket);
 
         // TODO Add to config
         ArrayList<String> targetLeagues = new ArrayList<>(Arrays.asList("EPL", "La_liga", "Bundesliga", "Serie_A", "Ligue_1"));
