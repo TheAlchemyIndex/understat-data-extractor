@@ -12,27 +12,23 @@ import java.nio.charset.Charset;
 
 public class FileWriter {
     private static final Logger LOGGER = LogManager.getLogger(FileWriter.class);
-    private final String baseFilePath;
+    private final String folderPath;
 
-    public FileWriter(String baseFilePath) {
-        this.baseFilePath = baseFilePath;
+    public FileWriter(String folderPath) {
+        this.folderPath = folderPath;
     }
 
-    public void write(JSONArray jsonData, String subFilePath) {
-        if (subFilePath == null) {
-            throw new RuntimeException("Sub file path can not be .");
+    public void write(JSONArray jsonData, String filename) {
+        if (filename == null) {
+            throw new RuntimeException("Filename can not be null.");
         }
         try {
-            File file = new File(String.format("%s/%s", this.baseFilePath, subFilePath));
+            File file = new File(String.format("%s/%s", this.folderPath, filename));
             String dataString = CDL.toString(jsonData);
             FileUtils.writeStringToFile(file, dataString, Charset.defaultCharset());
-            LOGGER.info(String.format("Write to {%s} complete.", subFilePath));
+            LOGGER.info(String.format("Write to {%s} complete.", filename));
         } catch (IOException | NullPointerException exception) {
-            throw new RuntimeException(String.format("Error writing data to {%s}: {%s}", subFilePath, exception.getMessage()));
+            throw new RuntimeException(String.format("Error writing data to {%s}: {%s}", filename, exception.getMessage()));
         }
-    }
-
-    public String getBaseFilePath() {
-        return baseFilePath;
     }
 }

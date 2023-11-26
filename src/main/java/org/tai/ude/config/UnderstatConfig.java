@@ -30,7 +30,7 @@ public class UnderstatConfig {
         } catch (IOException fileNotFoundException) {
             throw new RuntimeException(String.format("Error loading config file: {%s}", fileNotFoundException.getMessage()));
         } catch (IllegalArgumentException illegalArgumentException) {
-            throw new RuntimeException(String.format("Error with season parameters: {%s}", illegalArgumentException.getMessage()));
+            throw new RuntimeException(String.format("Error with season parameter: {%s}", illegalArgumentException.getMessage()));
         }
     }
 
