@@ -7,17 +7,17 @@ import static org.junit.Assert.assertEquals;
 public class UnderstatConfigTest {
 
     private static UnderstatConfig CONFIG;
-    private static final String EXPECTED_MAIN_SEASON = "2022-23";
-    private static final String EXPECTED_BASE_FILEPATH = "data/";
-    private static final String EXPECTED_MAIN_URL = "https://testmainurl.com/2022";
+    private static final String EXPECTED_SEASON = "2022-23";
+    private static final String EXPECTED_BUCKET = "data/";
+    private static final String EXPECTED_MAIN_URL = "https://testmainurl.com/";
     private static final String EXPECTED_PLAYER_URL = "https://testplayerurl.com/";
 
     @Test
     public void givenValidProperties_fplConfig_thenReturnValidConfig() {
         CONFIG = new UnderstatConfig("src/test/resources/config/test_config.properties");
 
-        assertEquals(EXPECTED_MAIN_SEASON, CONFIG.getSeason());
-        assertEquals(EXPECTED_BASE_FILEPATH, CONFIG.getBucket());
+        assertEquals(EXPECTED_SEASON, CONFIG.getSeason());
+        assertEquals(EXPECTED_BUCKET, CONFIG.getBucket());
         assertEquals(EXPECTED_MAIN_URL, CONFIG.getMainUrl());
         assertEquals(EXPECTED_PLAYER_URL, CONFIG.getPlayerUrl());
     }

@@ -8,28 +8,28 @@ import static org.tai.ude.understat.util.TeamNameFormatter.formatName;
 public class TeamNameFormatterTest {
 
     private static final String TEST_NAME1 = "Cardiff";
-    private static final String EXPECTED_FORMATTED_NAME1 = "Cardiff City";
+    private static final String EXPECTED_FORMATTED_NAME1 = "Cardiff%20City";
 
     private static final String TEST_NAME2 = "Manchester City";
-    private static final String EXPECTED_FORMATTED_NAME2 = "Man City";
+    private static final String EXPECTED_FORMATTED_NAME2 = "Man%20City";
 
     private static final String TEST_NAME3 = "Manchester United";
-    private static final String EXPECTED_FORMATTED_NAME3 = "Man Utd";
+    private static final String EXPECTED_FORMATTED_NAME3 = "Man%20Utd";
 
     private static final String TEST_NAME4 = "Newcastle United";
     private static final String EXPECTED_FORMATTED_NAME4 = "Newcastle";
 
     private static final String TEST_NAME5 = "Nottingham Forest";
-    private static final String EXPECTED_FORMATTED_NAME5 = "Nott'm Forest";
+    private static final String EXPECTED_FORMATTED_NAME5 = "Nott%27m%20Forest";
 
     private static final String TEST_NAME6 = "Sheffield United";
-    private static final String EXPECTED_FORMATTED_NAME6 = "Sheffield Utd";
+    private static final String EXPECTED_FORMATTED_NAME6 = "Sheffield%20Utd";
 
     private static final String TEST_NAME7 = "Tottenham";
     private static final String EXPECTED_FORMATTED_NAME7 = "Spurs";
 
     private static final String TEST_NAME8 = "West Bromwich Albion";
-    private static final String EXPECTED_FORMATTED_NAME8 = "West Brom";
+    private static final String EXPECTED_FORMATTED_NAME8 = "West%20Brom";
 
     private static final String TEST_NAME9 = "Wolverhampton Wanderers";
     private static final String EXPECTED_FORMATTED_NAME9 = "Wolves";

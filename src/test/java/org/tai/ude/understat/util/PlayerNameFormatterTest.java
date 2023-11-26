@@ -8,15 +8,16 @@ import static org.tai.ude.understat.util.PlayerNameFormatter.formatName;
 public class PlayerNameFormatterTest {
 
     private static final String TEST_NAME1 = "Ahmed Hegazy";
-    private static final String EXPECTED_FORMATTED_NAME1 = "Ahmed Hegazi";
+    private static final String EXPECTED_FORMATTED_NAME1 = "Ahmed%20Hegazi";
 
     private static final String TEST_NAME2 = "Zanka";
-    private static final String EXPECTED_FORMATTED_NAME2 = "Mathias Jørgensen";
+    private static final String EXPECTED_FORMATTED_NAME2 = "Mathias%20Jørgensen";
 
     private static final String TEST_NAME3 = "Lewis O&#039;Brien";
-    private static final String EXPECTED_FORMATTED_NAME3 = "Lewis O'Brien";
+    private static final String EXPECTED_FORMATTED_NAME3 = "Lewis%20O%27Brien";
 
     private static final String TEST_NAME4 = "George Best";
+    private static final String EXPECTED_FORMATTED_NAME4 = "George%20Best";
 
     /* Basic tests to test functionality */
     @Test
@@ -36,6 +37,6 @@ public class PlayerNameFormatterTest {
 
     @Test
     public void givenValidNameNotInSwitchStatement_formatName_thenReturnSameName() {
-        assertEquals(TEST_NAME4, formatName(TEST_NAME4));
+        assertEquals(EXPECTED_FORMATTED_NAME4, formatName(TEST_NAME4));
     }
 }
