@@ -2,7 +2,6 @@ package org.tai.ude;
 
 import org.tai.ude.config.UnderstatConfig;
 import org.tai.ude.understat.UnderstatExtractor;
-import org.tai.ude.writers.FileWriter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -17,13 +16,11 @@ public class Main {
         final String mainUrl = config.getMainUrl();
         final String playerUrl = config.getPlayerUrl();
 
-        FileWriter fileWriter = new FileWriter(bucket);
-
         // TODO Add to config
         ArrayList<String> targetLeagues = new ArrayList<>(Arrays.asList("EPL", "La_liga", "Bundesliga", "Serie_A", "Ligue_1"));
 
         for (String league : targetLeagues) {
-            UnderstatExtractor understatExtractor = new UnderstatExtractor(season, mainUrl, playerUrl, fileWriter, league);
+            UnderstatExtractor understatExtractor = new UnderstatExtractor(season, mainUrl, playerUrl, league);
             understatExtractor.getTeamData();
             understatExtractor.getPlayerData();
         }

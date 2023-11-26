@@ -8,7 +8,7 @@ public class PlayerNameFormatter {
             name = "Thiago Alcantara";
         }
 
-        return switch (name) {
+        String formattedPlayerName = switch (name) {
             case "Ahmed Hegazy" -> "Ahmed Hegazi";
             case "Aleksandar Mitrovic" -> "Aleksandar Mitrović";
             case "Ãlex Moreno" -> "Álex Moreno";
@@ -70,5 +70,6 @@ public class PlayerNameFormatter {
             case "Zanka" -> "Mathias Jørgensen";
             default -> name;
         };
+        return formattedPlayerName.replaceAll(" ", "%20").replaceAll("'", "%27");
     }
 }

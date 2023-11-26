@@ -8,7 +8,10 @@ import org.tai.ude.understat.util.HexToJsonConverter;
 import org.tai.ude.understat.util.PlayerNameFormatter;
 import org.tai.ude.understat.util.TeamNameFormatter;
 import org.tai.ude.understat.util.WebScraper;
-import org.tai.ude.writers.FileWriter;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class UnderstatExtractor {
     private static final Logger LOGGER = LogManager.getLogger(UnderstatExtractor.class);
@@ -19,32 +22,42 @@ public class UnderstatExtractor {
     private final String season;
     private final String mainUrl;
     private final String playerUrl;
-    private final FileWriter fileWriter;
     private final String league;
+    private final String seasonLeagueUrl;
 
-    public UnderstatExtractor(String season, String mainUrl, String playerUrl, FileWriter fileWriter, String league) {
+    public UnderstatExtractor(String season, String mainUrl, String playerUrl, String league) {
         this.season = season;
         this.mainUrl = mainUrl;
         this.playerUrl = playerUrl;
-        this.fileWriter = fileWriter;
         this.league = league;
+        this.seasonLeagueUrl = String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4));
     }
 
     public void getTeamData() {
-        String targetElements = scrapeDataFromUrl(String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4)), TEAMS_DATA_VAR);
+        String targetElements = scrapeDataFromUrl(this.seasonLeagueUrl, TEAMS_DATA_VAR);
         JSONObject teamData = HexToJsonConverter.toJsonObject(targetElements);
         teamData.keySet().forEach(teamKey -> {
             JSONObject individualTeamData = teamData.getJSONObject(teamKey);
             String teamName = TeamNameFormatter.formatName(individualTeamData.getString("title"));
             JSONArray teamHistory = individualTeamData.getJSONArray("history");
             JSONArray xGColumnsToSnakecase = teamXGColumnsToSnakecase(teamHistory);
-            writeDataToFile(xGColumnsToSnakecase, String.format("teams/season=%s/league=%s/team=%s/team_data.csv", this.season, this.league, teamName));
-            LOGGER.info("Team data extraction from {} complete.", this.mainUrl);
+
+            String writeLocation = String.format("C:/sports-data-pipeline-dev/raw-ingress/understat/teams/season=%s/league=%s/team=%s", this.season, this.league, teamName);
+            createDirectory(writeLocation);
+
+            try (FileWriter file = new FileWriter(String.format("%s/team_data.json", writeLocation))) {
+                file.write(xGColumnsToSnakecase.toString());
+                file.flush();
+                file.close();
+                LOGGER.info("Team data extraction for {} from {} complete.", teamName, this.seasonLeagueUrl);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         });
     }
 
     public void getPlayerData() {
-        String targetElements = scrapeDataFromUrl(String.format("%s/%s/%s", this.mainUrl, this.league, this.season.substring(0, 4)), PLAYERS_DATA_VAR);
+        String targetElements = scrapeDataFromUrl(this.seasonLeagueUrl, PLAYERS_DATA_VAR);
         JSONArray playerData = HexToJsonConverter.toJsonArray(targetElements);
         for (int i = 0; i < playerData.length(); i++) {
             JSONObject playerInfo = playerData.getJSONObject(i);
@@ -55,8 +68,25 @@ public class UnderstatExtractor {
             JSONArray currentSeasonData = filterCurrentSeason(playerMatchData);
             JSONArray playerMatchDataWithName = addPlayerNameToJsonArray(currentSeasonData, playerName);
             JSONArray playerXGColumnsToSnakecase = playerXGColumnsToSnakecase(playerMatchDataWithName);
-            writeDataToFile(playerXGColumnsToSnakecase, String.format("players/season=%s/league=%s/%s.csv", this.season, this.league, playerName));
-            LOGGER.info("Player data extraction from {} complete.", this.mainUrl);
+
+            String writeLocation = String.format("C:/sports-data-pipeline-dev/raw-ingress/understat/players/season=%s/league=%s/name=%s", this.season, this.league, playerName);
+            createDirectory(writeLocation);
+
+            try (FileWriter file = new FileWriter(String.format("%s/player_data.json", writeLocation))) {
+                file.write(playerXGColumnsToSnakecase.toString());
+                file.flush();
+                file.close();
+                LOGGER.info("Player data extraction for {} from {} complete.", playerName, this.seasonLeagueUrl);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public void createDirectory(String writeLocation) {
+        File directory = new File(writeLocation);
+        if (!directory.exists()) {
+            directory.mkdirs();
         }
     }
 
@@ -170,9 +200,5 @@ public class UnderstatExtractor {
             }
         }
         return currentSeasonData;
-    }
-
-    private void writeDataToFile(JSONArray data, String filename) {
-        fileWriter.write(data, filename);
     }
 }
